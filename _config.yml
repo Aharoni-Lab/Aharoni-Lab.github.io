@@ -289,7 +289,7 @@ defaults:
       read_time: true
       comments: # true
       footer: true
-      share: true
+      share: false
       related: true
       toc: true
       toc_label: "My Table of Contents"
