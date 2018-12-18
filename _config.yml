@@ -3,3 +3,7 @@ plugins:
   - jekyll-include-cache
   
 remote_theme: "mmistakes/minimal-mistakes@4.14.1"
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
