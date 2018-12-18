@@ -292,8 +292,8 @@ defaults:
       comments: # true
       share: false
       related: true
-      toc: true
-      toc_label: "On This Page"
-      toc_icon: "cog"
+      # toc: true
+      # toc_label: "On This Page"
+      # toc_icon: "cog"
       sidebar:
         nav: "docs"
