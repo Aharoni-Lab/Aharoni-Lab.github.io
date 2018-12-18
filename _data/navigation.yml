@@ -7,6 +7,8 @@ main:
     url: /Projects/
   - title: "Publications"
     url: /Publications/
+  - title: "News"
+    url: /News/
   - title: "Jobs"
     url: /Jobs/
 
