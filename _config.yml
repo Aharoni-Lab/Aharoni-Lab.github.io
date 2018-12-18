@@ -276,8 +276,7 @@ compress_html:
   ignore:
     envs: development
 
-# Classes
-classes: wide
+
 
 # Defaults
 defaults:
@@ -286,6 +285,7 @@ defaults:
       path: ""
       type: pages
     values:
+      classes: wide
       layout: single
       author_profile: false
       read_time: true
