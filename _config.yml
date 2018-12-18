@@ -288,6 +288,7 @@ defaults:
       author_profile: false
       read_time: true
       comments: # true
+      footer: true
       share: true
       related: true
       toc: true
