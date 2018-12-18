@@ -5,7 +5,7 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 
 ---
-layout: default
+layout: single
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
