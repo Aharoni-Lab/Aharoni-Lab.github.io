@@ -288,11 +288,10 @@ defaults:
       author_profile: false
       read_time: true
       comments: # true
-      footer: true
       share: false
       related: true
       toc: true
-      toc_label: "My Table of Contents"
+      toc_label: "On This Page"
       toc_icon: "cog"
       sidebar:
         nav: "docs"
