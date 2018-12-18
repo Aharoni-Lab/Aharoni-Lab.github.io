@@ -279,13 +279,6 @@ compress_html:
 
 # Defaults
 defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
   # _pages
   - scope:
       path: ""
@@ -300,3 +293,5 @@ defaults:
       toc: true
       toc_label: "My Table of Contents"
       toc_icon: "cog"
+      sidebar:
+        nav: "docs"
