@@ -298,4 +298,9 @@ defaults:
       # sidebar:
         # nav: "docs"
       header:
-        image: /assets/images/Cells.jpg
+        # image: /assets/images/Cells.jpg
+      overlay_image: /assets/images/Cells.jpg
+      caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+      actions:
+        - label: "More Info"
+          url: "https://unsplash.com"
