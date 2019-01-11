@@ -297,10 +297,11 @@ defaults:
       # toc_icon: "cog"
       # sidebar:
         # nav: "docs"
+      excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
       header:
         # image: /assets/images/Cells.jpg
-      overlay_image: /assets/images/Cells.jpg
-      caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-      actions:
-        - label: "Join our team"
-          url: "https://aharoni-lab.github.io/join"
+        overlay_image: /assets/images/Cells.jpg
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+        actions:
+          - label: "Join our team"
+            url: "https://aharoni-lab.github.io/join"
