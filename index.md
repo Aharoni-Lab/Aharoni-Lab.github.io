@@ -1,2 +1,7 @@
-## Welcome to the Aharoni Lab1
+---
+title: "Welcome to the Aharoni Lab" 
+---
+
+
+The Aharoni Lab ...
 
