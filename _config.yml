@@ -302,4 +302,26 @@ defaults:
         # image: /assets/images/Cells.jpg
         overlay_image: /assets/images/CMOS_Render3.png
         overlay_filter: 0.3
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      classes: wide
+      layout: single
+      author_profile: false
+      # read_time: true
+      comments: # true
+      share: false
+      related: true
+      # toc: true
+      # toc_label: "On This Page"
+      # toc_icon: "cog"
+      # sidebar:
+        # nav: "docs"
+      # excerpt: "Research driven tool design."
+      header:
+        # image: /assets/images/Cells.jpg
+        overlay_image: /assets/images/CMOS_Render3.png
+        overlay_filter: 0.3
         
