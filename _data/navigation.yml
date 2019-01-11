@@ -9,7 +9,7 @@ main:
     url: /Publications/
   - title: "News"
     url: /News/
-  - title: "Join the Team"
+  - title: "Join"
     url: /Join/
 
 docs:
