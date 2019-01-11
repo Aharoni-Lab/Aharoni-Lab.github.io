@@ -297,7 +297,7 @@ defaults:
       # toc_icon: "cog"
       # sidebar:
         # nav: "docs"
-      excerpt: "Research driven tool design."
+      # excerpt: "Research driven tool design."
       header:
         # image: /assets/images/Cells.jpg
         overlay_image: /assets/images/CMOS_Render3.png
