@@ -301,7 +301,7 @@ defaults:
       header:
         # image: /assets/images/Cells.jpg
         overlay_image: /assets/images/CMOS_Render3.png
-        overlay_filter: 0.5
+        # overlay_filter: 0.5
         actions:
           - label: "Join our team"
             url: "https://Aharoni-Lab.github.io/Join"
