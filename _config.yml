@@ -300,7 +300,7 @@ defaults:
       excerpt: "Research driven tool design."
       header:
         # image: /assets/images/Cells.jpg
-        overlay_image: /assets/images/Cells.jpg
+        overlay_image: /assets/images/CMOS_Render3.png
         overlay_filter: 0.5
         actions:
           - label: "Join our team"
