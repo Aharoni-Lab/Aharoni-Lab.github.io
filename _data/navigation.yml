@@ -9,8 +9,8 @@ main:
     url: /Publications/
   - title: "News"
     url: /News/
-  - title: "Jobs"
-    url: /Jobs/
+  - title: "Join the Team"
+    url: /Join/
 
 docs:
   - title: Getting Started
