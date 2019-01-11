@@ -2,4 +2,15 @@
 title: "Lab Members"
 ---
 
-# Lab Members 2
+### Principle Investigator
+Daniel Aharoni, PhD
+Department of Neurology, UCLA
+
+### Postdoctoral Scholars
+
+### Graduate Students
+
+### Lab Technicians
+
+### Undergraduate Students
+
