@@ -2,5 +2,5 @@
 title: "Methods of the Year"
 ---
 
-## Imaging in behaving animals named methods of the year by Nature Methods.
+## Nature Methods named "Imaging in behaving animals" method of the year.
 
