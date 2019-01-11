@@ -297,3 +297,5 @@ defaults:
       # toc_icon: "cog"
       # sidebar:
         # nav: "docs"
+      header:
+        image: /assets/images/image-header.jpg
