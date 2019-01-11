@@ -302,5 +302,5 @@ defaults:
       overlay_image: /assets/images/Cells.jpg
       caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
       actions:
-        - label: "More Info"
-          url: "https://unsplash.com"
+        - label: "Join our team"
+          url: "https://aharoni-lab.github.io/join"
