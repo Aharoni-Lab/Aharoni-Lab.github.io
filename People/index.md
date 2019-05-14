@@ -6,7 +6,7 @@ title: "Lab Members"
 
 ![Daniel Aharoni](DAharoni.png)
 
-**Daniel Aharoni, PhD**. Department of Neurology, UCLA
+**Daniel Aharoni, PhD**. Assistant Professor, Department of Neurology, UCLA
 
 ## Postdoctoral Scholars
 
