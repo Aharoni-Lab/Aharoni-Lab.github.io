@@ -4,7 +4,7 @@ title: "Lab Members"
 
 ### Principle Investigator
 ![Daniel Aharoni](DAharoni.png)
-**Daniel Aharoni, PhD**
+**Daniel Aharoni, PhD**  
 Department of Neurology, UCLA
 
 ### Postdoctoral Scholars
