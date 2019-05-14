@@ -7,7 +7,7 @@ Aharoni, D.; Khakh, B. S.; Silva, A. J.; Golshani, P.; “All the light that we 
 [DIO: 10.1038/s41592-018-0266-x](https://doi.org/10.1038/s41592-018-0266-x)
 
 
-Skocek"*", O.; Nobauer"*", T.; Weilguny, L.; Traub, F. M.; Xia, C. N.; Molodtsov, M. I.; Grama, A.; Yamagata, M.; Aharoni, D.; Cox, D. D.; Golshani, P.; Vaziri, A.; “High-speed volumetric imaging of neuronal activity in freely moving rodent”, Nature Methods, May 2018
+Skocek\*, O.; Nobauer\*, T.; Weilguny, L.; Traub, F. M.; Xia, C. N.; Molodtsov, M. I.; Grama, A.; Yamagata, M.; Aharoni, D.; Cox, D. D.; Golshani, P.; Vaziri, A.; “High-speed volumetric imaging of neuronal activity in freely moving rodent”, Nature Methods, May 2018
 
 [DOI: 10.1038/s41592-018-0008-0](https://doi.org/10.1038/s41592-018-0008-0)
 
