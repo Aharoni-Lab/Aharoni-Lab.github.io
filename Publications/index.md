@@ -11,7 +11,7 @@ Skocek\*, O.; Nobauer\*, T.; Weilguny, L.; Traub, F. M.; Xia, C. N.; Molodtsov, 
 
 [DOI: 10.1038/s41592-018-0008-0](https://doi.org/10.1038/s41592-018-0008-0)
 
-Cai*, D. J.; Aharoni*, D.; Shuman*, T.; Shobe*, J.; Biane, J.; Song, W.; Wei, B.; Veshkini, M.; La-Vu, M.; Lou, J.; Flores, S. E.; Kim, I.; Sano, Y.; Zhou, M.; Baumgaertel, K.; Lavi, A.; Kamata, M.; Tuszynski, M.; Mayford, M.; Golshani, P.; Silva, A. J.; “A shared neural ensemble links distinct contextual memories encoded close in time”, Nature, Volume 534, Issue 7605, May 2016
+Cai\*, D. J.; Aharoni\*, D.; Shuman\*, T.; Shobe\*, J.; Biane, J.; Song, W.; Wei, B.; Veshkini, M.; La-Vu, M.; Lou, J.; Flores, S. E.; Kim, I.; Sano, Y.; Zhou, M.; Baumgaertel, K.; Lavi, A.; Kamata, M.; Tuszynski, M.; Mayford, M.; Golshani, P.; Silva, A. J.; “A shared neural ensemble links distinct contextual memories encoded close in time”, Nature, Volume 534, Issue 7605, May 2016
 
 [DOI: 10.1038/nature17955](https://doi.org/10.1038/nature17955)
 
@@ -19,11 +19,11 @@ Shtrhman, M.; Aharoni, D.; Hardy, N. F.; Buonomano, D. V.; Arisaka, K.; Otis, T.
 
 [DOI: 10.1016/j.bpj.2014.12.005](https://doi.org/10.1016/j.bpj.2014.12.005)
 
-Cushman*, J. D.; Aharoni*, D.; Willers, B.; Ravassard, P.; Kees, A.; Vuong, B.; Arisaka, K.; Mehta, M. R.; “Multisensory control of multimodal behavior”, PLoS ONE, Volume 8, Issue 11, June 2013
+Cushman\*, J. D.; Aharoni\*, D.; Willers, B.; Ravassard, P.; Kees, A.; Vuong, B.; Arisaka, K.; Mehta, M. R.; “Multisensory control of multimodal behavior”, PLoS ONE, Volume 8, Issue 11, June 2013
 
 [DOI: 10.1371/journal.pone.0080465](https://doi.org/10.1371/journal.pone.0080465)
 
-Ravassard*, P.; Willers*, B.; Kees*, A.; Ho, D.; Aharoni, D.; Cushamn, J. D.; Mehta, M. R.; “Multisensory Control of Hippocampal Spatiotemporal Selectivity”, Science, Volume 240, Issue 6138, May 2013
+Ravassard\*, P.; Willers\*, B.; Kees\*, A.; Ho, D.; Aharoni, D.; Cushamn, J. D.; Mehta, M. R.; “Multisensory Control of Hippocampal Spatiotemporal Selectivity”, Science, Volume 240, Issue 6138, May 2013
 
 [DOI: 10.1126/science.1232655](https://doi.org/10.1126/science.1232655)
 
@@ -34,6 +34,6 @@ Michalet, X.; Colyer, R. A.; Scalia, G.; Ingargiola, A.; Lin, R.; Millaud, J. E.
 
 **Research Papers in Preparation**
 
-Shuman*, T.; Aharoni*, D; Cai*, D. J., Lee, C.; Chavlis, S.; Taxidis, J.; Flores, S.; Lou, J.; Cheng, K.; Javaherian, M.; Kaba, C.; Bakhurin, K.; Masmanidis, S.; Khakh, B.; Poirazi, P.; Silva, A. J.; Golshani, P.; “Breakdown of spatial coding and neural synchronization in epilepsy” 
+Shuman\*, T.; Aharoni\*, D; Cai\*, D. J., Lee, C.; Chavlis, S.; Taxidis, J.; Flores, S.; Lou, J.; Cheng, K.; Javaherian, M.; Kaba, C.; Bakhurin, K.; Masmanidis, S.; Khakh, B.; Poirazi, P.; Silva, A. J.; Golshani, P.; “Breakdown of spatial coding and neural synchronization in epilepsy” 
 
 [DOI: 10.1101/358580](https://doi.org/10.1101/358580)
