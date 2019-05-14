@@ -3,12 +3,8 @@ main:
     url: /People/
   - title: "Research"
     url: /Research/
-  - title: "Projects"
-    url: /Projects/
   - title: "Publications"
     url: /Publications/
-  - title: "News"
-    url: /News/
   - title: "Join"
     url: /Join/
 
