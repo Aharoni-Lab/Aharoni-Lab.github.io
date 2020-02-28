@@ -1,3 +1,7 @@
+Shuman\*, T.; Aharoni\*, D; Cai\*, D. J., Lee, C.; Chavlis, S.; Taxidis, J.; Flores, S.; Lou, J.; Cheng, K.; Javaherian, M.; Kaba, C.; Bakhurin, K.; Masmanidis, S.; Khakh, B.; Poirazi, P.; Silva, A. J.; Golshani, P.;"Breakdown of spatial coding and interneuron synchronization in epileptic mice", Nature Neuroscience, January 2020
+
+[DOI: 10.1038/s41593-019-0559-0](https://www.nature.com/articles/s41593-019-0559-0)
+
 Aharoni, D.; Hoogland, T.; “Circuit investigation with open-source miniaturized microscopes: past, present and future”, Frontiers in Cellular Neuroscience, March 2019
 
 [DIO: 10.3389/fncel.2019.00141](https://doi.org/10.3389/fncel.2019.00141)
