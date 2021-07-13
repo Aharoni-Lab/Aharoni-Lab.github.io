@@ -19,4 +19,5 @@ Check out our work and stay up to date at:
 * [Aharoni-Lab Twitter](https://twitter.com/DanielBAharoni)
 * [Aharoni-Lab Github](https://github.com/Aharoni-Lab)
 * [Miniscope Github Wiki](https://github.com/Aharoni-Lab/Miniscope-v4/wiki)
-* [Miniscope.org](miniscope.org)
+* [Miniscope Google Group](https://groups.google.com/g/miniscope)
+* [Miniscope.org](http://miniscope.org/index.php/Main_Page)
