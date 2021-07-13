@@ -15,3 +15,8 @@ Our research lies at the intersection of engineering, neuroscience, and physics.
 Our work is motivated by two goals: (i) to contribute to the growing trend of democratizing access to transformative tools in neuroscience, and (ii) to bridge the gap between specialized tool design and the intricacies of modern neuroscience. Specifically, the lab's research program focuses on expanding optical, electrical, and behavioral techniques through the development of novel, yet accessible, tools that generate quantitatively and qualitatively new types of data.
 
 
+Check out our work and stay up to date at:
+* [Aharoni-Lab Twitter](https://twitter.com/DanielBAharoni)
+* [Aharoni-Lab Github](https://github.com/Aharoni-Lab)
+* [Miniscope Github Wiki](https://github.com/Aharoni-Lab/Miniscope-v4/wiki)
+* [Miniscope.org](miniscope.org)
