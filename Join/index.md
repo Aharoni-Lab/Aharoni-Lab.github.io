@@ -38,6 +38,7 @@ While not a prerequisite, previous experience in some or all of the following ar
 
 * Other:
   * Real-time processing
+  * Open-source development, documentation, dissemination
   * Working with very large data
   * Database and networking
   * Effective communication
