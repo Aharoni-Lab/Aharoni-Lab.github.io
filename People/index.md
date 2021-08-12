@@ -4,9 +4,7 @@ title: "Lab Members"
 
 ## Principle Investigator
 
-<p align="left">
-  <img width="200" src="https://github.com/Aharoni-Lab/Aharoni-Lab.github.io/blob/master/People/DAharoni.jpg">
-</p>
+![image](/People/DAharoni.jpg)
 
 **Daniel Aharoni, PhD**. Assistant Professor, Department of Neurology, UCLA
 
