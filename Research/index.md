@@ -26,7 +26,7 @@ knowledge, at least in part, is due to a lack of accessible tools for simultaneo
 large-scale neural circuits with single cell precision in freely behaving animals. This project will fill this gap by 
 developing open-source, head-mounted miniature microscopes with spatiotemporal illumination capabilities for 
 both patterned photo-stimulation and improved neural imaging in freely behaving animals. To maximize the impact of our efforts, all tools and 
-technologies developed for this proposal will be open-source and shared widely with the scientific community 
+technologies developed for this project will be open-source and shared widely with the scientific community 
 through online resources and technical workshops.
 
 ### Additional new generations of minature microscopes
