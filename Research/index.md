@@ -25,17 +25,7 @@ much to learn concerning complex neural function, especially within the context 
 knowledge, at least in part, is due to a lack of accessible tools for simultaneously modulating and observing 
 large-scale neural circuits with single cell precision in freely behaving animals. This project will fill this gap by 
 developing open-source, head-mounted miniature microscopes with spatiotemporal illumination capabilities for 
-both patterned photo-stimulation and improved neural imaging in freely behaving animals.
-
-We will develop a modular control and acquisition platform for native integration of neural and behavioral equipment to facilitate 
-neural-behavioral experiments. Finally, this platform will be driven by a novel, automated, closed-loop 
-processing framework for detecting, decoding, and manipulating neural and behavioral dynamics in real-time. 
-The goal of this platform is to 1) significantly extend and improve upon current freely behaving neural imaging 
-and modulation techniques and 2) provide an integrated framework for observing, controlling, and manipulating 
-neural dynamics within the context of behavior. This approach has the potential to simultaneously “read” from 
-and “write” into, potentially, any area of the brain, enabling fine-grained investigation of the causal role between 
-neural activity and behavior. Our development will be guided by concurrent benchtop and in vivo testing at 
-every stage of the development and optimization process. To maximize the impact of our efforts, all tools and 
+both patterned photo-stimulation and improved neural imaging in freely behaving animals. To maximize the impact of our efforts, all tools and 
 technologies developed for this proposal will be open-source and shared widely with the scientific community 
 through online resources and technical workshops.
 
