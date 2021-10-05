@@ -37,3 +37,10 @@ Additional tools under development are:
 
 ### NSF NeuroNex Hub
 Supported by our NSF NeuroNex Technology Hub, we are developing new Miniscopes that integrate electrophysiology recording in parallel with imaging. We currently are able to recording 32 electrode channels (with Tetrodes and/or Silicon probes) in conjunction with calcium imaging and are working on systems capable of reaching upwards of 192 electrode channels. As part of this project we are also designing a module capable of light-field microscopy and hardware for real-time processing of imaging data to drive optogenetic, electrical, and behavioral feedback.
+
+
+<p float="center">
+  <img src="New Innovator Logo.PNG" width="200" />
+  <img src="nih-brain.png" width="200" /> 
+  <img src="open_science_prize.png" width="200" />
+</p>
