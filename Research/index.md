@@ -40,8 +40,8 @@ Supported by our NSF NeuroNex Technology Hub, we are developing new Miniscopes t
 
 
 <p float="center">
-  <img src="New Innovator Logo.PNG" width="250" />
-  <img src="nih-brain.png" width="250" /> 
-  <img src="neuronex-logo-bright-green.png" width="250" />
-  <img src="open_science_prize.png" width="250" />
+  <img src="New Innovator Logo.PNG" width="200" />
+  <img src="nih-brain.png" width="200" /> 
+  <img src="neuronex-logo-bright-green.png" width="200" />
+  <img src="open_science_prize.png" width="200" />
 </p>
