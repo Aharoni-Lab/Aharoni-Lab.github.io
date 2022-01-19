@@ -1,3 +1,7 @@
+Guo\*, C.; Blair\*, G. J.; Sehgal, M.; Sangiuliano Jimka, F. N.; Bellafard, A.; Silva, A. J.; Golshani, P.; Basso, M. A.; Blair, H. T.; Aharoni, D.; **"Miniscope-LFOV: A large field of view, single cell resolution, miniature microscope for wired and wire-free imaging of neural dynamics in freely behaving animals"**, [Preprint] bioRxiv, November 2021
+
+[DOI: 10.1101/2021.11.21.469394](https://doi.org/10.1101/2021.11.21.469394)
+
 Gabriel C. J.; Zeidler, Z.; Jin, B.; Guo, C.; Wu, A.; Aharoni, D.; Wilke, S. A.; DeNardo, L. A.; **"BehaviorDEPOT: a tool for automated behavior classification and analysis in rodents"**, [Preprint] bioRxiv, June 2021
 
 [DOI: 10.1101/2021.06.20.449150](https://doi.org/10.1101/2021.06.20.449150)
