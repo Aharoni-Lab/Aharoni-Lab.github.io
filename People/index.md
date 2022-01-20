@@ -16,7 +16,11 @@ title: "Lab Members"
 
 **Raymond Chang**. Department of Physics and Astromony, UCLA
 
-**Josh Adams**. Department of Physics and Astromony, UCLA
+**Hamid Chorsi**. Electrical and Computer Engineering, UCLA
+
+**Hongseok Lee**. Electrical and Computer Engineering, UCLA
+
+**Hemal Semwal**. 
 
 ## Lab Technicians/Researchers
 
