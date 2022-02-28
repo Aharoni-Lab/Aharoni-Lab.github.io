@@ -23,7 +23,7 @@ email:
 email:hchorsi@ucla.edu
 
 **Hongseok Lee**. Electrical and Computer Engineering, UCLA
-email:
+email:hslee.paul@g.ucla.edu
 
 **Hemal Semwal**. 
 email:
