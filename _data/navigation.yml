@@ -5,6 +5,8 @@ main:
     url: /Research/
   - title: "Publications"
     url: /Publications/
+  - title: "Philosophy"
+    url: /Philosophy/
   - title: "Join"
     url: /Join/
 
