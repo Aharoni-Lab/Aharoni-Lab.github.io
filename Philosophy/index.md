@@ -19,6 +19,9 @@ My goal is to help guide each lab member towards research pursuits that specific
 ## Work-Life balance
 Nobody is effective when they’re unhappy, and lab members should take the time they need to stay healthy. It doesn’t matter how much time is spent at work; the most important thing is that good science gets done. I myself often work at odd times of the day (and night), as that’s often when I have the most free time. If I write emails or messages at odd hours, that in no way should be viewed as a precedence for expectations in lab culture, and I don’t expect a response until the next period of normal work hours.
 
+## Mentorship
+I will do my best to make sure you will be provided with an excellent opportunity for mentorship during your time in the lab. However, you must also be proactive in establishing this mentorship relationship. If you are anxious about your academic performance, stressed about balancing work and life, are unsure about planning your future or have financial concerns (just a few examples), we can talk to you about it and perhaps point you to resources on campus that may be helpful.
+
 ### Links to other lab compacts which inspired our own
 [Fraser Lab](https://fraserlab.com/compact/)
 
