@@ -35,3 +35,7 @@ hchorsi@ucla.edu
 **Hemal Semwal**. Neural Engineering, UCLA
 
 
+## Previous Lab Members
+
+**Changliang Guo**. Former Postdoctoral Researcher, UCLA
+
