@@ -1,14 +1,22 @@
-Guo\*, C.; Blair\*, G. J.; Sehgal, M.; Sangiuliano Jimka, F. N.; Bellafard, A.; Silva, A. J.; Golshani, P.; Basso, M. A.; Blair, H. T.; Aharoni, D.; **"Miniscope-LFOV: A large field of view, single cell resolution, miniature microscope for wired and wire-free imaging of neural dynamics in freely behaving animals"**, [Preprint] bioRxiv, November 2021
+Blair, G. J.; Guo, C.; Wang, S.; Fanselow, M. S.; Golshani, P.; Aharoni, D.; **"Hippocampal place cell remapping occurs with memory storage of aversive experiences"**, eLife, July 2023
 
-[DOI: 10.1101/2021.11.21.469394](https://doi.org/10.1101/2021.11.21.469394)
+[DOI: 10.7554/eLife.80661](https://doi.org/10.7554/eLife.80661)
 
-Gabriel C. J.; Zeidler, Z.; Jin, B.; Guo, C.; Wu, A.; Aharoni, D.; Wilke, S. A.; DeNardo, L. A.; **"BehaviorDEPOT: a tool for automated behavior classification and analysis in rodents"**, [Preprint] bioRxiv, June 2021
+Guo\*, C.; Blair\*, G. J.; Sehgal, M.; Sangiuliano Jimka, F. N.; Bellafard, A.; Silva, A. J.; Golshani, P.; Basso, M. A.; Blair, H. T.; Aharoni, D.; **"Miniscope-LFOV: A large field of view, single cell resolution, miniature microscope for wired and wire-free imaging of neural dynamics in freely behaving animals"**, Science Advances, April 2023
 
-[DOI: 10.1101/2021.06.20.449150](https://doi.org/10.1101/2021.06.20.449150)
+[DOI: 10.1126/sciadv.adg3918](https://doi.org/10.1126/sciadv.adg3918)
 
-Dong, Z.; Mau, W.; Feng, Y.; Pennington, Z. T.; Chen, L.; Zaki, Y.; Rajan, K.; Shuman, T.; Aharoni\*, D.; Cai\*, D. J.; **"Minian: An open-source miniscope analysis pipeline"**, [Preprint] bioRxiv, May 2021
+Chen, Z.; Blair, G. J.; Guo, C.; Zhou, J.; Romero-Sosa, J.; Izquierdo, A.; Golshani, P.; Cong, J.; Aharoni, D.; Blair, H. T.; **"A hardware system for real-time decoding of in vivo calcium imaging data"**, eLife, January 2023
 
-[DOI: 10.1101/2021.05.03.442492](https://doi.org/10.1101/2021.05.03.442492)
+[DOI: 10.7554/eLife.78344](https://doi.org/10.7554/eLife.78344)
+
+Gabriel C. J.; Zeidler, Z.; Jin, B.; Guo, C.; Wu, A.; Aharoni, D.; Wilke, S. A.; DeNardo, L. A.; **"BehaviorDEPOT: a tool for automated behavior classification and analysis in rodents"**, eLife, August 2022
+
+[DOI: 10.7554/eLife.74314](https://doi.org/10.7554/eLife.74314)
+
+Dong, Z.; Mau, W.; Feng, Y.; Pennington, Z. T.; Chen, L.; Zaki, Y.; Rajan, K.; Shuman, T.; Aharoni\*, D.; Cai\*, D. J.; **"Minian: An open-source miniscope analysis pipeline"**, eLife, June 2022
+
+[DOI: 10.7554/eLife.70661](https://doi.org/10.7554/eLife.70661)
 
 Juneau, j.; Duret, G.; Chu, J. P.; Rodriguez, A. V.; Morozov, S.; Aharoni, D.; Robinson, J. T.; St-Pierre, F.; Kemere, C; **"MiniFAST: A sensitive and fast miniaturized microscope for in vivo neural recording"**, [Preprint] bioRxiv, November 2020
 
