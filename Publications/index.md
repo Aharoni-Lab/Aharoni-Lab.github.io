@@ -2,6 +2,10 @@ Blair, G. J.; Guo, C.; Wang, S.; Fanselow, M. S.; Golshani, P.; Aharoni, D.; **"
 
 [DOI: 10.7554/eLife.80661](https://doi.org/10.7554/eLife.80661)
 
+Hur, S. W.; Safaryan, K.; Yang, L.; Blair, H. T.; Masmanidis, S. C.; Mathews, P. J.; Aharoni, D.; Golshani, P.; **"Correlated signatures of social behavior in cerebellum and anterior cingulate cortex"**, bioRxiv [Preprint], April 2023
+
+[DOI: 10.1101/2023.04.05.535750](https://doi.org/10.1101/2023.04.05.535750)
+
 Guo\*, C.; Blair\*, G. J.; Sehgal, M.; Sangiuliano Jimka, F. N.; Bellafard, A.; Silva, A. J.; Golshani, P.; Basso, M. A.; Blair, H. T.; Aharoni, D.; **"Miniscope-LFOV: A large field of view, single cell resolution, miniature microscope for wired and wire-free imaging of neural dynamics in freely behaving animals"**, Science Advances, April 2023
 
 [DOI: 10.1126/sciadv.adg3918](https://doi.org/10.1126/sciadv.adg3918)
