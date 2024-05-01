@@ -18,32 +18,32 @@ DAharoni@mednet.ucla.edu
 ## Postdocs
 
 **Marcel Brosch**. Department of Neurology, UCLA
+mbrosch@mednet.ucla.edu
 
 **Jonny Saunders**. Department of Neurology, UCLA
-
-**Takuya Sasatani**. Department of Neurology, UCLA
+jonathansaunders@mednet.ucla.edu
 
 **Phil Dong**. Department of Neurology, UCLA
+zdong@mednet.ucla.edu
+
+**Abasalt Bahrami**. Department of Neurology, UCLA
+abasaltbahrami@mednet.ucla.edu
 
 ## Graduate Students
-
-<img src="/People/KarinaAharoni.jpg" width="200" height="200"> <img src="/People/YangAharoni2.jpg" width="200" height="200"> <img src="/People/AparajeetaAharoni2.jpg" width="200" height="200">  
-
-**Karina Keus**. Interdepartmental Program for Neuroscience, UCLA kkeus@ucla.edu
 
 **Yang Liu**. Electrical and Computer Engineering, UCLA
 jgrasp20@ucla.edu
 
-**Aparajeeta Guha**. Electrical and Computer Engineering, UCLA
-aparajeetarka07@ucla.edu
-
 **Hamid Chorsi**. Electrical and Computer Engineering, UCLA
 hchorsi@ucla.edu
 
-**Hemal Semwal**. Neural Engineering, UCLA
+**Hemal Semwal**. Bioengineering, UCLA
 
+**Raymond Chang**. Physics and Astronomy, UCLA
 
 ## Previous Lab Members
 
 **Changliang Guo**. Former Postdoctoral Researcher, UCLA
+
+**Takuya Sasatani**. Former Postdoctoral Researchery, UCLA
 
