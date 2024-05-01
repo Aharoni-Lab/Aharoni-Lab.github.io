@@ -38,8 +38,10 @@ jgrasp20@ucla.edu
 hchorsi@ucla.edu
 
 **Hemal Semwal**. Bioengineering, UCLA
+semwal@ucla.edu
 
 **Raymond Chang**. Physics and Astronomy, UCLA
+raymond.w.jahn@physics.ucla.edu
 
 ## Previous Lab Members
 
