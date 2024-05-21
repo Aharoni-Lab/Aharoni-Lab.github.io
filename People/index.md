@@ -43,7 +43,7 @@ hchorsi@ucla.edu
 semwal@ucla.edu
 
 **Raymond Chang**. Physics and Astronomy, UCLA
-raymond.w.jahn@physics.ucla.edu
+ray0815@ucla.edu
 
 ## Previous Lab Members
 
