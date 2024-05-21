@@ -23,6 +23,8 @@ mbrosch@mednet.ucla.edu
 **Jonny Saunders**. Department of Neurology, UCLA
 jonathansaunders@mednet.ucla.edu
 
+<img src="phild.JPG" width="200">
+
 **Phil Dong**. Department of Neurology, UCLA
 zdong@mednet.ucla.edu
 
