@@ -1,0 +1,34 @@
+abasalt:
+  name: Abasalt Bahrami
+  department: Department of Neurology, UCLA
+  email: abasaltbahrami@mednet.ucla.edu
+
+federico:
+  name: Federico Sangiuliano Jimka
+  department: Department of Neurology, UCLA
+
+jonny:
+  name: Jonny Saunders
+  department: Department of Neurology, UCLA
+  email: jommy@ucla.edu
+  image: jonny.jpg
+  links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0003-0545-5066
+    - icon: fa-solid fa-house
+      link: https://jon-e.net
+    - icon: fa-brands fa-github
+      link: https://github.com/sneakers-the-rat
+    - icon: fa-brands fa-mastodon
+      link: https://neuromatch.social/@jonny
+
+marcel:
+  name: Marcel Brosch
+  department: Department of Neurology, UCLA
+  email: mbrosch@mednet.ucla.edu
+
+phil:
+  name: Phil Dong
+  department: Department of Neurology, UCLA
+  email: zdong@mednet.ucla.edu
+  image: phild.jpg

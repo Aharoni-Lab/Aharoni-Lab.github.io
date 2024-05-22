@@ -1,0 +1,24 @@
+{% assign person = site.data.people[{{include.name}}] %}
+
+<div class="person" id="{{include.name}}">
+
+	<div class="details">
+		<h3 class="name">{{ person.name }}</h3>
+		<p class="department">{{ person.department }}</p>
+		{% if person.email %}
+		<a class="email" href="mailto:{{ person.email }}">{{person.email}}</a>
+		{% endif %}
+		{% if person.links %}
+		<div class="links">
+		{% for link in person.links %}
+		<a href="{{link.link}}" class="link-icon">
+			<i class="{{link.icon}}"></i>
+		</a>
+		{% endfor %}
+		</div>
+		{% endif %}
+	</div>
+	{% if person.image %}
+	<img class="portrait" src="{{ person.image }}"/>
+	{% endif %}
+</div>

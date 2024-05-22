@@ -13,23 +13,17 @@ DAharoni@mednet.ucla.edu
 
 ## Staff Researchers
 
-**Federico Sangiuliano Jimka**. Department of Neurology, UCLA
+{% include person.html name='federico' %}
 
 ## Postdocs
 
-**Marcel Brosch**. Department of Neurology, UCLA
-mbrosch@mednet.ucla.edu
+{% include person.html name='marcel' %}
 
-**Jonny Saunders**. Department of Neurology, UCLA
-jonathansaunders@mednet.ucla.edu
+{% include person.html name='jonny' %}
 
-<img src="phild.JPG" width="200">
+{% include person.html name='phil' %}
 
-**Phil Dong**. Department of Neurology, UCLA
-zdong@mednet.ucla.edu
-
-**Abasalt Bahrami**. Department of Neurology, UCLA
-abasaltbahrami@mednet.ucla.edu
+{% include person.html name='abasalt' %}
 
 ## Graduate Students
 
