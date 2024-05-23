@@ -31,4 +31,32 @@ phil:
   name: Phil Dong
   department: Department of Neurology, UCLA
   email: zdong@mednet.ucla.edu
-  image: phild.jpg
+  image: phild.JPG
+
+yang:
+  name: Yang Liu
+  department: Electrical and Computer Engineering, UCLA
+  email: jgrasp20@ucla.edu
+
+hamid:
+  name: Hamid Chorsi
+  department: Electrical and Computer Engineering, UCLA
+  email: hchorsi@ucla.edu
+
+hemal:
+  name: Hemal Semwal
+  department: Bioengineering, UCLA
+  email: semwal@ucla.edu
+
+raymond:
+  name: Raymond Chang
+  department: Physics and Astronomy, UCLA
+  email: ray0815@ucla.edu
+  image: raymond_chang.jpg
+  links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0001-6644-5166
+    - icon: fa-brands fa-github
+      link: https://github.com/RaymondWJang
+    - icon: fa-brands fa-mastodon
+      link: https://neuromatch.social/@raymondwjang
