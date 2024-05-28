@@ -30,6 +30,8 @@ marcel:
   links:
     - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/marcel-brosch
+    - icon: fa-brands fa-google-scholar
+      link: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Marcel+Brosch&btnG=
 
 phil:
   name: Phil Dong
