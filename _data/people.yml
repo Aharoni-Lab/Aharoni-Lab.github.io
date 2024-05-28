@@ -25,8 +25,11 @@ jonny:
 marcel:
   name: Marcel Brosch
   department: Department of Neurology, UCLA
-  email: marcelbrosch.mb@gmail.com
+  email: MBrosch@mednet.ucla.edu
   image: Marcel.JPG
+  links:
+    - icon: fa-brands fa-linkedin
+      link: https://www.linkedin.com/in/marcel-brosch
 
 phil:
   name: Phil Dong
