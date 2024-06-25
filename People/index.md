@@ -46,5 +46,5 @@ ray0815@ucla.edu
 
 **Changliang Guo**. Former Postdoctoral Researcher, UCLA
 
-**Takuya Sasatani**. Former Postdoctoral Researchery, UCLA
+{% include person.html name='takuya' %}
 
