@@ -45,7 +45,7 @@ takuya:
   image: takuya.jpg
   links:
     - icon: fa-solid fa-house
-      link: https://https://www.takuyasasatani.com/
+      link: https://www.takuyasasatani.com/
     - icon: fa-brands fa-orcid
       link: https://orcid.org/0000-0003-2268-6106
     - icon: fa-brands fa-github
