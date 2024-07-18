@@ -14,10 +14,10 @@
   <input type="text" name="search" placeholder="Search" class="quicksearch" aria-label="Search">
 </div>
 <div class="button-box" data-filter-group="category">
-	{% for category in categories %}
-	<button class="category-button" data-filter="{{ category | slugify }}">{{ category }}
-	</button>
-	{% endfor %}
+  {% for category in categories %}
+  <button class="category-button" data-filter="{{ category | slugify }}">{{ category }}
+  </button>
+  {% endfor %}
 
 </div>
 </div>
