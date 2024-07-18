@@ -1,0 +1,47 @@
+{% assign categories="" | split: "," %}
+{% for tag in paper.tags %}
+{% if tag.type != 1 %}
+{% assign categories=categories | push: tag.tag %}
+{% endif %}
+{% endfor %}
+{% assign paper=include.paper %}
+<div class="paper" data-filter="{{ categories | join: ', '}}">
+	<h3>{{paper.title }}</h3>
+
+	<div class="authors">
+		{% for author in paper.creators %}
+		<span class="author">{{ author.firstName }} {{ author.lastName }}</span>{% if forloop.last %}{% else %},{% endif %} 
+		{% endfor %}
+	</div>
+	<div class="details">
+		{% if paper.date %}
+			<span class="detail date">{{ paper.date }}</span>
+		{% endif %}
+		{% if paper.publicationTitle %}
+			<span class="detail venue"> {{ paper.publicationTitle }}</span>
+		{% elsif paper.repository %}
+			<span class="detail venue"> {{paper.repository}}</span>
+		{% endif %}
+		{% if paper.DOI %}
+			<span class="detail doi">DOI: <a href="https://dx.doi.org/{{ paper.DOI }}">{{ paper.DOI }}</a></span>
+		{% elsif paper.url %}
+			<span class="detail url">URL: <a href="{{ paper.url }}">{{paper.url}}</a></span>
+
+		{% endif %}
+	</div>
+	<div class="tags">
+		{% for tag in paper.tags %}
+		{% if tag.type != 1 %}
+		<button class="category-button small" data-filter="{{ tag.tag | slugify }}">{{ tag.tag }}
+		</button>
+		{% endif %}
+		{% endfor %}
+	</div>
+	{% if paper.abstractNote != "" %}
+	<div class="abstract">
+		<input id="collapsible-{{ paper.title | slugify }}" class="toggle" type="checkbox">
+		<p class="abstract-text">{{ paper.abstractNote }}</p>
+		<label for="collapsible-{{ paper.title | slugify }}" class="toggle-label">Toggle Abstract</label>
+	</div>
+	{% endif %}
+</div>

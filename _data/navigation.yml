@@ -7,6 +7,8 @@ main:
     url: /Publications/
   - title: "Philosophy"
     url: /Philosophy/
+  - title: "Impact"
+    url: /Impact/
   - title: "Join"
     url: /Join/
 

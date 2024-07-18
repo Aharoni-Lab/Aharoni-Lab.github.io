@@ -1,3 +1,8 @@
+---
+title: "Publications"
+---
+
+
 Blair, G. J.; Guo, C.; Wang, S.; Fanselow, M. S.; Golshani, P.; Aharoni, D.; **"Hippocampal place cell remapping occurs with memory storage of aversive experiences"**, eLife, July 2023
 
 [DOI: 10.7554/eLife.80661](https://doi.org/10.7554/eLife.80661)

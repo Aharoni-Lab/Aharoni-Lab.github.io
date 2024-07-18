@@ -1,0 +1,33 @@
+<!-- get categories -->
+{% assign categories="" | split: "," %}
+{% for paper in include.papers %}
+{% for tag in paper.tags %}
+{% if tag.type != 1 %}
+{% assign categories=categories | push: tag.tag %}
+{% endif %}
+{% endfor %}
+{% endfor %}
+{% assign categories=categories | uniq | sort %}
+
+<div class="filter-box">
+<div class="search" role="search">
+  <input type="text" name="search" placeholder="Search" class="quicksearch" aria-label="Search">
+</div>
+<div class="button-box" data-filter-group="category">
+	{% for category in categories %}
+	<button class="category-button" data-filter="{{ category | slugify }}">{{ category }}
+	</button>
+	{% endfor %}
+
+</div>
+</div>
+
+---
+
+<div class="paper-list">
+{% for paper in include.papers %}
+{% include paper.html paper=paper %}
+{% endfor %}
+</div>
+
+<script src="{{ "/assets/js/paper_list.js" | relative_url }}">
