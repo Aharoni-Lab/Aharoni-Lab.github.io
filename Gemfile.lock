@@ -177,7 +177,7 @@ DEPENDENCIES
   jekyll (~> 4.3)
   jemoji (~> 0.13.0)
   minimal-mistakes-jekyll (~> 4.26)
-  rexml (~> 3.3.2)
+  rexml (>= 3.3.2)
 
 BUNDLED WITH
    2.5.15
