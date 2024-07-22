@@ -46,15 +46,10 @@ jobs:
             echo "${NEXT_LINK}"
             curl "${NEXT_LINK}" -D headers.txt -H "Authorization: Bearer ${{ secrets.ZOTERO_READONLY }}" > tmp_items_${i}.json
             ((i++))
-            echo "after increment"
-            cat headers.txt
             NEXT_LINK=$(grep -P '(?<=<)\S*?(?=>; rel="next")' headers.txt --only-matching)
-            echo "After first loop"
-            echo "${NEXT_LINK}"
           done
           echo "Combining items"
           jq -s '[.[][].data] | sort_by(.date) | reverse' tmp_items_*.json > items.json
-          cat items.json
       - name: Make Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
