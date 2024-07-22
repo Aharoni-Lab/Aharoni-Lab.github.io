@@ -34,6 +34,9 @@ jobs:
         run: sudo apt-get install jq
       - name: Do update
         run: |
+          # disable exit on nonzero exit code - when we no longer have a next link, grep returns 1
+          set +e
+
           curl https://api.zotero.org/groups/${{ env.ORG_KEY }}/collections/${{ env.COLLECTION_KEY }}/items/top\?limit\=100 -D headers.txt -H "Authorization: Bearer ${{ secrets.ZOTERO_READONLY }}" > tmp_items_0.json
           grep last-modified-version headers.txt | cut -d" " -f2 > last_modified_version
 
