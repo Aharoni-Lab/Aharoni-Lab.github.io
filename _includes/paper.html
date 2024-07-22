@@ -1,7 +1,8 @@
 {% assign categories="" | split: "," %}
 {% for tag in paper.tags %}
 {% if tag.type != 1 %}
-{% assign categories=categories | push: tag.tag %}
+{% assign tag_slugified=tag.tag | slugify %}
+{% assign categories=categories | push: tag_slugified %}
 {% endif %}
 {% endfor %}
 {% assign paper=include.paper %}
