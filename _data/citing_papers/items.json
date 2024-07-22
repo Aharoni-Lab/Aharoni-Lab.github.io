@@ -2765,7 +2765,7 @@
   },
   {
     "key": "QT9BT4YS",
-    "version": 1510,
+    "version": 1879,
     "itemType": "journalArticle",
     "title": "MiniMounter: A low-cost miniaturized microscopy development toolkit for image quality control and enhancement",
     "creators": [
@@ -2829,10 +2829,10 @@
     "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jbio.202300214",
     "tags": [
       {
-        "tag": "Technology"
+        "tag": "Miniscope V3"
       },
       {
-        "tag": "V3"
+        "tag": "Technology"
       },
       {
         "tag": "brain imaging",
@@ -2860,7 +2860,7 @@
     ],
     "relations": {},
     "dateAdded": "2024-07-17T19:50:32Z",
-    "dateModified": "2024-07-18T03:50:12Z"
+    "dateModified": "2024-07-22T23:30:48Z"
   },
   {
     "key": "F3EDAE5S",
@@ -4382,7 +4382,7 @@
   },
   {
     "key": "CUTU6X5N",
-    "version": 1517,
+    "version": 1880,
     "itemType": "preprint",
     "title": "CaliAli, a tool for long-term tracking of neuronal population dynamics in calcium imaging",
     "creators": [
@@ -4454,6 +4454,9 @@
     "extra": "Pages: 2023.05.19.540935\nSection: New Results",
     "tags": [
       {
+        "tag": "Miniscope V4"
+      },
+      {
         "tag": "Preprint"
       },
       {
@@ -4461,9 +4464,6 @@
       },
       {
         "tag": "Technology"
-      },
-      {
-        "tag": "V4"
       }
     ],
     "collections": [
@@ -4471,7 +4471,7 @@
     ],
     "relations": {},
     "dateAdded": "2024-07-17T20:08:09Z",
-    "dateModified": "2024-07-18T03:51:49Z"
+    "dateModified": "2024-07-22T23:32:10Z"
   },
   {
     "key": "7ALU6SM6",
