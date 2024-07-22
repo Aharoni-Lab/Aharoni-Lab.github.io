@@ -27,20 +27,13 @@ DAharoni@mednet.ucla.edu
 
 ## Graduate Students
 
-**Yang Liu**. Electrical and Computer Engineering, UCLA
-jgrasp20@ucla.edu
+{% include person.html name='yang' %}
 
-**Hamid Chorsi**. Electrical and Computer Engineering, UCLA
-hchorsi@ucla.edu
+{% include person.html name='hamid' %}
 
-**Hemal Semwal**. Bioengineering, UCLA
-semwal@ucla.edu
+{% include person.html name='hemal' %}
 
-<!-- crop the bottom half of raymond_chang.jpg-->
-<img src="raymond_chang.jpg" width="200">
-
-**Raymond Chang**. Physics and Astronomy, UCLA
-ray0815@ucla.edu
+{% include person.html name='raymond' %}
 
 ## Previous Lab Members
 
