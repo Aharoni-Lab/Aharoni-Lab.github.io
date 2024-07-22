@@ -27,7 +27,7 @@ jobs:
           LAST_VERSION=$(<last_modified_version)
           curl https://api.zotero.org/groups/${{ env.ORG_KEY }}/collections/${{ env.COLLECTION_KEY }}/items/top\?limit\=1 -H "Authorization: Bearer ${{ secrets.ZOTERO_READONLY }}" -H "If-Modified-Since-Version: ${LAST_VERSION}" -D headers.txt
           HTTP_CODE=$(grep HTTP/2 headers.txt | cut -d" " -f 2)
-          if [ HTTP_CODE == "304" ]; do
+          if [ HTTP_CODE == "304" ]; then
             gh run cancel ${{ github.run_id }}
           fi
       - name: install jq
