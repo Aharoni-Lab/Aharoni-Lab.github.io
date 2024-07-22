@@ -10,8 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -20,11 +19,18 @@ title                    : "Aharoni Lab"
 title_separator          : "-"
 name                     : "Daniel Aharoni"
 description              : "Department of Neurology, UCLA."
-url                      : "https://aharoni-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://aharoni-lab.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
+keywords:
+  - Miniscope
+  - UCLA Miniscope
+  - Calcium Imaging
+  - Neurotechnology
+  - Single Photon Imaging
+logo: /assets/images/Miniscope_Logo.png
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
@@ -212,7 +218,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  quiet_deps: true    # Disable printing deprecation warnings to terminal
 
 # Outputting
 permalink: /:categories/:title/

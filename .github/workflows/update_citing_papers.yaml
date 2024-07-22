@@ -1,0 +1,63 @@
+name: Update citing papers from Zotero
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: _data/citing_papers
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # you can find both of these by just lookin at the URL when you open the collection on zotero website
+      # your zotero user/group ID
+      ORG_KEY: "4811862"
+      # your collection's ID
+      COLLECTION_KEY: "KRCY8EJ7"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Check if update
+        run: |
+          LAST_VERSION=$(<last_modified_version)
+          curl https://api.zotero.org/groups/${{ env.ORG_KEY }}/collections/${{ env.COLLECTION_KEY }}/items/top\?limit\=1 -H "Authorization: Bearer ${{ secrets.ZOTERO_READONLY }}" -H "If-Modified-Since-Version: ${LAST_VERSION}" -D headers.txt
+          HTTP_CODE=$(grep HTTP/2 headers.txt | cut -d" " -f 2)
+          if [ HTTP_CODE == "304" ]; then
+            gh run cancel ${{ github.run_id }}
+          fi
+      - name: install jq
+        run: sudo apt-get install jq
+      - name: Do update
+        run: |
+          # disable exit on nonzero exit code - when we no longer have a next link, grep returns 1
+          set +e
+
+          curl https://api.zotero.org/groups/${{ env.ORG_KEY }}/collections/${{ env.COLLECTION_KEY }}/items/top\?limit\=100 -D headers.txt -H "Authorization: Bearer ${{ secrets.ZOTERO_READONLY }}" > tmp_items_0.json
+          grep last-modified-version headers.txt | cut -d" " -f2 > last_modified_version
+
+          i=1
+          NEXT_LINK=$(grep -P '(?<=<)\S*?(?=>; rel="next")' headers.txt --only-matching)
+          while [ ! -z "${NEXT_LINK}" ]; do
+            echo "${NEXT_LINK}"
+            curl "${NEXT_LINK}" -D headers.txt -H "Authorization: Bearer ${{ secrets.ZOTERO_READONLY }}" > tmp_items_${i}.json
+            ((i++))
+            NEXT_LINK=$(grep -P '(?<=<)\S*?(?=>; rel="next")' headers.txt --only-matching)
+          done
+          echo "Combining items"
+          jq -s '[.[][].data] | sort_by(.date) | reverse' tmp_items_*.json > items.json
+      - name: Make Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          add-paths: |
+            _data/citing_papers/items.json
+            _data/citing_papers/last_modified_version
+          commit-message: "Update citing papers from zotero"
+          branch: update-zotero
+          title: "Update Citing Works"
+          labels: auto
+

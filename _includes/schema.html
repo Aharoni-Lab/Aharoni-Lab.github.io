@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "ResearchOrganization",
+  "parentOrganization": "https://ucla.edu",
+  "name": "{{ site.title }}",
+  "description": {{ site.description | jsonify }},
+  "url": "{{ site.url }}"{% if site.logo %},
+  "logo": "{{ site.logo | absolute_url }}"{% endif %}{% if site.social.links %},
+  "sameAs": {{ site.social.links | jsonify }}{% endif %}{% if site.keywords %},
+  "keywords": "{{ site.keywords | join: ',' }}"{% endif %}
+}
+</script>
