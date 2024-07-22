@@ -45,9 +45,9 @@ jobs:
             ((i++))
             NEXT_LINK=$(grep -P '(?<=<)\S*?(?=>; rel="next")' headers.txt --only-matching)
           done
-
+          echo "Combining items"
           jq -s '[.[][].data] | sort_by(.date) | reverse' tmp_items_*.json > items.json
-          rm tmp_items*
+          cat items.json
       - name: Make Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
