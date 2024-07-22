@@ -44,6 +44,7 @@ jobs:
             curl "${NEXT_LINK}" -D headers.txt -H "Authorization: Bearer ${{ secrets.ZOTERO_READONLY }}" > tmp_items_${i}.json
             ((i++))
             echo "after increment"
+            cat headers.txt
             NEXT_LINK=$(grep -P '(?<=<)\S*?(?=>; rel="next")' headers.txt --only-matching)
             echo "After first loop"
             echo "${NEXT_LINK}"
