@@ -1,11 +1,9 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
 
-gem "jekyll-remote-theme"
+gem "jekyll", "~> 4.3"
 
-gem "nokogiri", ">= 1.11.4"
-gem "rubyzip", ">= 1.3.0"
-gem "addressable", ">= 2.8.0"
-gem "kramdown", ">= 2.3.1"
+gem "minimal-mistakes-jekyll", "~> 4.26"
 
-gem "webrick", "~> 1.8"
+gem "jemoji", "~> 0.13.0"
+
+gem "rexml", ">= 3.3.2"

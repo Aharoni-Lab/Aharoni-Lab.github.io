@@ -1,0 +1,128 @@
+@use 'sass:color';
+
+$abstract-height: 6em;
+
+.category-button {
+	border: 2px solid $accent-color;
+	background-color: transparent;
+	color: $accent-color;
+	border-radius: 4px 2px;
+	box-shadow: 3px 3px 0 $accent-color-dark-0;
+	transition: all 0.2s;
+
+	&.is-checked {
+		background-color: $accent-color;
+		color: white;
+	}
+
+	&:hover {
+		background-color: $accent-color;
+		color: white;
+	}
+}
+
+.filter-box {
+	.button-box {
+		display: flex;
+		flex-direction: row;
+		row-gap: 0.5em;
+		column-gap: 0.5em;
+		flex-wrap: wrap;
+		// justify-content: space-around;
+		
+		.category-button {
+			flex-grow: 1;
+		}
+	}
+
+	.quicksearch {
+		color: $accent-color;
+		border-bottom: 2px solid $accent-color;
+	}
+
+}
+
+.paper-list {
+	display: grid;
+
+
+	.paper {
+		border: 1px solid $accent-color-light-0;
+		border-radius: 10px;
+		padding: 0em 1em 0.5em 1em;
+		overflow: hidden;
+		// will-change: max-height, padding;
+		transition: 
+		  max-height 0.5s,
+		  border 0.5s linear 0s;
+
+		max-height: 100vh;
+
+		&.collapsed {
+			max-height: 0vh;
+			padding-top: 0;
+			padding-bottom: 0;
+			border: none;
+			transition: 
+			  max-height 0.5s,
+			  border 0.5s linear 0.5s;
+
+		}
+	}
+	.details {
+		.detail {
+			font-family: $monospace;
+			font-size: 0.8rem;
+			color: mix($text-color, $accent-color);
+			border: 1px solid mix($text-color, $accent-color);
+			border-radius: 3px;
+			padding: 0.1em 0.5em;
+			background-color: $accent-color-light-1;
+		}
+	}
+
+	.authors {
+		color: color.adjust($text-color, $lightness: 15%);
+		font-size: 0.9em;
+		font-style: italic;
+	}
+
+	.abstract {
+		margin-top: 0.5em;
+
+		.abstract-text {
+			max-height: $abstract-height;
+			overflow-y: hidden;
+			margin-bottom: 0;
+			padding-bottom: 1em;
+			background-image: linear-gradient(to top, rgba(0,0,0,.1), rgba(0,0,0,0) 25%);
+		}
+		.toggle {
+			display: none;
+		}
+		.toggle-label{
+			position: relative;
+			text-align: center;
+			color: $accent-color-light-0;
+			font-family: $monospace;
+			font-style: italic;
+			font-size: 0.8em;
+			background-color: color.adjust($accent-color-light-1, $alpha: -0.25);
+			border: 1px solid $accent-color-light-1;
+			transition: all 0.2s;
+
+			&:hover {
+				background-color: $accent-color-light-1;
+				color: $accent-color-light-0;
+			}
+		}
+		.toggle:checked ~ .abstract-text{
+			max-height: 100vh;
+			background-image: linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,0) 25%);
+		}
+	}
+
+	a {
+		color: $accent-color;
+	}
+}
