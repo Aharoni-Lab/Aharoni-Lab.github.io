@@ -1,3 +1,20 @@
+daniel:
+  name: Daniel Aharoni
+  department: Department of Neurology, UCLA
+  email: daharoni@mednet.ucla.edu
+  image: daniel.png
+  links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0003-4931-8514
+    - icon: fa-solid fa-house
+      link: https://aharoni-lab.com/
+    - icon: fa-brands fa-github
+      link: https://github.com/daharoni
+    - icon fa-brands fa-x-twitter
+      link: https://twitter.com/DanielBAharoni
+    - icon: fa-brands fa-mastodon
+      link: https://neuromatch.social/@Daharoni
+      
 abasalt:
   name: Abasalt Bahrami
   department: Department of Neurology, UCLA
