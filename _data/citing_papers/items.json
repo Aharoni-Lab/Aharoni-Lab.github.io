@@ -1,304 +1,5 @@
 [
   {
-    "key": "CWNHH9IP",
-    "version": 1555,
-    "itemType": "journalArticle",
-    "title": "Conjunctive spatial and self-motion codes are topographically organized in the GABAergic cells of the lateral septum",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Suzanne van der",
-        "lastName": "Veldt"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Guillaume",
-        "lastName": "Etter"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Coralie-Anne",
-        "lastName": "Mosser"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Frédéric",
-        "lastName": "Manseau"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Sylvain",
-        "lastName": "Williams"
-      }
-    ],
-    "abstractNote": "The hippocampal spatial code’s relevance for downstream neuronal populations—particularly its major subcortical output the lateral septum (LS)—is still poorly understood. Here, using calcium imaging combined with unbiased analytical methods, we functionally characterized and compared the spatial tuning of LS GABAergic cells to those of dorsal CA3 and CA1 cells. We identified a significant number of LS cells that are modulated by place, speed, acceleration, and direction, as well as conjunctions of these properties, directly comparable to hippocampal CA1 and CA3 spatially modulated cells. Interestingly, Bayesian decoding of position based on LS spatial cells reflected the animal’s location as accurately as decoding using the activity of hippocampal pyramidal cells. A portion of LS cells showed stable spatial codes over the course of multiple days, potentially reflecting long-term episodic memory. The distributions of cells exhibiting these properties formed gradients along the anterior–posterior and dorsal–ventral axes of the LS, directly reflecting the topographical organization of hippocampal inputs to the LS. Finally, we show using transsynaptic tracing that LS neurons receiving CA3 and CA1 excitatory input send projections to the hypothalamus and medial septum, regions that are not targeted directly by principal cells of the dorsal hippocampus. Together, our findings demonstrate that the LS accurately and robustly represents spatial, directional as well as self-motion information and is uniquely positioned to relay this information from the hippocampus to its downstream regions, thus occupying a key position within a distributed spatial memory network.",
-    "publicationTitle": "PLOS Biology",
-    "volume": "19",
-    "issue": "8",
-    "pages": "e3001383",
-    "date": "Aug 30, 2021",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "PLOS Biology",
-    "language": "en",
-    "DOI": "10.1371/journal.pbio.3001383",
-    "ISSN": "1545-7885",
-    "shortTitle": "",
-    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001383",
-    "accessDate": "2024-07-17T20:47:07Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "PLoS Journals",
-    "callNumber": "",
-    "rights": "",
-    "extra": "Publisher: Public Library of Science",
-    "tags": [
-      {
-        "tag": "Acceleration",
-        "type": 1
-      },
-      {
-        "tag": "Hippocampus",
-        "type": 1
-      },
-      {
-        "tag": "Intraocular lens implantation",
-        "type": 1
-      },
-      {
-        "tag": "Linear regression analysis",
-        "type": 1
-      },
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Neuronal tuning",
-        "type": 1
-      },
-      {
-        "tag": "Neurons",
-        "type": 1
-      },
-      {
-        "tag": "Pyramidal cells",
-        "type": 1
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "Velocity",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:47:07Z",
-    "dateModified": "2024-07-18T03:56:32Z"
-  },
-  {
-    "key": "TD37SY8F",
-    "version": 1556,
-    "itemType": "journalArticle",
-    "title": "Conjunctive spatial and self-motion codes are topographically organized in the GABAergic cells of the lateral septum",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Suzanne van der",
-        "lastName": "Veldt"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Guillaume",
-        "lastName": "Etter"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Coralie-Anne",
-        "lastName": "Mosser"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Frédéric",
-        "lastName": "Manseau"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Sylvain",
-        "lastName": "Williams"
-      }
-    ],
-    "abstractNote": "The hippocampal spatial code’s relevance for downstream neuronal populations—particularly its major subcortical output the lateral septum (LS)—is still poorly understood. Here, using calcium imaging combined with unbiased analytical methods, we functionally characterized and compared the spatial tuning of LS GABAergic cells to those of dorsal CA3 and CA1 cells. We identified a significant number of LS cells that are modulated by place, speed, acceleration, and direction, as well as conjunctions of these properties, directly comparable to hippocampal CA1 and CA3 spatially modulated cells. Interestingly, Bayesian decoding of position based on LS spatial cells reflected the animal’s location as accurately as decoding using the activity of hippocampal pyramidal cells. A portion of LS cells showed stable spatial codes over the course of multiple days, potentially reflecting long-term episodic memory. The distributions of cells exhibiting these properties formed gradients along the anterior–posterior and dorsal–ventral axes of the LS, directly reflecting the topographical organization of hippocampal inputs to the LS. Finally, we show using transsynaptic tracing that LS neurons receiving CA3 and CA1 excitatory input send projections to the hypothalamus and medial septum, regions that are not targeted directly by principal cells of the dorsal hippocampus. Together, our findings demonstrate that the LS accurately and robustly represents spatial, directional as well as self-motion information and is uniquely positioned to relay this information from the hippocampus to its downstream regions, thus occupying a key position within a distributed spatial memory network.",
-    "publicationTitle": "PLOS Biology",
-    "volume": "19",
-    "issue": "8",
-    "pages": "e3001383",
-    "date": "Aug 30, 2021",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "PLOS Biology",
-    "language": "en",
-    "DOI": "10.1371/journal.pbio.3001383",
-    "ISSN": "1545-7885",
-    "shortTitle": "",
-    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001383",
-    "accessDate": "2024-07-17T20:39:55Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "PLoS Journals",
-    "callNumber": "",
-    "rights": "",
-    "extra": "Publisher: Public Library of Science",
-    "tags": [
-      {
-        "tag": "Acceleration",
-        "type": 1
-      },
-      {
-        "tag": "Hippocampus",
-        "type": 1
-      },
-      {
-        "tag": "Intraocular lens implantation",
-        "type": 1
-      },
-      {
-        "tag": "Linear regression analysis",
-        "type": 1
-      },
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Neuronal tuning",
-        "type": 1
-      },
-      {
-        "tag": "Neurons",
-        "type": 1
-      },
-      {
-        "tag": "Pyramidal cells",
-        "type": 1
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "Velocity",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:39:55Z",
-    "dateModified": "2024-07-18T03:56:38Z"
-  },
-  {
-    "key": "874PM72R",
-    "version": 1819,
-    "itemType": "journalArticle",
-    "title": "Toward a brighter constellation: multiorgan neuroimaging of neural and vascular dynamics in the spinal cord and brain",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Dmitrijs",
-        "lastName": "Celinskis"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Christopher J.",
-        "lastName": "Black"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jeremy",
-        "lastName": "Murphy"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Adriel",
-        "lastName": "Barrios-Anderson"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Nina G.",
-        "lastName": "Friedman"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Nathan C.",
-        "lastName": "Shaner"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Carl Y.",
-        "lastName": "Saab"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Manuel",
-        "lastName": "Gomez-Ramirez"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "David A.",
-        "lastName": "Borton"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Christopher I.",
-        "lastName": "Moore"
-      }
-    ],
-    "abstractNote": "SignificancePain comprises a complex interaction between motor action and somatosensation that is dependent on dynamic interactions between the brain and spinal cord. This makes understanding pain particularly challenging as it involves rich interactions between many circuits (e.g., neural and vascular) and signaling cascades throughout the body. As such, experimentation on a single region may lead to an incomplete and potentially incorrect understanding of crucial underlying mechanisms.AimWe aimed to develop and validate tools to enable detailed and extended observation of neural and vascular activity in the brain and spinal cord. The first key set of innovations was targeted to developing novel imaging hardware that addresses the many challenges of multisite imaging. The second key set of innovations was targeted to enabling bioluminescent (BL) imaging, as this approach can address limitations of fluorescent microscopy including photobleaching, phototoxicity, and decreased resolution due to scattering of excitation signals.ApproachWe designed 3D-printed brain and spinal cord implants to enable effective surgical implantations and optical access with wearable miniscopes or an open window (e.g., for one- or two-photon microscopy or optogenetic stimulation). We also tested the viability for BL imaging and developed a novel modified miniscope optimized for these signals (BLmini).ResultsWe describe “universal” implants for acute and chronic simultaneous brain–spinal cord imaging and optical stimulation. We further describe successful imaging of BL signals in both foci and a new miniscope, the “BLmini,” which has reduced weight, cost, and form-factor relative to standard wearable miniscopes.ConclusionsThe combination of 3D-printed implants, advanced imaging tools, and bioluminescence imaging techniques offers a coalition of methods for understanding spinal cord–brain interactions. Our work has the potential for use in future research into neuropathic pain and other sensory disorders and motor behavior.",
-    "publicationTitle": "Neurophotonics",
-    "volume": "11",
-    "issue": "2",
-    "pages": "024209",
-    "date": "2024/05",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "NPh",
-    "language": "",
-    "DOI": "10.1117/1.NPh.11.2.024209",
-    "ISSN": "2329-423X, 2329-4248",
-    "shortTitle": "Toward a brighter constellation",
-    "url": "https://www.spiedigitallibrary.org/journals/neurophotonics/volume-11/issue-2/024209/Toward-a-brighter-constellation--multiorgan-neuroimaging-of-neural-and/10.1117/1.NPh.11.2.024209.full",
-    "accessDate": "2024-07-18T06:29:51Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.spiedigitallibrary.org",
-    "callNumber": "",
-    "rights": "",
-    "extra": "Publisher: SPIE",
-    "tags": [
-      {
-        "tag": "Miniscope V4"
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "Technique"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-18T06:29:51Z",
-    "dateModified": "2024-07-18T06:29:58Z"
-  },
-  {
     "key": "QTTBY2MA",
     "version": 1505,
     "itemType": "journalArticle",
@@ -1367,6 +1068,103 @@
     "relations": {},
     "dateAdded": "2024-07-18T06:38:43Z",
     "dateModified": "2024-07-18T06:39:17Z"
+  },
+  {
+    "key": "874PM72R",
+    "version": 1917,
+    "itemType": "journalArticle",
+    "title": "Toward a brighter constellation: multiorgan neuroimaging of neural and vascular dynamics in the spinal cord and brain",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Dmitrijs",
+        "lastName": "Celinskis"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Christopher J.",
+        "lastName": "Black"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jeremy",
+        "lastName": "Murphy"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Adriel",
+        "lastName": "Barrios-Anderson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Nina G.",
+        "lastName": "Friedman"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Nathan C.",
+        "lastName": "Shaner"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Carl Y.",
+        "lastName": "Saab"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Manuel",
+        "lastName": "Gomez-Ramirez"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "David A.",
+        "lastName": "Borton"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Christopher I.",
+        "lastName": "Moore"
+      }
+    ],
+    "abstractNote": "SignificancePain comprises a complex interaction between motor action and somatosensation that is dependent on dynamic interactions between the brain and spinal cord. This makes understanding pain particularly challenging as it involves rich interactions between many circuits (e.g., neural and vascular) and signaling cascades throughout the body. As such, experimentation on a single region may lead to an incomplete and potentially incorrect understanding of crucial underlying mechanisms.AimWe aimed to develop and validate tools to enable detailed and extended observation of neural and vascular activity in the brain and spinal cord. The first key set of innovations was targeted to developing novel imaging hardware that addresses the many challenges of multisite imaging. The second key set of innovations was targeted to enabling bioluminescent (BL) imaging, as this approach can address limitations of fluorescent microscopy including photobleaching, phototoxicity, and decreased resolution due to scattering of excitation signals.ApproachWe designed 3D-printed brain and spinal cord implants to enable effective surgical implantations and optical access with wearable miniscopes or an open window (e.g., for one- or two-photon microscopy or optogenetic stimulation). We also tested the viability for BL imaging and developed a novel modified miniscope optimized for these signals (BLmini).ResultsWe describe “universal” implants for acute and chronic simultaneous brain–spinal cord imaging and optical stimulation. We further describe successful imaging of BL signals in both foci and a new miniscope, the “BLmini,” which has reduced weight, cost, and form-factor relative to standard wearable miniscopes.ConclusionsThe combination of 3D-printed implants, advanced imaging tools, and bioluminescence imaging techniques offers a coalition of methods for understanding spinal cord–brain interactions. Our work has the potential for use in future research into neuropathic pain and other sensory disorders and motor behavior.",
+    "publicationTitle": "Neurophotonics",
+    "volume": "11",
+    "issue": "2",
+    "pages": "024209",
+    "date": "2024-05",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "NPh",
+    "language": "",
+    "DOI": "10.1117/1.NPh.11.2.024209",
+    "ISSN": "2329-423X, 2329-4248",
+    "shortTitle": "Toward a brighter constellation",
+    "url": "https://www.spiedigitallibrary.org/journals/neurophotonics/volume-11/issue-2/024209/Toward-a-brighter-constellation--multiorgan-neuroimaging-of-neural-and/10.1117/1.NPh.11.2.024209.full",
+    "accessDate": "2024-07-18T06:29:51Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.spiedigitallibrary.org",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: SPIE",
+    "tags": [
+      {
+        "tag": "Miniscope V4"
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "Technique"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-18T06:29:51Z",
+    "dateModified": "2024-07-23T00:22:58Z"
   },
   {
     "key": "R77QYIL3",
@@ -2666,7 +2464,7 @@
   },
   {
     "key": "EISW9LHQ",
-    "version": 1509,
+    "version": 1918,
     "itemType": "journalArticle",
     "title": "MiniMounter: A low-cost miniaturized microscopy development toolkit for image quality control and enhancement",
     "creators": [
@@ -2759,430 +2557,11 @@
     "collections": [
       "KRCY8EJ7"
     ],
-    "relations": {},
-    "dateAdded": "2024-07-17T21:13:13Z",
-    "dateModified": "2024-07-18T03:50:06Z"
-  },
-  {
-    "key": "QT9BT4YS",
-    "version": 1879,
-    "itemType": "journalArticle",
-    "title": "MiniMounter: A low-cost miniaturized microscopy development toolkit for image quality control and enhancement",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Xinyi",
-        "lastName": "Zhu"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Liangtao",
-        "lastName": "Gu"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Rui",
-        "lastName": "Li"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Liang",
-        "lastName": "Chen"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jingying",
-        "lastName": "Chen"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ning",
-        "lastName": "Zhou"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Wuwei",
-        "lastName": "Ren"
-      }
-    ],
-    "abstractNote": "Head-mounted miniaturized fluorescence microscopy (Miniscope) has emerged as a significant tool in neuroscience, particularly for behavioral studies in awake rodents. However, the challenges of image quality control and standardization persist for both Miniscope users and developers. In this study, we propose a cost-effective and comprehensive toolkit named MiniMounter. This toolkit comprises a hardware platform that offers customized grippers and four-degree-of-freedom adjustment for Miniscope, along with software that integrates displacement control, image quality evaluation, and enhancement of 3D visualization. Our toolkit makes it feasible to accurately characterize Miniscope. Furthermore, MiniMounter enables auto-focusing and 3D imaging for Miniscope prototypes that possess solely a 2D imaging function, as demonstrated in phantom and animal experiments. Overall, the implementation of MiniMounter effectively enhances image quality, reduces the time required for experimental operations and image evaluation, and consequently accelerates the development and research cycle for both users and developers within the Miniscope community.",
-    "publicationTitle": "Journal of Biophotonics",
-    "volume": "17",
-    "issue": "2",
-    "pages": "e202300214",
-    "date": "2024",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "10.1002/jbio.202300214",
-    "ISSN": "1864-0648",
-    "shortTitle": "MiniMounter",
-    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202300214",
-    "accessDate": "2024-07-17T19:50:32Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "Wiley Online Library",
-    "callNumber": "",
-    "rights": "© 2023 Wiley-VCH GmbH.",
-    "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jbio.202300214",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Technology"
-      },
-      {
-        "tag": "brain imaging",
-        "type": 1
-      },
-      {
-        "tag": "deconvolution",
-        "type": 1
-      },
-      {
-        "tag": "fluorescence imaging",
-        "type": 1
-      },
-      {
-        "tag": "image quality control",
-        "type": 1
-      },
-      {
-        "tag": "miniaturized microscopy",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4811862/items/QT9BT4YS"
+    },
     "dateAdded": "2024-07-17T19:50:32Z",
-    "dateModified": "2024-07-22T23:30:48Z"
-  },
-  {
-    "key": "F3EDAE5S",
-    "version": 1511,
-    "itemType": "journalArticle",
-    "title": "Current Status and Future Strategies for Advancing Functional Circuit Mapping In Vivo",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Andre",
-        "lastName": "Berndt"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Denise",
-        "lastName": "Cai"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Adam",
-        "lastName": "Cohen"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Barbara",
-        "lastName": "Juarez"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jaume Taura",
-        "lastName": "Iglesias"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Hejian",
-        "lastName": "Xiong"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Zhenpeng",
-        "lastName": "Qin"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Lin",
-        "lastName": "Tian"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Paul A.",
-        "lastName": "Slesinger"
-      }
-    ],
-    "abstractNote": "The human brain represents one of the most complex biological systems, containing billions of neurons interconnected through trillions of synapses. Inherent to the brain is a biochemical complexity involving ions, signaling molecules, and peptides that regulate neuronal activity and allow for short- and long-term adaptations. Large-scale and noninvasive imaging techniques, such as fMRI and EEG, have highlighted brain regions involved in specific functions and visualized connections between different brain areas. A major shortcoming, however, is the need for more information on specific cell types and neurotransmitters involved, as well as poor spatial and temporal resolution. Recent technologies have been advanced for neuronal circuit mapping and implemented in behaving model organisms to address this. Here, we highlight strategies for targeting specific neuronal subtypes, identifying, and releasing signaling molecules, controlling gene expression, and monitoring neuronal circuits in real-time in vivo. Combined, these approaches allow us to establish direct causal links from genes and molecules to the systems level and ultimately to cognitive processes.",
-    "publicationTitle": "Journal of Neuroscience",
-    "volume": "43",
-    "issue": "45",
-    "pages": "7587-7598",
-    "date": "2023/11/08",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "J. Neurosci.",
-    "language": "en",
-    "DOI": "10.1523/JNEUROSCI.1391-23.2023",
-    "ISSN": "0270-6474, 1529-2401",
-    "shortTitle": "",
-    "url": "https://www.jneurosci.org/content/43/45/7587",
-    "accessDate": "2024-07-17T20:01:34Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.jneurosci.org",
-    "callNumber": "",
-    "rights": "Copyright © 2023 the authors",
-    "extra": "Publisher: Society for Neuroscience\nSection: Symposium and Mini-Symposium\nPMID: 37940594",
-    "tags": [
-      {
-        "tag": "Miniscope V4"
-      },
-      {
-        "tag": "Review"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:01:34Z",
-    "dateModified": "2024-07-18T03:50:22Z"
-  },
-  {
-    "key": "5W7ULZCV",
-    "version": 1423,
-    "itemType": "journalArticle",
-    "title": "Advances in cellular resolution microscopy for brain imaging in rats",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Su Jin",
-        "lastName": "Kim"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Rifqi O.",
-        "lastName": "Affan"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Hadas",
-        "lastName": "Frostig"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Benjamin B.",
-        "lastName": "Scott"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Andrew S.",
-        "lastName": "Alexander"
-      }
-    ],
-    "abstractNote": "Rats are used in neuroscience research because of their physiological similarities with humans and accessibility as model organisms, trainability, and behavioral repertoire. In particular, rats perform a wide range of sophisticated social, cognitive, motor, and learning behaviors within the contexts of both naturalistic and laboratory environments. Further progress in neuroscience can be facilitated by using advanced imaging methods to measure the complex neural and physiological processes during behavior in rats. However, compared with the mouse, the rat nervous system offers a set of challenges, such as larger brain size, decreased neuron density, and difficulty with head restraint. Here, we review recent advances in in vivo imaging techniques in rats with a special focus on open-source solutions for calcium imaging. Finally, we provide suggestions for both users and developers of in vivo imaging systems for rats.",
-    "publicationTitle": "Neurophotonics",
-    "volume": "10",
-    "issue": "4",
-    "pages": "044304",
-    "date": "2023/11",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "NPh",
-    "language": "",
-    "DOI": "10.1117/1.NPh.10.4.044304",
-    "ISSN": "2329-423X, 2329-4248",
-    "shortTitle": "",
-    "url": "https://www.spiedigitallibrary.org/journals/neurophotonics/volume-10/issue-4/044304/Advances-in-cellular-resolution-microscopy-for-brain-imaging-in-rats/10.1117/1.NPh.10.4.044304.full",
-    "accessDate": "2024-07-17T20:34:12Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.spiedigitallibrary.org",
-    "callNumber": "",
-    "rights": "",
-    "extra": "Publisher: SPIE",
-    "tags": [
-      {
-        "tag": "MiniLFOV"
-      },
-      {
-        "tag": "Review"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:34:12Z",
-    "dateModified": "2024-07-17T20:34:19Z"
-  },
-  {
-    "key": "J9JUZ98J",
-    "version": 1515,
-    "itemType": "conferencePaper",
-    "title": "Multi-functional accessory toolkit for Miniscope prototyping and image enhancement",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Xinyi",
-        "lastName": "Zhu"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Liangtao",
-        "lastName": "Gu"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Rui",
-        "lastName": "Li"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Liang",
-        "lastName": "Chen"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jingying",
-        "lastName": "Chen"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ning",
-        "lastName": "Zhou"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Wuwei",
-        "lastName": "Ren"
-      }
-    ],
-    "abstractNote": "During the last decade, Miniaturized microscopy, or Miniscope, has gained popularity in neuroscience, particularly for behavioral studies in awake rodents. However, image quality control and standardization remain challenging for both users and developers. To address these challenges, we present MiniMounter, a cost-effective and multi-functional accessory toolkit that includes a hardware platform with customized grippers and four-degree-of-freedom adjustment for Miniscope, as well as software for displacement control and image quality evaluation. Our toolkit enables auto-focusing and accurate measurement of spatial resolution and field of view (FOV). We have demonstrated the effectiveness of such a toolkit through comprehensive phantom and animal experiments.",
-    "date": "2023/07/28",
-    "proceedingsTitle": "Second Conference on Biomedical Photonics and Cross-Fusion (BPC 2023)",
-    "conferenceName": "Second Conference on Biomedical Photonics and Cross-Fusion (BPC 2023)",
-    "place": "",
-    "publisher": "SPIE",
-    "volume": "12753",
-    "pages": "102-107",
-    "series": "",
-    "language": "",
-    "DOI": "10.1117/12.2691914",
-    "ISBN": "",
-    "shortTitle": "",
-    "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12753/127530F/Multi-functional-accessory-toolkit-for-Miniscope-prototyping-and-image-enhancement/10.1117/12.2691914.full",
-    "accessDate": "2024-07-17T19:49:40Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.spiedigitallibrary.org",
-    "callNumber": "",
-    "rights": "",
-    "extra": "",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Technology"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T19:49:40Z",
-    "dateModified": "2024-07-18T03:51:32Z"
-  },
-  {
-    "key": "Z7QKYLDS",
-    "version": 1522,
-    "itemType": "journalArticle",
-    "title": "Implementation of miniaturized modular-array fluorescence microscopy for long-term live-cell imaging",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Qingyu",
-        "lastName": "Chen"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jeonghwan",
-        "lastName": "Son"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Shu",
-        "lastName": "Jia"
-      }
-    ],
-    "abstractNote": "Fluorescence microscopy imaging of live cells has provided consistent monitoring of dynamic cellular activities and interactions. However, because current live-cell imaging systems are limited in their adaptability, portable cell imaging systems have been adapted by a variety of strategies, including miniaturized fluorescence microscopy. Here, we provide a protocol for the construction and operational process of miniaturized modular-array fluorescence microscopy (MAM). The MAM system is built in a portable size (15c m×15c m×3c m) and provides in situ cell imaging inside an incubator with a subcellular lateral resolution (∼3µm). We demonstrated the improved stability of the MAM system with fluorescent targets and live HeLa cells, enabling long-term imaging for 12&#x00A0;h without the need for external support or post-processing. We believe the protocol could guide scientists to construct a compact portable fluorescence imaging system and perform time-lapse in situ single-cell imaging and analysis.",
-    "publicationTitle": "Applied Optics",
-    "volume": "62",
-    "issue": "10",
-    "pages": "2456-2461",
-    "date": "2023/04/01",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "Appl. Opt., AO",
-    "language": "EN",
-    "DOI": "10.1364/AO.483279",
-    "ISSN": "2155-3165",
-    "shortTitle": "",
-    "url": "https://opg.optica.org/ao/abstract.cfm?uri=ao-62-10-2456",
-    "accessDate": "2024-07-17T20:06:52Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "opg.optica.org",
-    "callNumber": "",
-    "rights": "© 2023 Optica Publishing Group",
-    "extra": "Publisher: Optica Publishing Group",
-    "tags": [
-      {
-        "tag": "CMOS cameras",
-        "type": 1
-      },
-      {
-        "tag": "DAQ"
-      },
-      {
-        "tag": "Fluorescence microscopy",
-        "type": 1
-      },
-      {
-        "tag": "Illumination design",
-        "type": 1
-      },
-      {
-        "tag": "Image analysis",
-        "type": 1
-      },
-      {
-        "tag": "Imaging systems",
-        "type": 1
-      },
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Systems design",
-        "type": 1
-      },
-      {
-        "tag": "Technology"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:06:52Z",
-    "dateModified": "2024-07-18T03:52:29Z"
+    "dateModified": "2024-07-23T00:23:20Z"
   },
   {
     "key": "E8P5TIU4",
@@ -3295,6 +2674,164 @@
     "relations": {},
     "dateAdded": "2024-07-18T04:36:06Z",
     "dateModified": "2024-07-18T04:36:10Z"
+  },
+  {
+    "key": "F3EDAE5S",
+    "version": 1919,
+    "itemType": "journalArticle",
+    "title": "Current Status and Future Strategies for Advancing Functional Circuit Mapping In Vivo",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Andre",
+        "lastName": "Berndt"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Denise",
+        "lastName": "Cai"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Adam",
+        "lastName": "Cohen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Barbara",
+        "lastName": "Juarez"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jaume Taura",
+        "lastName": "Iglesias"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Hejian",
+        "lastName": "Xiong"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Zhenpeng",
+        "lastName": "Qin"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Lin",
+        "lastName": "Tian"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Paul A.",
+        "lastName": "Slesinger"
+      }
+    ],
+    "abstractNote": "The human brain represents one of the most complex biological systems, containing billions of neurons interconnected through trillions of synapses. Inherent to the brain is a biochemical complexity involving ions, signaling molecules, and peptides that regulate neuronal activity and allow for short- and long-term adaptations. Large-scale and noninvasive imaging techniques, such as fMRI and EEG, have highlighted brain regions involved in specific functions and visualized connections between different brain areas. A major shortcoming, however, is the need for more information on specific cell types and neurotransmitters involved, as well as poor spatial and temporal resolution. Recent technologies have been advanced for neuronal circuit mapping and implemented in behaving model organisms to address this. Here, we highlight strategies for targeting specific neuronal subtypes, identifying, and releasing signaling molecules, controlling gene expression, and monitoring neuronal circuits in real-time in vivo. Combined, these approaches allow us to establish direct causal links from genes and molecules to the systems level and ultimately to cognitive processes.",
+    "publicationTitle": "Journal of Neuroscience",
+    "volume": "43",
+    "issue": "45",
+    "pages": "7587-7598",
+    "date": "2023-11-08",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J. Neurosci.",
+    "language": "en",
+    "DOI": "10.1523/JNEUROSCI.1391-23.2023",
+    "ISSN": "0270-6474, 1529-2401",
+    "shortTitle": "",
+    "url": "https://www.jneurosci.org/content/43/45/7587",
+    "accessDate": "2024-07-17T20:01:34Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.jneurosci.org",
+    "callNumber": "",
+    "rights": "Copyright © 2023 the authors",
+    "extra": "Publisher: Society for Neuroscience\nSection: Symposium and Mini-Symposium\nPMID: 37940594",
+    "tags": [
+      {
+        "tag": "Miniscope V4"
+      },
+      {
+        "tag": "Review"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T20:01:34Z",
+    "dateModified": "2024-07-23T00:23:32Z"
+  },
+  {
+    "key": "5W7ULZCV",
+    "version": 1919,
+    "itemType": "journalArticle",
+    "title": "Advances in cellular resolution microscopy for brain imaging in rats",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Su Jin",
+        "lastName": "Kim"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Rifqi O.",
+        "lastName": "Affan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Hadas",
+        "lastName": "Frostig"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Benjamin B.",
+        "lastName": "Scott"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Andrew S.",
+        "lastName": "Alexander"
+      }
+    ],
+    "abstractNote": "Rats are used in neuroscience research because of their physiological similarities with humans and accessibility as model organisms, trainability, and behavioral repertoire. In particular, rats perform a wide range of sophisticated social, cognitive, motor, and learning behaviors within the contexts of both naturalistic and laboratory environments. Further progress in neuroscience can be facilitated by using advanced imaging methods to measure the complex neural and physiological processes during behavior in rats. However, compared with the mouse, the rat nervous system offers a set of challenges, such as larger brain size, decreased neuron density, and difficulty with head restraint. Here, we review recent advances in in vivo imaging techniques in rats with a special focus on open-source solutions for calcium imaging. Finally, we provide suggestions for both users and developers of in vivo imaging systems for rats.",
+    "publicationTitle": "Neurophotonics",
+    "volume": "10",
+    "issue": "4",
+    "pages": "044304",
+    "date": "2023-11",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "NPh",
+    "language": "",
+    "DOI": "10.1117/1.NPh.10.4.044304",
+    "ISSN": "2329-423X, 2329-4248",
+    "shortTitle": "",
+    "url": "https://www.spiedigitallibrary.org/journals/neurophotonics/volume-10/issue-4/044304/Advances-in-cellular-resolution-microscopy-for-brain-imaging-in-rats/10.1117/1.NPh.10.4.044304.full",
+    "accessDate": "2024-07-17T20:34:12Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.spiedigitallibrary.org",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: SPIE",
+    "tags": [
+      {
+        "tag": "MiniLFOV"
+      },
+      {
+        "tag": "Review"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T20:34:12Z",
+    "dateModified": "2024-07-23T00:23:36Z"
   },
   {
     "key": "FLIRMNNJ",
@@ -3721,7 +3258,7 @@
   },
   {
     "key": "PVWVBUH5",
-    "version": 1513,
+    "version": 1888,
     "itemType": "journalArticle",
     "title": "Learning-prolonged maintenance of stimulus information in CA1 and subiculum during trace fear conditioning",
     "creators": [
@@ -3833,9 +3370,14 @@
     "collections": [
       "KRCY8EJ7"
     ],
-    "relations": {},
+    "relations": {
+      "dc:replaces": [
+        "http://zotero.org/groups/4811862/items/XZ7CED34",
+        "http://zotero.org/groups/4811862/items/6CMML3SK"
+      ]
+    },
     "dateAdded": "2024-07-17T20:38:27Z",
-    "dateModified": "2024-07-18T03:51:09Z"
+    "dateModified": "2024-07-23T00:08:18Z"
   },
   {
     "key": "E7YGEILP",
@@ -4105,8 +3647,86 @@
     "dateModified": "2024-07-18T05:05:24Z"
   },
   {
+    "key": "J9JUZ98J",
+    "version": 1919,
+    "itemType": "conferencePaper",
+    "title": "Multi-functional accessory toolkit for Miniscope prototyping and image enhancement",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Xinyi",
+        "lastName": "Zhu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Liangtao",
+        "lastName": "Gu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Rui",
+        "lastName": "Li"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Liang",
+        "lastName": "Chen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jingying",
+        "lastName": "Chen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ning",
+        "lastName": "Zhou"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Wuwei",
+        "lastName": "Ren"
+      }
+    ],
+    "abstractNote": "During the last decade, Miniaturized microscopy, or Miniscope, has gained popularity in neuroscience, particularly for behavioral studies in awake rodents. However, image quality control and standardization remain challenging for both users and developers. To address these challenges, we present MiniMounter, a cost-effective and multi-functional accessory toolkit that includes a hardware platform with customized grippers and four-degree-of-freedom adjustment for Miniscope, as well as software for displacement control and image quality evaluation. Our toolkit enables auto-focusing and accurate measurement of spatial resolution and field of view (FOV). We have demonstrated the effectiveness of such a toolkit through comprehensive phantom and animal experiments.",
+    "date": "2023-07-28",
+    "proceedingsTitle": "Second Conference on Biomedical Photonics and Cross-Fusion (BPC 2023)",
+    "conferenceName": "Second Conference on Biomedical Photonics and Cross-Fusion (BPC 2023)",
+    "place": "",
+    "publisher": "SPIE",
+    "volume": "12753",
+    "pages": "102-107",
+    "series": "",
+    "language": "",
+    "DOI": "10.1117/12.2691914",
+    "ISBN": "",
+    "shortTitle": "",
+    "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12753/127530F/Multi-functional-accessory-toolkit-for-Miniscope-prototyping-and-image-enhancement/10.1117/12.2691914.full",
+    "accessDate": "2024-07-17T19:49:40Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.spiedigitallibrary.org",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Technology"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T19:49:40Z",
+    "dateModified": "2024-07-23T00:23:42Z"
+  },
+  {
     "key": "G2WLX2QL",
-    "version": 1396,
+    "version": 1889,
     "itemType": "journalArticle",
     "title": "Hippocampal place cell remapping occurs with memory storage of aversive experiences",
     "creators": [
@@ -4223,9 +3843,11 @@
     "collections": [
       "KRCY8EJ7"
     ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:28:03Z",
-    "dateModified": "2024-07-17T20:28:11Z"
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4811862/items/7JLU4HSK"
+    },
+    "dateAdded": "2024-07-17T19:54:19Z",
+    "dateModified": "2024-07-23T00:08:42Z"
   },
   {
     "key": "5H9EPRFR",
@@ -4970,6 +4592,92 @@
     "relations": {},
     "dateAdded": "2024-07-17T20:42:49Z",
     "dateModified": "2024-07-18T03:52:19Z"
+  },
+  {
+    "key": "Z7QKYLDS",
+    "version": 1920,
+    "itemType": "journalArticle",
+    "title": "Implementation of miniaturized modular-array fluorescence microscopy for long-term live-cell imaging",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Qingyu",
+        "lastName": "Chen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jeonghwan",
+        "lastName": "Son"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Shu",
+        "lastName": "Jia"
+      }
+    ],
+    "abstractNote": "Fluorescence microscopy imaging of live cells has provided consistent monitoring of dynamic cellular activities and interactions. However, because current live-cell imaging systems are limited in their adaptability, portable cell imaging systems have been adapted by a variety of strategies, including miniaturized fluorescence microscopy. Here, we provide a protocol for the construction and operational process of miniaturized modular-array fluorescence microscopy (MAM). The MAM system is built in a portable size (15c m×15c m×3c m) and provides in situ cell imaging inside an incubator with a subcellular lateral resolution (∼3µm). We demonstrated the improved stability of the MAM system with fluorescent targets and live HeLa cells, enabling long-term imaging for 12&#x00A0;h without the need for external support or post-processing. We believe the protocol could guide scientists to construct a compact portable fluorescence imaging system and perform time-lapse in situ single-cell imaging and analysis.",
+    "publicationTitle": "Applied Optics",
+    "volume": "62",
+    "issue": "10",
+    "pages": "2456-2461",
+    "date": "2023-04-01",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Appl. Opt., AO",
+    "language": "EN",
+    "DOI": "10.1364/AO.483279",
+    "ISSN": "2155-3165",
+    "shortTitle": "",
+    "url": "https://opg.optica.org/ao/abstract.cfm?uri=ao-62-10-2456",
+    "accessDate": "2024-07-17T20:06:52Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "opg.optica.org",
+    "callNumber": "",
+    "rights": "© 2023 Optica Publishing Group",
+    "extra": "Publisher: Optica Publishing Group",
+    "tags": [
+      {
+        "tag": "CMOS cameras",
+        "type": 1
+      },
+      {
+        "tag": "DAQ"
+      },
+      {
+        "tag": "Fluorescence microscopy",
+        "type": 1
+      },
+      {
+        "tag": "Illumination design",
+        "type": 1
+      },
+      {
+        "tag": "Image analysis",
+        "type": 1
+      },
+      {
+        "tag": "Imaging systems",
+        "type": 1
+      },
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Systems design",
+        "type": 1
+      },
+      {
+        "tag": "Technology"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T20:06:52Z",
+    "dateModified": "2024-07-23T00:23:49Z"
   },
   {
     "key": "XY35DR74",
@@ -5762,6 +5470,93 @@
     "dateModified": "2024-07-18T03:53:20Z"
   },
   {
+    "key": "4E45CW5P",
+    "version": 1923,
+    "itemType": "journalArticle",
+    "title": "Characterization of ventromedial hypothalamus activity during exposure to innate and conditioned threats",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Brooke C.",
+        "lastName": "Tobias"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Peter J.",
+        "lastName": "Schuette"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sandra",
+        "lastName": "Maesta-Pereira"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Anita",
+        "lastName": "Torossian"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Weisheng",
+        "lastName": "Wang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ekayana",
+        "lastName": "Sethi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Avishek",
+        "lastName": "Adhikari"
+      }
+    ],
+    "abstractNote": "In the face of imminent predatory danger, animals quickly detect the threat and mobilize key survival defensive actions, such as escape and freezing. The dorsomedial portion of the ventromedial hypothalamus (VMH) is a central node in innate and conditioned predator-induced defensive behaviours. Prior studies have shown that activity of steroidogenic factor 1 (sf1)-expressing VMH cells is necessary for such defensive behaviours. However, sf1-VMH neural activity during exposure to predatory threats has not been well characterized. Here, we use single-cell recordings of calcium transients from VMH cells in male and female mice. We show this region is activated by threat proximity and that it encodes future occurrence of escape but not freezing. Our data also show that VMH cells encoded proximity of an innate predatory threat but not a fear-conditioned shock grid. Furthermore, chemogenetic activation of the VMH increases avoidance of innate threats, such as open spaces and a live predator. This manipulation also increased freezing towards the predator, without altering defensive behaviours induced by a shock grid. Lastly, we show that optogenetic VMH activation recruited a broad swath of regions, suggestive of widespread changes in neural defensive state. Taken together, these data reveal the neural dynamics of the VMH during predator exposure and further highlight its role as a critical component of the hypothalamic predator defense system.",
+    "publicationTitle": "European Journal of Neuroscience",
+    "volume": "57",
+    "issue": "7",
+    "pages": "1053-1067",
+    "date": "2023-02-14",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "en",
+    "DOI": "10.1111/ejn.15937",
+    "ISSN": "1460-9568",
+    "shortTitle": "",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15937",
+    "accessDate": "2024-07-17T20:16:27Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Wiley Online Library",
+    "callNumber": "",
+    "rights": "© 2023 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.",
+    "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ejn.15937",
+    "tags": [
+      {
+        "tag": "Miniscope"
+      },
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Science"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {
+      "dc:replaces": [
+        "http://zotero.org/groups/4811862/items/S8NVRHGV",
+        "http://zotero.org/groups/4811862/items/UQRN7J8V"
+      ]
+    },
+    "dateAdded": "2024-07-17T20:16:27Z",
+    "dateModified": "2024-07-23T00:24:51Z"
+  },
+  {
     "key": "44IUU5FR",
     "version": 1752,
     "itemType": "journalArticle",
@@ -6177,90 +5972,6 @@
     "dateModified": "2024-07-18T03:53:40Z"
   },
   {
-    "key": "KEMP7WDC",
-    "version": 1322,
-    "itemType": "journalArticle",
-    "title": "New imaging instrument in animal models: Two-photon miniature microscope and large field of view miniature microscope for freely behaving animals",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Changliang",
-        "lastName": "Guo"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Aimin",
-        "lastName": "Wang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Heping",
-        "lastName": "Cheng"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Liangyi",
-        "lastName": "Chen"
-      }
-    ],
-    "abstractNote": "Over the past decade, novel optical imaging tools have been developed for imaging neuronal activities along with the evolution of fluorescence indicators with brighter expression and higher sensitivity. Miniature microscopes, as revolutionary approaches, enable the imaging of large populations of neuron ensembles in freely behaving rodents and mammals, which allows exploring the neural basis of behaviors. Recent progress in two-photon miniature microscopes and mesoscale single-photon miniature microscopes further expand those affordable methods to navigate neural activities during naturalistic behaviors. In this review article, two-photon miniature microscopy techniques are summarized historically from the first documented attempt to the latest ones, and comparisons are made. The driving force behind and their potential for neuroscientific inquiries are also discussed. Current progress in terms of the mesoscale, i.e., the large field-of-view miniature microscopy technique, is addressed as well. Then, pipelines for registering single cells from the data of two-photon and large field-of-view miniature microscopes are discussed. Finally, we present the potential evolution of the techniques.",
-    "publicationTitle": "Journal of Neurochemistry",
-    "volume": "164",
-    "issue": "3",
-    "pages": "270-283",
-    "date": "2023",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "10.1111/jnc.15711",
-    "ISSN": "1471-4159",
-    "shortTitle": "New imaging instrument in animal models",
-    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jnc.15711",
-    "accessDate": "2024-07-17T19:54:42Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "Wiley Online Library",
-    "callNumber": "",
-    "rights": "© 2022 International Society for Neurochemistry.",
-    "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/jnc.15711",
-    "tags": [
-      {
-        "tag": "MiniLFOV"
-      },
-      {
-        "tag": "Review"
-      },
-      {
-        "tag": "large field-of-view imaging",
-        "type": 1
-      },
-      {
-        "tag": "miniature fluorescence microscopy",
-        "type": 1
-      },
-      {
-        "tag": "neural imaging",
-        "type": 1
-      },
-      {
-        "tag": "neuroscience",
-        "type": 1
-      },
-      {
-        "tag": "two-photon microscopy",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T19:54:42Z",
-    "dateModified": "2024-07-17T19:54:49Z"
-  },
-  {
     "key": "7KMHMTUI",
     "version": 1499,
     "itemType": "thesis",
@@ -6322,566 +6033,6 @@
     "relations": {},
     "dateAdded": "2024-07-17T21:13:53Z",
     "dateModified": "2024-07-17T21:13:57Z"
-  },
-  {
-    "key": "4E45CW5P",
-    "version": 1532,
-    "itemType": "journalArticle",
-    "title": "Characterization of ventromedial hypothalamus activity during exposure to innate and conditioned threats",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Brooke C.",
-        "lastName": "Tobias"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Peter J.",
-        "lastName": "Schuette"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Sandra",
-        "lastName": "Maesta-Pereira"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Anita",
-        "lastName": "Torossian"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Weisheng",
-        "lastName": "Wang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ekayana",
-        "lastName": "Sethi"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Avishek",
-        "lastName": "Adhikari"
-      }
-    ],
-    "abstractNote": "In the face of imminent predatory danger, animals quickly detect the threat and mobilize key survival defensive actions, such as escape and freezing. The dorsomedial portion of the ventromedial hypothalamus (VMH) is a central node in innate and conditioned predator-induced defensive behaviours. Prior studies have shown that activity of steroidogenic factor 1 (sf1)-expressing VMH cells is necessary for such defensive behaviours. However, sf1-VMH neural activity during exposure to predatory threats has not been well characterized. Here, we use single-cell recordings of calcium transients from VMH cells in male and female mice. We show this region is activated by threat proximity and that it encodes future occurrence of escape but not freezing. Our data also show that VMH cells encoded proximity of an innate predatory threat but not a fear-conditioned shock grid. Furthermore, chemogenetic activation of the VMH increases avoidance of innate threats, such as open spaces and a live predator. This manipulation also increased freezing towards the predator, without altering defensive behaviours induced by a shock grid. Lastly, we show that optogenetic VMH activation recruited a broad swath of regions, suggestive of widespread changes in neural defensive state. Taken together, these data reveal the neural dynamics of the VMH during predator exposure and further highlight its role as a critical component of the hypothalamic predator defense system.",
-    "publicationTitle": "European Journal of Neuroscience",
-    "volume": "57",
-    "issue": "7",
-    "pages": "1053-1067",
-    "date": "2023",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "10.1111/ejn.15937",
-    "ISSN": "1460-9568",
-    "shortTitle": "",
-    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15937",
-    "accessDate": "2024-07-17T20:16:27Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "Wiley Online Library",
-    "callNumber": "",
-    "rights": "© 2023 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.",
-    "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ejn.15937",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Science"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:16:27Z",
-    "dateModified": "2024-07-18T03:53:45Z"
-  },
-  {
-    "key": "UQRN7J8V",
-    "version": 1648,
-    "itemType": "journalArticle",
-    "title": "Characterization of ventromedial hypothalamus activity during exposure to innate and conditioned threats",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Brooke C.",
-        "lastName": "Tobias"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Peter J.",
-        "lastName": "Schuette"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Sandra",
-        "lastName": "Maesta-Pereira"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Anita",
-        "lastName": "Torossian"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Weisheng",
-        "lastName": "Wang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ekayana",
-        "lastName": "Sethi"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Avishek",
-        "lastName": "Adhikari"
-      }
-    ],
-    "abstractNote": "In the face of imminent predatory danger, animals quickly detect the threat and mobilize key survival defensive actions, such as escape and freezing. The dorsomedial portion of the ventromedial hypothalamus (VMH) is a central node in innate and conditioned predator-induced defensive behaviours. Prior studies have shown that activity of steroidogenic factor 1 (sf1)-expressing VMH cells is necessary for such defensive behaviours. However, sf1-VMH neural activity during exposure to predatory threats has not been well characterized. Here, we use single-cell recordings of calcium transients from VMH cells in male and female mice. We show this region is activated by threat proximity and that it encodes future occurrence of escape but not freezing. Our data also show that VMH cells encoded proximity of an innate predatory threat but not a fear-conditioned shock grid. Furthermore, chemogenetic activation of the VMH increases avoidance of innate threats, such as open spaces and a live predator. This manipulation also increased freezing towards the predator, without altering defensive behaviours induced by a shock grid. Lastly, we show that optogenetic VMH activation recruited a broad swath of regions, suggestive of widespread changes in neural defensive state. Taken together, these data reveal the neural dynamics of the VMH during predator exposure and further highlight its role as a critical component of the hypothalamic predator defense system.",
-    "publicationTitle": "European Journal of Neuroscience",
-    "volume": "57",
-    "issue": "7",
-    "pages": "1053-1067",
-    "date": "2023",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "10.1111/ejn.15937",
-    "ISSN": "1460-9568",
-    "shortTitle": "",
-    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15937",
-    "accessDate": "2024-07-18T04:23:26Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "Wiley Online Library",
-    "callNumber": "",
-    "rights": "© 2023 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.",
-    "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ejn.15937",
-    "tags": [
-      {
-        "tag": "Miniscope"
-      },
-      {
-        "tag": "Science"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-18T04:23:27Z",
-    "dateModified": "2024-07-18T04:23:31Z"
-  },
-  {
-    "key": "9N5P5WQJ",
-    "version": 1743,
-    "itemType": "journalArticle",
-    "title": "Place cells are nonrandomly clustered by field location in CA1 hippocampus",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Hannah S.",
-        "lastName": "Wirtshafter"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "John F.",
-        "lastName": "Disterhoft"
-      }
-    ],
-    "abstractNote": "A challenge in both modern and historic neuroscience has been achieving an understanding of neuron circuits, and determining the computational and organizational principles that underlie these circuits. Deeper understanding of the organization of brain circuits and cell types, including in the hippocampus, is required for advances in behavioral and cognitive neuroscience, as well as for understanding principles governing brain development and evolution. In this manuscript, we pioneer a new method to analyze the spatial clustering of active neurons in the hippocampus. We use calcium imaging and a rewarded navigation task to record from 100 s of place cells in the CA1 of freely moving rats. We then use statistical techniques developed for and in widespread use in geographic mapping studies, global Moran's I, and local Moran's I to demonstrate that cells that code for similar spatial locations tend to form small spatial clusters. We present evidence that this clustering is not the result of artifacts from calcium imaging, and show that these clusters are primarily formed by cells that have place fields around previously rewarded locations. We go on to show that, although cells with similar place fields tend to form clusters, there is no obvious topographic mapping of environmental location onto the hippocampus, such as seen in the visual cortex. Insights into hippocampal organization, as in this study, can elucidate mechanisms underlying motivational behaviors, spatial navigation, and memory formation.",
-    "publicationTitle": "Hippocampus",
-    "volume": "33",
-    "issue": "2",
-    "pages": "65-84",
-    "date": "2023",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "10.1002/hipo.23489",
-    "ISSN": "1098-1063",
-    "shortTitle": "",
-    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.23489",
-    "accessDate": "2024-07-18T05:45:48Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "Wiley Online Library",
-    "callNumber": "",
-    "rights": "© 2022 Wiley Periodicals LLC.",
-    "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/hipo.23489",
-    "tags": [
-      {
-        "tag": "CA1",
-        "type": 1
-      },
-      {
-        "tag": "Miniscope V4"
-      },
-      {
-        "tag": "Moran's I",
-        "type": 1
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "calcium imaging",
-        "type": 1
-      },
-      {
-        "tag": "hippocampus",
-        "type": 1
-      },
-      {
-        "tag": "miniscopes",
-        "type": 1
-      },
-      {
-        "tag": "place fields",
-        "type": 1
-      },
-      {
-        "tag": "reward",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-18T05:45:48Z",
-    "dateModified": "2024-07-18T05:45:53Z"
-  },
-  {
-    "key": "S8NVRHGV",
-    "version": 1801,
-    "itemType": "journalArticle",
-    "title": "Characterization of ventromedial hypothalamus activity during exposure to innate and conditioned threats",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Brooke C.",
-        "lastName": "Tobias"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Peter J.",
-        "lastName": "Schuette"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Sandra",
-        "lastName": "Maesta-Pereira"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Anita",
-        "lastName": "Torossian"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Weisheng",
-        "lastName": "Wang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ekayana",
-        "lastName": "Sethi"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Avishek",
-        "lastName": "Adhikari"
-      }
-    ],
-    "abstractNote": "In the face of imminent predatory danger, animals quickly detect the threat and mobilize key survival defensive actions, such as escape and freezing. The dorsomedial portion of the ventromedial hypothalamus (VMH) is a central node in innate and conditioned predator-induced defensive behaviours. Prior studies have shown that activity of steroidogenic factor 1 (sf1)-expressing VMH cells is necessary for such defensive behaviours. However, sf1-VMH neural activity during exposure to predatory threats has not been well characterized. Here, we use single-cell recordings of calcium transients from VMH cells in male and female mice. We show this region is activated by threat proximity and that it encodes future occurrence of escape but not freezing. Our data also show that VMH cells encoded proximity of an innate predatory threat but not a fear-conditioned shock grid. Furthermore, chemogenetic activation of the VMH increases avoidance of innate threats, such as open spaces and a live predator. This manipulation also increased freezing towards the predator, without altering defensive behaviours induced by a shock grid. Lastly, we show that optogenetic VMH activation recruited a broad swath of regions, suggestive of widespread changes in neural defensive state. Taken together, these data reveal the neural dynamics of the VMH during predator exposure and further highlight its role as a critical component of the hypothalamic predator defense system.",
-    "publicationTitle": "European Journal of Neuroscience",
-    "volume": "57",
-    "issue": "7",
-    "pages": "1053-1067",
-    "date": "2023",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "10.1111/ejn.15937",
-    "ISSN": "1460-9568",
-    "shortTitle": "",
-    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15937",
-    "accessDate": "2024-07-18T06:17:22Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "Wiley Online Library",
-    "callNumber": "",
-    "rights": "© 2023 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.",
-    "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ejn.15937",
-    "tags": [
-      {
-        "tag": "Miniscope"
-      },
-      {
-        "tag": "Science"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-18T06:17:22Z",
-    "dateModified": "2024-07-18T06:17:35Z"
-  },
-  {
-    "key": "98PTA4H6",
-    "version": 1540,
-    "itemType": "journalArticle",
-    "title": "In Vivo Multi-Day Calcium Imaging of CA1 Hippocampus in Freely Moving Rats Reveals a High Preponderance of Place Cells with Consistent Place Fields",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Hannah S.",
-        "lastName": "Wirtshafter"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "John F.",
-        "lastName": "Disterhoft"
-      }
-    ],
-    "abstractNote": "Calcium imaging using GCaMP indicators and miniature microscopes has been used to image cellular populations during long timescales and in different task phases, as well as to determine neuronal circuit topology and organization. Because the hippocampus (HPC) is essential for tasks of memory, spatial navigation, and learning, calcium imaging of large populations of HPC neurons can provide new insight on cell changes over time during these tasks. All reported HPC in vivo calcium imaging experiments have been done in mouse. However, rats have many behavioral and physiological experimental advantages over mice. In this paper, we present the first (to our knowledge) in vivo calcium imaging from CA1 HPC in freely moving male rats. Using the UCLA Miniscope, we demonstrate that, in rat, hundreds of cells can be visualized and held across weeks. We show that calcium events in these cells are highly correlated with periods of movement, with few calcium events occurring during periods without movement. We additionally show that an extremely large percent of cells recorded during a navigational task are place cells (77.3 ± 5.0%, surpassing the percent seen during mouse calcium imaging), and that these cells enable accurate decoding of animal position and can be held over days with consistent place fields in a consistent spatial map. A detailed protocol is included, and implications of these advancements on in vivo imaging and place field literature are discussed.\nSIGNIFICANCE STATEMENT In vivo calcium imaging in freely moving animals allows the visualization of cellular activity across days. In this paper, we present the first in vivo Ca2+ recording from CA1 hippocampus (HPC) in freely moving rats. We demonstrate that hundreds of cells can be visualized and held across weeks, and that calcium activity corresponds to periods of movement. We show that a high percentage (77.3 ± 5.0%) of imaged cells are place cells, and that these place cells enable accurate decoding and can be held stably over days with little change in field location. Because the HPC is essential for many tasks involving memory, navigation, and learning, imaging of large populations of HPC neurons can shed new insight on cellular activity changes and organization.",
-    "publicationTitle": "Journal of Neuroscience",
-    "volume": "42",
-    "issue": "22",
-    "pages": "4538-4554",
-    "date": "2022/06/01",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "J. Neurosci.",
-    "language": "en",
-    "DOI": "10.1523/JNEUROSCI.1750-21.2022",
-    "ISSN": "0270-6474, 1529-2401",
-    "shortTitle": "",
-    "url": "https://www.jneurosci.org/content/42/22/4538",
-    "accessDate": "2024-07-17T19:51:15Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.jneurosci.org",
-    "callNumber": "",
-    "rights": "Copyright © 2022 the authors. SfN exclusive license.",
-    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 35501152",
-    "tags": [
-      {
-        "tag": "Ca1",
-        "type": 1
-      },
-      {
-        "tag": "Miniscope V4"
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "calcium imaging",
-        "type": 1
-      },
-      {
-        "tag": "hippocampus",
-        "type": 1
-      },
-      {
-        "tag": "miniscopes",
-        "type": 1
-      },
-      {
-        "tag": "place cells",
-        "type": 1
-      },
-      {
-        "tag": "rats",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T19:51:15Z",
-    "dateModified": "2024-07-18T03:54:49Z"
-  },
-  {
-    "key": "2PFT7A7S",
-    "version": 1549,
-    "itemType": "journalArticle",
-    "title": "Custom-Built Operant Conditioning Setup for Calcium Imaging and Cognitive Testing in Freely Moving Mice",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Philip",
-        "lastName": "Vassilev"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Esmeralda",
-        "lastName": "Fonseca"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Giovanni",
-        "lastName": "Hernandez"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Andrea Haree",
-        "lastName": "Pantoja-Urban"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Michel",
-        "lastName": "Giroux"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Dominique",
-        "lastName": "Nouel"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Elise Van",
-        "lastName": "Leer"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Cecilia",
-        "lastName": "Flores"
-      }
-    ],
-    "abstractNote": "Visual Abstract\n\nDownload figureOpen in new tabDownload powerpoint\nOperant chambers are widely used in animal research to study cognition, motivation, and learning processes. Paired with the rapidly developing technologies for brain imaging and manipulations of brain activity, operant conditioning chambers are a powerful tool for neuroscience research. The behavioral testing and imaging setups that are commercially available are often quite costly. Here, we present a custom-built operant chamber that can be constructed in a few days by an unexperienced user with relatively inexpensive, widely available materials. The advantages of our operant setup compared with other open-source and closed-source solutions are its relatively low cost, its support of complex behavioral tasks, its user-friendly setup, and its validated functionality with video imaging of behavior and calcium imaging using the UCLA Miniscope. Using this setup, we replicate our previously published findings showing that mice exposed to social defeat stress in adolescence have inhibitory control impairments in the Go/No-Go task when they reach adulthood. We also present calcium imaging data of medial prefrontal cortex (mPFC) neuronal activity acquired during Go/No-Go testing in freely moving mice and show that neuronal population activity increases from day 1 to day 14 of the task. We propose that our operant chamber is a cheaper alternative to its commercially available counterparts and offers a better balance between versatility and user-friendly setup than other open-source alternatives.",
-    "publicationTitle": "eNeuro",
-    "volume": "9",
-    "issue": "1",
-    "pages": "",
-    "date": "2022/01/01",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "eNeuro",
-    "language": "en",
-    "DOI": "10.1523/ENEURO.0430-21.2022",
-    "ISSN": "2373-2822",
-    "shortTitle": "",
-    "url": "https://www.eneuro.org/content/9/1/ENEURO.0430-21.2022",
-    "accessDate": "2024-07-17T19:41:44Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.eneuro.org",
-    "callNumber": "",
-    "rights": "Copyright © 2022 Vassilev et al.. This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International license, which permits unrestricted use, distribution and reproduction in any medium provided that the original work is properly attributed.",
-    "extra": "Publisher: Society for Neuroscience\nSection: Open Source Tools and Methods\nPMID: 35105659",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Technology"
-      },
-      {
-        "tag": "animal models",
-        "type": 1
-      },
-      {
-        "tag": "calcium imaging",
-        "type": 1
-      },
-      {
-        "tag": "cognition",
-        "type": 1
-      },
-      {
-        "tag": "open-source",
-        "type": 1
-      },
-      {
-        "tag": "operant conditioning",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T19:41:44Z",
-    "dateModified": "2024-07-18T03:55:49Z"
-  },
-  {
-    "key": "AUI2GWQZ",
-    "version": 1674,
-    "itemType": "journalArticle",
-    "title": "Simultaneous Cellular Imaging, Electrical Recording and Stimulation of Hippocampal Activity in Freely Behaving Mice",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Chae Young",
-        "lastName": "Kim"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Sang Jeong",
-        "lastName": "Kim"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Fabian",
-        "lastName": "Kloosterman"
-      }
-    ],
-    "abstractNote": "Hippocampal sharp-wave ripple activity (SWRs) and the associated replay of neural activity patterns are well-known for their role in memory consolidation. This activity has been studied using electrophysiological approaches, as high temporal resolution is required to recognize SWRs in the neuronal signals. However, it has been difficult to analyze the individual contribution of neurons to task-specific SWRs, because it is hard to track neurons across a long time with electrophysiological recording. In this study, we recorded local field potential (LFP) signals in the hippocampal CA1 of freely behaving mice and simultaneously imaged calcium signals in contralateral CA1 to leverage the advantages of both electrophysiological and imaging approaches. We manufactured a custom-designed microdrive array and targeted tetrodes to the left hippocampus CA1 for LFP recording and applied electrical stimulation in the ventral hippocampal commissure (VHC) for closed-loop disruption of SWRs. Neuronal population imaging in the right hippocampal CA1 was performed using a miniature fluorescent microscope (Miniscope) and a genetically encoded calcium indicator. As SWRs show highly synchronized bilateral occurrence, calcium signals of SWR-participating neurons could be identified and tracked in spontaneous or SWR-disrupted conditions. Using this approach, we identified a subpopulation of CA1 neurons showing synchronous calcium elevation to SWRs. Our results showed that SWR-related calcium transients are more disrupted by electrical stimulation than non-SWR-related calcium transients, validating the capability of the system to detect and disrupt SWRs. Our dual recording method can be used to uncover the dynamic participation of individual neurons in SWRs and replay over extended time windows.",
-    "publicationTitle": "Experimental Neurobiology",
-    "volume": "31",
-    "issue": "3",
-    "pages": "208-220",
-    "date": "2022-6-30",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "Exp Neurobiol",
-    "language": "",
-    "DOI": "10.5607/en22011",
-    "ISSN": "1226-2560",
-    "shortTitle": "",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9272116/",
-    "accessDate": "2024-07-18T04:34:44Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "PubMed Central",
-    "callNumber": "",
-    "rights": "",
-    "extra": "PMID: 35786642\nPMCID: PMC9272116",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Science"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-18T04:34:44Z",
-    "dateModified": "2024-07-18T04:34:49Z"
   },
   {
     "key": "THY6YK4B",
@@ -6994,6 +6145,88 @@
     "relations": {},
     "dateAdded": "2024-07-18T04:26:19Z",
     "dateModified": "2024-07-18T04:26:26Z"
+  },
+  {
+    "key": "9N5P5WQJ",
+    "version": 1921,
+    "itemType": "journalArticle",
+    "title": "Place cells are nonrandomly clustered by field location in CA1 hippocampus",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Hannah S.",
+        "lastName": "Wirtshafter"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "John F.",
+        "lastName": "Disterhoft"
+      }
+    ],
+    "abstractNote": "A challenge in both modern and historic neuroscience has been achieving an understanding of neuron circuits, and determining the computational and organizational principles that underlie these circuits. Deeper understanding of the organization of brain circuits and cell types, including in the hippocampus, is required for advances in behavioral and cognitive neuroscience, as well as for understanding principles governing brain development and evolution. In this manuscript, we pioneer a new method to analyze the spatial clustering of active neurons in the hippocampus. We use calcium imaging and a rewarded navigation task to record from 100 s of place cells in the CA1 of freely moving rats. We then use statistical techniques developed for and in widespread use in geographic mapping studies, global Moran's I, and local Moran's I to demonstrate that cells that code for similar spatial locations tend to form small spatial clusters. We present evidence that this clustering is not the result of artifacts from calcium imaging, and show that these clusters are primarily formed by cells that have place fields around previously rewarded locations. We go on to show that, although cells with similar place fields tend to form clusters, there is no obvious topographic mapping of environmental location onto the hippocampus, such as seen in the visual cortex. Insights into hippocampal organization, as in this study, can elucidate mechanisms underlying motivational behaviors, spatial navigation, and memory formation.",
+    "publicationTitle": "Hippocampus",
+    "volume": "33",
+    "issue": "2",
+    "pages": "65-84",
+    "date": "2022-12-15",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "en",
+    "DOI": "10.1002/hipo.23489",
+    "ISSN": "1098-1063",
+    "shortTitle": "",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.23489",
+    "accessDate": "2024-07-18T05:45:48Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Wiley Online Library",
+    "callNumber": "",
+    "rights": "© 2022 Wiley Periodicals LLC.",
+    "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/hipo.23489",
+    "tags": [
+      {
+        "tag": "CA1",
+        "type": 1
+      },
+      {
+        "tag": "Miniscope V4"
+      },
+      {
+        "tag": "Moran's I",
+        "type": 1
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "calcium imaging",
+        "type": 1
+      },
+      {
+        "tag": "hippocampus",
+        "type": 1
+      },
+      {
+        "tag": "miniscopes",
+        "type": 1
+      },
+      {
+        "tag": "place fields",
+        "type": 1
+      },
+      {
+        "tag": "reward",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-18T05:45:48Z",
+    "dateModified": "2024-07-23T00:24:15Z"
   },
   {
     "key": "TWESX9DN",
@@ -7526,6 +6759,90 @@
     "dateModified": "2024-07-18T06:28:01Z"
   },
   {
+    "key": "KEMP7WDC",
+    "version": 1924,
+    "itemType": "journalArticle",
+    "title": "New imaging instrument in animal models: Two-photon miniature microscope and large field of view miniature microscope for freely behaving animals",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Changliang",
+        "lastName": "Guo"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Aimin",
+        "lastName": "Wang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Heping",
+        "lastName": "Cheng"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Liangyi",
+        "lastName": "Chen"
+      }
+    ],
+    "abstractNote": "Over the past decade, novel optical imaging tools have been developed for imaging neuronal activities along with the evolution of fluorescence indicators with brighter expression and higher sensitivity. Miniature microscopes, as revolutionary approaches, enable the imaging of large populations of neuron ensembles in freely behaving rodents and mammals, which allows exploring the neural basis of behaviors. Recent progress in two-photon miniature microscopes and mesoscale single-photon miniature microscopes further expand those affordable methods to navigate neural activities during naturalistic behaviors. In this review article, two-photon miniature microscopy techniques are summarized historically from the first documented attempt to the latest ones, and comparisons are made. The driving force behind and their potential for neuroscientific inquiries are also discussed. Current progress in terms of the mesoscale, i.e., the large field-of-view miniature microscopy technique, is addressed as well. Then, pipelines for registering single cells from the data of two-photon and large field-of-view miniature microscopes are discussed. Finally, we present the potential evolution of the techniques.",
+    "publicationTitle": "Journal of Neurochemistry",
+    "volume": "164",
+    "issue": "3",
+    "pages": "270-283",
+    "date": "2022-10-25",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "en",
+    "DOI": "10.1111/jnc.15711",
+    "ISSN": "1471-4159",
+    "shortTitle": "New imaging instrument in animal models",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jnc.15711",
+    "accessDate": "2024-07-17T19:54:42Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Wiley Online Library",
+    "callNumber": "",
+    "rights": "© 2022 International Society for Neurochemistry.",
+    "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/jnc.15711",
+    "tags": [
+      {
+        "tag": "MiniLFOV"
+      },
+      {
+        "tag": "Review"
+      },
+      {
+        "tag": "large field-of-view imaging",
+        "type": 1
+      },
+      {
+        "tag": "miniature fluorescence microscopy",
+        "type": 1
+      },
+      {
+        "tag": "neural imaging",
+        "type": 1
+      },
+      {
+        "tag": "neuroscience",
+        "type": 1
+      },
+      {
+        "tag": "two-photon microscopy",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T19:54:42Z",
+    "dateModified": "2024-07-23T00:25:14Z"
+  },
+  {
     "key": "XJH4DY4T",
     "version": 1689,
     "itemType": "journalArticle",
@@ -7990,6 +7307,125 @@
     "dateModified": "2024-07-18T06:14:38Z"
   },
   {
+    "key": "C4TG3QGT",
+    "version": 1898,
+    "itemType": "journalArticle",
+    "title": "BehaviorDEPOT is a simple, flexible tool for automated behavioral detection based on markerless pose tracking",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Christopher J",
+        "lastName": "Gabriel"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Zachary",
+        "lastName": "Zeidler"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Benita",
+        "lastName": "Jin"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Changliang",
+        "lastName": "Guo"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Caitlin M",
+        "lastName": "Goodpaster"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Adrienne Q",
+        "lastName": "Kashay"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Anna",
+        "lastName": "Wu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Molly",
+        "lastName": "Delaney"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jovian",
+        "lastName": "Cheung"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Lauren E",
+        "lastName": "DiFazio"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Melissa J",
+        "lastName": "Sharpe"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Daniel",
+        "lastName": "Aharoni"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Scott A",
+        "lastName": "Wilke"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Laura A",
+        "lastName": "DeNardo"
+      }
+    ],
+    "abstractNote": "Quantitative descriptions of animal behavior are essential to study the neural substrates of cognitive and emotional processes. Analyses of naturalistic behaviors are often performed by hand or with expensive, inflexible commercial software. Recently, machine learning methods for markerless pose estimation enabled automated tracking of freely moving animals, including in labs with limited coding expertise. However, classifying specific behaviors based on pose data requires additional computational analyses and remains a significant challenge for many groups. We developed BehaviorDEPOT (DEcoding behavior based on POsitional Tracking), a simple, flexible software program that can detect behavior from video timeseries and can analyze the results of experimental assays. BehaviorDEPOT calculates kinematic and postural statistics from keypoint tracking data and creates heuristics that reliably detect behaviors. It requires no programming experience and is applicable to a wide range of behaviors and experimental designs. We provide several hard-coded heuristics. Our freezing detection heuristic achieves above 90% accuracy in videos of mice and rats, including those wearing tethered head-mounts. BehaviorDEPOT also helps researchers develop their own heuristics and incorporate them into the software’s graphical interface. Behavioral data is stored framewise for easy alignment with neural data. We demonstrate the immediate utility and flexibility of BehaviorDEPOT using popular assays including fear conditioning, decision-making in a T-maze, open field, elevated plus maze, and novel object exploration.",
+    "publicationTitle": "eLife",
+    "volume": "11",
+    "issue": "",
+    "pages": "e74314",
+    "date": "2022-08-23",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "en",
+    "DOI": "10.7554/eLife.74314",
+    "ISSN": "2050-084X",
+    "shortTitle": "",
+    "url": "https://elifesciences.org/articles/74314",
+    "accessDate": "2024-07-23T00:09:58Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Technique"
+      },
+      {
+        "tag": "Technology"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4811862/items/MY8ATDFU"
+    },
+    "dateAdded": "2024-07-17T20:25:31Z",
+    "dateModified": "2024-07-23T00:10:13Z"
+  },
+  {
     "key": "PYXNXL7L",
     "version": 1535,
     "itemType": "journalArticle",
@@ -8083,6 +7519,65 @@
     "relations": {},
     "dateAdded": "2024-07-17T19:55:53Z",
     "dateModified": "2024-07-18T03:54:18Z"
+  },
+  {
+    "key": "AUI2GWQZ",
+    "version": 1925,
+    "itemType": "journalArticle",
+    "title": "Simultaneous Cellular Imaging, Electrical Recording and Stimulation of Hippocampal Activity in Freely Behaving Mice",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Chae Young",
+        "lastName": "Kim"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sang Jeong",
+        "lastName": "Kim"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Fabian",
+        "lastName": "Kloosterman"
+      }
+    ],
+    "abstractNote": "Hippocampal sharp-wave ripple activity (SWRs) and the associated replay of neural activity patterns are well-known for their role in memory consolidation. This activity has been studied using electrophysiological approaches, as high temporal resolution is required to recognize SWRs in the neuronal signals. However, it has been difficult to analyze the individual contribution of neurons to task-specific SWRs, because it is hard to track neurons across a long time with electrophysiological recording. In this study, we recorded local field potential (LFP) signals in the hippocampal CA1 of freely behaving mice and simultaneously imaged calcium signals in contralateral CA1 to leverage the advantages of both electrophysiological and imaging approaches. We manufactured a custom-designed microdrive array and targeted tetrodes to the left hippocampus CA1 for LFP recording and applied electrical stimulation in the ventral hippocampal commissure (VHC) for closed-loop disruption of SWRs. Neuronal population imaging in the right hippocampal CA1 was performed using a miniature fluorescent microscope (Miniscope) and a genetically encoded calcium indicator. As SWRs show highly synchronized bilateral occurrence, calcium signals of SWR-participating neurons could be identified and tracked in spontaneous or SWR-disrupted conditions. Using this approach, we identified a subpopulation of CA1 neurons showing synchronous calcium elevation to SWRs. Our results showed that SWR-related calcium transients are more disrupted by electrical stimulation than non-SWR-related calcium transients, validating the capability of the system to detect and disrupt SWRs. Our dual recording method can be used to uncover the dynamic participation of individual neurons in SWRs and replay over extended time windows.",
+    "publicationTitle": "Experimental Neurobiology",
+    "volume": "31",
+    "issue": "3",
+    "pages": "208-220",
+    "date": "2022-06-30",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Exp Neurobiol",
+    "language": "",
+    "DOI": "10.5607/en22011",
+    "ISSN": "1226-2560",
+    "shortTitle": "",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9272116/",
+    "accessDate": "2024-07-18T04:34:44Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "PubMed Central",
+    "callNumber": "",
+    "rights": "",
+    "extra": "PMID: 35786642\nPMCID: PMC9272116",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Science"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-18T04:34:44Z",
+    "dateModified": "2024-07-23T00:25:40Z"
   },
   {
     "key": "5IP35FNJ",
@@ -8590,336 +8085,82 @@
     "dateModified": "2024-07-18T06:05:27Z"
   },
   {
-    "key": "H45248JC",
-    "version": 1718,
+    "key": "98PTA4H6",
+    "version": 1926,
     "itemType": "journalArticle",
-    "title": "CCR5 closes the temporal window for memory linking",
+    "title": "In Vivo Multi-Day Calcium Imaging of CA1 Hippocampus in Freely Moving Rats Reveals a High Preponderance of Place Cells with Consistent Place Fields",
     "creators": [
       {
         "creatorType": "author",
-        "firstName": "Yang",
-        "lastName": "Shen"
+        "firstName": "Hannah S.",
+        "lastName": "Wirtshafter"
       },
       {
         "creatorType": "author",
-        "firstName": "Miou",
-        "lastName": "Zhou"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Denise",
-        "lastName": "Cai"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Daniel Almeida",
-        "lastName": "Filho"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Giselle",
-        "lastName": "Fernandes"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ying",
-        "lastName": "Cai"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "André F.",
-        "lastName": "de Sousa"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Min",
-        "lastName": "Tian"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Nury",
-        "lastName": "Kim"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jinsu",
-        "lastName": "Lee"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Deanna",
-        "lastName": "Necula"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Chengbin",
-        "lastName": "Zhou"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Shuoyi",
-        "lastName": "Li"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Shelbi",
-        "lastName": "Salinas"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Andy",
-        "lastName": "Liu"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Xiaoman",
-        "lastName": "Kang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Masakazu",
-        "lastName": "Kamata"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ayal",
-        "lastName": "Lavi"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Shan",
-        "lastName": "Huang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Tawnie",
-        "lastName": "Silva"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Won",
-        "lastName": "Do Heo"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Alcino J.",
-        "lastName": "Silva"
+        "firstName": "John F.",
+        "lastName": "Disterhoft"
       }
     ],
-    "abstractNote": "Real-world memories are formed in a particular context and are often not acquired or recalled in isolation1–5. Time is a key variable in the organization of memories, as events that are experienced close in time are more likely to be meaningfully associated, whereas those that are experienced with a longer interval are not1–4. How the brain segregates events that are temporally distinct is unclear. Here we show that a delayed (12–24 h) increase in the expression of C-C chemokine receptor type 5 (CCR5)—an immune receptor that is well known as a co-receptor for HIV infection6,7—after the formation of a contextual memory determines the duration of the temporal window for associating or linking that memory with subsequent memories. This delayed expression of CCR5 in mouse dorsal CA1 neurons results in a decrease in neuronal excitability, which in turn negatively regulates neuronal memory allocation, thus reducing the overlap between dorsal CA1 memory ensembles. Lowering this overlap affects the ability of one memory to trigger the recall of the other, and therefore closes the temporal window for memory linking. Our findings also show that an age-related increase in the neuronal expression of CCR5 and its ligand CCL5 leads to impairments in memory linking in aged mice, which could be reversed with a Ccr5 knockout and a drug approved by the US Food and Drug Administration (FDA) that inhibits this receptor, a result with clinical implications. Altogether, the findings reported here provide insights into the molecular and cellular mechanisms that shape the temporal window for memory linking.",
-    "publicationTitle": "Nature",
-    "volume": "606",
-    "issue": "7912",
-    "pages": "146-152",
-    "date": "2022-06",
+    "abstractNote": "Calcium imaging using GCaMP indicators and miniature microscopes has been used to image cellular populations during long timescales and in different task phases, as well as to determine neuronal circuit topology and organization. Because the hippocampus (HPC) is essential for tasks of memory, spatial navigation, and learning, calcium imaging of large populations of HPC neurons can provide new insight on cell changes over time during these tasks. All reported HPC in vivo calcium imaging experiments have been done in mouse. However, rats have many behavioral and physiological experimental advantages over mice. In this paper, we present the first (to our knowledge) in vivo calcium imaging from CA1 HPC in freely moving male rats. Using the UCLA Miniscope, we demonstrate that, in rat, hundreds of cells can be visualized and held across weeks. We show that calcium events in these cells are highly correlated with periods of movement, with few calcium events occurring during periods without movement. We additionally show that an extremely large percent of cells recorded during a navigational task are place cells (77.3 ± 5.0%, surpassing the percent seen during mouse calcium imaging), and that these cells enable accurate decoding of animal position and can be held over days with consistent place fields in a consistent spatial map. A detailed protocol is included, and implications of these advancements on in vivo imaging and place field literature are discussed.\nSIGNIFICANCE STATEMENT In vivo calcium imaging in freely moving animals allows the visualization of cellular activity across days. In this paper, we present the first in vivo Ca2+ recording from CA1 hippocampus (HPC) in freely moving rats. We demonstrate that hundreds of cells can be visualized and held across weeks, and that calcium activity corresponds to periods of movement. We show that a high percentage (77.3 ± 5.0%) of imaged cells are place cells, and that these place cells enable accurate decoding and can be held stably over days with little change in field location. Because the HPC is essential for many tasks involving memory, navigation, and learning, imaging of large populations of HPC neurons can shed new insight on cellular activity changes and organization.",
+    "publicationTitle": "Journal of Neuroscience",
+    "volume": "42",
+    "issue": "22",
+    "pages": "4538-4554",
+    "date": "2022-06-01",
     "series": "",
     "seriesTitle": "",
     "seriesText": "",
-    "journalAbbreviation": "",
+    "journalAbbreviation": "J. Neurosci.",
     "language": "en",
-    "DOI": "10.1038/s41586-022-04783-1",
-    "ISSN": "1476-4687",
+    "DOI": "10.1523/JNEUROSCI.1750-21.2022",
+    "ISSN": "0270-6474, 1529-2401",
     "shortTitle": "",
-    "url": "https://www.nature.com/articles/s41586-022-04783-1",
-    "accessDate": "2024-07-18T05:24:31Z",
+    "url": "https://www.jneurosci.org/content/42/22/4538",
+    "accessDate": "2024-07-17T19:51:15Z",
     "archive": "",
     "archiveLocation": "",
-    "libraryCatalog": "www.nature.com",
+    "libraryCatalog": "www.jneurosci.org",
     "callNumber": "",
-    "rights": "2022 The Author(s), under exclusive licence to Springer Nature Limited",
-    "extra": "Publisher: Nature Publishing Group",
+    "rights": "Copyright © 2022 the authors. SfN exclusive license.",
+    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 35501152",
     "tags": [
       {
-        "tag": "Hippocampus",
+        "tag": "Ca1",
         "type": 1
       },
       {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Molecular neuroscience",
-        "type": 1
-      },
-      {
-        "tag": "Neural ageing",
-        "type": 1
+        "tag": "Miniscope V4"
       },
       {
         "tag": "Science"
+      },
+      {
+        "tag": "calcium imaging",
+        "type": 1
+      },
+      {
+        "tag": "hippocampus",
+        "type": 1
+      },
+      {
+        "tag": "miniscopes",
+        "type": 1
+      },
+      {
+        "tag": "place cells",
+        "type": 1
+      },
+      {
+        "tag": "rats",
+        "type": 1
       }
     ],
     "collections": [
       "KRCY8EJ7"
     ],
     "relations": {},
-    "dateAdded": "2024-07-18T05:24:31Z",
-    "dateModified": "2024-07-18T05:24:42Z"
-  },
-  {
-    "key": "44PEWDZE",
-    "version": 1736,
-    "itemType": "journalArticle",
-    "title": "CCR5 closes the temporal window for memory linking",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Yang",
-        "lastName": "Shen"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Miou",
-        "lastName": "Zhou"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Denise",
-        "lastName": "Cai"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Daniel Almeida",
-        "lastName": "Filho"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Giselle",
-        "lastName": "Fernandes"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ying",
-        "lastName": "Cai"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "André F.",
-        "lastName": "de Sousa"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Min",
-        "lastName": "Tian"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Nury",
-        "lastName": "Kim"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jinsu",
-        "lastName": "Lee"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Deanna",
-        "lastName": "Necula"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Chengbin",
-        "lastName": "Zhou"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Shuoyi",
-        "lastName": "Li"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Shelbi",
-        "lastName": "Salinas"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Andy",
-        "lastName": "Liu"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Xiaoman",
-        "lastName": "Kang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Masakazu",
-        "lastName": "Kamata"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ayal",
-        "lastName": "Lavi"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Shan",
-        "lastName": "Huang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Tawnie",
-        "lastName": "Silva"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Won",
-        "lastName": "Do Heo"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Alcino J.",
-        "lastName": "Silva"
-      }
-    ],
-    "abstractNote": "Real-world memories are formed in a particular context and are often not acquired or recalled in isolation1–5. Time is a key variable in the organization of memories, as events that are experienced close in time are more likely to be meaningfully associated, whereas those that are experienced with a longer interval are not1–4. How the brain segregates events that are temporally distinct is unclear. Here we show that a delayed (12–24 h) increase in the expression of C-C chemokine receptor type 5 (CCR5)—an immune receptor that is well known as a co-receptor for HIV infection6,7—after the formation of a contextual memory determines the duration of the temporal window for associating or linking that memory with subsequent memories. This delayed expression of CCR5 in mouse dorsal CA1 neurons results in a decrease in neuronal excitability, which in turn negatively regulates neuronal memory allocation, thus reducing the overlap between dorsal CA1 memory ensembles. Lowering this overlap affects the ability of one memory to trigger the recall of the other, and therefore closes the temporal window for memory linking. Our findings also show that an age-related increase in the neuronal expression of CCR5 and its ligand CCL5 leads to impairments in memory linking in aged mice, which could be reversed with a Ccr5 knockout and a drug approved by the US Food and Drug Administration (FDA) that inhibits this receptor, a result with clinical implications. Altogether, the findings reported here provide insights into the molecular and cellular mechanisms that shape the temporal window for memory linking.",
-    "publicationTitle": "Nature",
-    "volume": "606",
-    "issue": "7912",
-    "pages": "146-152",
-    "date": "2022-06",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "10.1038/s41586-022-04783-1",
-    "ISSN": "1476-4687",
-    "shortTitle": "",
-    "url": "https://www.nature.com/articles/s41586-022-04783-1",
-    "accessDate": "2024-07-18T05:39:33Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.nature.com",
-    "callNumber": "",
-    "rights": "2022 The Author(s), under exclusive licence to Springer Nature Limited",
-    "extra": "Publisher: Nature Publishing Group",
-    "tags": [
-      {
-        "tag": "Hippocampus",
-        "type": 1
-      },
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Molecular neuroscience",
-        "type": 1
-      },
-      {
-        "tag": "Neural ageing",
-        "type": 1
-      },
-      {
-        "tag": "Science"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-18T05:39:33Z",
-    "dateModified": "2024-07-18T05:39:41Z"
+    "dateAdded": "2024-07-17T19:51:15Z",
+    "dateModified": "2024-07-23T00:25:46Z"
   },
   {
     "key": "7SQ6WVVC",
@@ -9646,7 +8887,7 @@
   },
   {
     "key": "SPTU8XR4",
-    "version": 1546,
+    "version": 1911,
     "itemType": "thesis",
     "title": "Electrophysiological correlates of sound processing in the limbic pathways and implications for tinnitus-related anxiety",
     "creators": [
@@ -9677,10 +8918,10 @@
         "tag": "Miniscope V3"
       },
       {
-        "tag": "Thesis"
+        "tag": "Miniscope V4"
       },
       {
-        "tag": "V4"
+        "tag": "Thesis"
       }
     ],
     "collections": [
@@ -9688,7 +8929,7 @@
     ],
     "relations": {},
     "dateAdded": "2024-07-17T20:10:34Z",
-    "dateModified": "2024-07-18T03:55:27Z"
+    "dateModified": "2024-07-23T00:15:58Z"
   },
   {
     "key": "Q3B4SIHW",
@@ -9986,6 +9227,110 @@
     "relations": {},
     "dateAdded": "2024-07-18T04:11:05Z",
     "dateModified": "2024-07-18T04:11:11Z"
+  },
+  {
+    "key": "2PFT7A7S",
+    "version": 1928,
+    "itemType": "journalArticle",
+    "title": "Custom-Built Operant Conditioning Setup for Calcium Imaging and Cognitive Testing in Freely Moving Mice",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Philip",
+        "lastName": "Vassilev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Esmeralda",
+        "lastName": "Fonseca"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Giovanni",
+        "lastName": "Hernandez"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Andrea Haree",
+        "lastName": "Pantoja-Urban"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Michel",
+        "lastName": "Giroux"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Dominique",
+        "lastName": "Nouel"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Elise Van",
+        "lastName": "Leer"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Cecilia",
+        "lastName": "Flores"
+      }
+    ],
+    "abstractNote": "Visual Abstract\n\nDownload figureOpen in new tabDownload powerpoint\nOperant chambers are widely used in animal research to study cognition, motivation, and learning processes. Paired with the rapidly developing technologies for brain imaging and manipulations of brain activity, operant conditioning chambers are a powerful tool for neuroscience research. The behavioral testing and imaging setups that are commercially available are often quite costly. Here, we present a custom-built operant chamber that can be constructed in a few days by an unexperienced user with relatively inexpensive, widely available materials. The advantages of our operant setup compared with other open-source and closed-source solutions are its relatively low cost, its support of complex behavioral tasks, its user-friendly setup, and its validated functionality with video imaging of behavior and calcium imaging using the UCLA Miniscope. Using this setup, we replicate our previously published findings showing that mice exposed to social defeat stress in adolescence have inhibitory control impairments in the Go/No-Go task when they reach adulthood. We also present calcium imaging data of medial prefrontal cortex (mPFC) neuronal activity acquired during Go/No-Go testing in freely moving mice and show that neuronal population activity increases from day 1 to day 14 of the task. We propose that our operant chamber is a cheaper alternative to its commercially available counterparts and offers a better balance between versatility and user-friendly setup than other open-source alternatives.",
+    "publicationTitle": "eNeuro",
+    "volume": "9",
+    "issue": "1",
+    "pages": "",
+    "date": "2022-01-01",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "eNeuro",
+    "language": "en",
+    "DOI": "10.1523/ENEURO.0430-21.2022",
+    "ISSN": "2373-2822",
+    "shortTitle": "",
+    "url": "https://www.eneuro.org/content/9/1/ENEURO.0430-21.2022",
+    "accessDate": "2024-07-17T19:41:44Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.eneuro.org",
+    "callNumber": "",
+    "rights": "Copyright © 2022 Vassilev et al.. This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International license, which permits unrestricted use, distribution and reproduction in any medium provided that the original work is properly attributed.",
+    "extra": "Publisher: Society for Neuroscience\nSection: Open Source Tools and Methods\nPMID: 35105659",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Technology"
+      },
+      {
+        "tag": "animal models",
+        "type": 1
+      },
+      {
+        "tag": "calcium imaging",
+        "type": 1
+      },
+      {
+        "tag": "cognition",
+        "type": 1
+      },
+      {
+        "tag": "open-source",
+        "type": 1
+      },
+      {
+        "tag": "operant conditioning",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T19:41:44Z",
+    "dateModified": "2024-07-23T00:26:30Z"
   },
   {
     "key": "8PBZ2FPE",
@@ -10313,188 +9658,6 @@
     "relations": {},
     "dateAdded": "2024-07-17T19:47:26Z",
     "dateModified": "2024-07-18T03:56:05Z"
-  },
-  {
-    "key": "9HDLK4SX",
-    "version": 1559,
-    "itemType": "journalArticle",
-    "title": "Shared Dorsal Periaqueductal Gray Activation Patterns during Exposure to Innate and Conditioned Threats",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Fernando M. C. V.",
-        "lastName": "Reis"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jinhan",
-        "lastName": "Liu"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Peter J.",
-        "lastName": "Schuette"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Johannes Y.",
-        "lastName": "Lee"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Sandra",
-        "lastName": "Maesta-Pereira"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Meghmik",
-        "lastName": "Chakerian"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Weisheng",
-        "lastName": "Wang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Newton S.",
-        "lastName": "Canteras"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jonathan C.",
-        "lastName": "Kao"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Avishek",
-        "lastName": "Adhikari"
-      }
-    ],
-    "abstractNote": "The brainstem dorsal periaqueductal gray (dPAG) has been widely recognized as being a vital node orchestrating the responses to innate threats. Intriguingly, recent evidence also shows that the dPAG mediates defensive responses to fear conditioned contexts. However, it is unknown whether the dPAG displays independent or shared patterns of activation during exposure to innate and conditioned threats. It is also unclear how dPAG ensembles encode and predict diverse defensive behaviors. To address this question, we used miniaturized microscopes to obtain recordings of the same dPAG ensembles during exposure to a live predator and a fear conditioned context in male mice. dPAG ensembles encoded not only distance to threat, but also relevant features, such as predator speed and angular offset between mouse and threat. Furthermore, dPAG cells accurately encoded numerous defensive behaviors, including freezing, stretch-attend postures, and escape. Encoding of behaviors and of distance to threat occurred independently in dPAG cells. dPAG cells also displayed a shared representation to encode these behaviors and distance to threat across innate and conditioned threats. Last, we also show that escape could be predicted by dPAG activity several seconds in advance. Thus, dPAG activity dynamically tracks key kinematic and behavioral variables during exposure to threats, and exhibits similar patterns of activation during defensive behaviors elicited by innate or conditioned threats. These data indicate that a common pathway may be recruited by the dPAG during exposure to a wide variety of threat modalities.\nSIGNIFICANCE STATEMENT The dorsal periaqueductal gray (dPAG) is critical to generate defensive behaviors during encounters with threats of multiple modalities. Here we use longitudinal calcium transient recordings of dPAG ensembles in freely moving mice to show that this region uses shared patterns of activity to represent distance to an innate threat (a live predator) and a conditioned threat (a shock grid). We also show that dPAG neural activity can predict diverse defensive behaviors. These data indicate the dPAG uses conserved population-level activity patterns to encode and coordinate defensive behaviors during exposure to both innate and conditioned threats.",
-    "publicationTitle": "Journal of Neuroscience",
-    "volume": "41",
-    "issue": "25",
-    "pages": "5399-5420",
-    "date": "2021/06/23",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "J. Neurosci.",
-    "language": "en",
-    "DOI": "10.1523/JNEUROSCI.2450-20.2021",
-    "ISSN": "0270-6474, 1529-2401",
-    "shortTitle": "",
-    "url": "https://www.jneurosci.org/content/41/25/5399",
-    "accessDate": "2024-07-17T20:52:05Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.jneurosci.org",
-    "callNumber": "",
-    "rights": "Copyright © 2021 the authors. SfN exclusive license.",
-    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 33883203",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "anxiety",
-        "type": 1
-      },
-      {
-        "tag": "calcium imaging",
-        "type": 1
-      },
-      {
-        "tag": "decoding",
-        "type": 1
-      },
-      {
-        "tag": "fear",
-        "type": 1
-      },
-      {
-        "tag": "periaqueductal gray",
-        "type": 1
-      },
-      {
-        "tag": "predator",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:52:05Z",
-    "dateModified": "2024-07-18T03:56:56Z"
-  },
-  {
-    "key": "RXA6GN4L",
-    "version": 1560,
-    "itemType": "journalArticle",
-    "title": "Using Baseplating and a Miniscope Preanchored with an Objective Lens for Calcium Transient Research in Mice",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Yi-Tse",
-        "lastName": "Hsiao"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Angela Yu-Chi",
-        "lastName": "Wang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ting-Yen",
-        "lastName": "Lee"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Ching-Yuan",
-        "lastName": "Chang"
-      }
-    ],
-    "abstractNote": "Neuroscientists use miniature microscopes (miniscopes) to observe neuronal activity in freely behaving animals. The University of California, Los Angeles (UCLA) Miniscope team provides open resources for researchers to build miniscopes themselves. The V3 UCLA Miniscope is one of the most popular open-source miniscopes currently in use. It permits imaging of the fluorescence transients emitted from genetically modified neurons through an objective lens implanted on the superficial cortex (a one-lens system), or in deep brain areas through a combination of a relay lens implanted in the deep brain and an objective lens that is preanchored in the miniscope to observe the relayed image (a two-lens system). Even under optimal conditions (when neurons express fluorescence indicators and the relay lens has been properly implanted), a volume change of the dental cement between the baseplate and its attachment to the skull upon cement curing can cause misalignment with an altered distance between the objective and relay lenses, resulting in the poor image quality. A baseplate is a plate that helps mount the miniscope onto the skull and fixes the working distance between the objective and relay lenses. Thus, changes in the volume of the dental cement around the baseplate alter the distance between the lenses. The present protocol aims to minimize the misalignment problem caused by volume changes in the dental cement. The protocol reduces the misalignment by building an initial foundation of dental cement during relay lens implantation. The convalescence time after implantation is sufficient for the foundation of dental cement to cure the baseplate completely, so the baseplate can be cemented on this scaffold using as little new cement as possible. In the present article, we describe strategies for baseplating in mice to enable imaging of neuronal activity with an objective lens anchored in the miniscope.",
-    "publicationTitle": "JoVE (Journal of Visualized Experiments)",
-    "volume": "",
-    "issue": "172",
-    "pages": "e62611",
-    "date": "2021/06/05",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "10.3791/62611",
-    "ISSN": "1940-087X",
-    "shortTitle": "",
-    "url": "https://www.jove.com/v/62611/using-baseplating-miniscope-preanchored-with-an-objective-lens-for",
-    "accessDate": "2024-07-17T19:38:57Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.jove.com",
-    "callNumber": "",
-    "rights": "",
-    "extra": "",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Protocol"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T19:38:57Z",
-    "dateModified": "2024-07-18T03:57:02Z"
   },
   {
     "key": "PDI97NRP",
@@ -11502,6 +10665,109 @@
     "dateModified": "2024-07-18T03:56:26Z"
   },
   {
+    "key": "TD37SY8F",
+    "version": 1931,
+    "itemType": "journalArticle",
+    "title": "Conjunctive spatial and self-motion codes are topographically organized in the GABAergic cells of the lateral septum",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Suzanne van der",
+        "lastName": "Veldt"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Guillaume",
+        "lastName": "Etter"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Coralie-Anne",
+        "lastName": "Mosser"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Frédéric",
+        "lastName": "Manseau"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sylvain",
+        "lastName": "Williams"
+      }
+    ],
+    "abstractNote": "The hippocampal spatial code’s relevance for downstream neuronal populations—particularly its major subcortical output the lateral septum (LS)—is still poorly understood. Here, using calcium imaging combined with unbiased analytical methods, we functionally characterized and compared the spatial tuning of LS GABAergic cells to those of dorsal CA3 and CA1 cells. We identified a significant number of LS cells that are modulated by place, speed, acceleration, and direction, as well as conjunctions of these properties, directly comparable to hippocampal CA1 and CA3 spatially modulated cells. Interestingly, Bayesian decoding of position based on LS spatial cells reflected the animal’s location as accurately as decoding using the activity of hippocampal pyramidal cells. A portion of LS cells showed stable spatial codes over the course of multiple days, potentially reflecting long-term episodic memory. The distributions of cells exhibiting these properties formed gradients along the anterior–posterior and dorsal–ventral axes of the LS, directly reflecting the topographical organization of hippocampal inputs to the LS. Finally, we show using transsynaptic tracing that LS neurons receiving CA3 and CA1 excitatory input send projections to the hypothalamus and medial septum, regions that are not targeted directly by principal cells of the dorsal hippocampus. Together, our findings demonstrate that the LS accurately and robustly represents spatial, directional as well as self-motion information and is uniquely positioned to relay this information from the hippocampus to its downstream regions, thus occupying a key position within a distributed spatial memory network.",
+    "publicationTitle": "PLOS Biology",
+    "volume": "19",
+    "issue": "8",
+    "pages": "e3001383",
+    "date": "2021-08-30",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "PLOS Biology",
+    "language": "en",
+    "DOI": "10.1371/journal.pbio.3001383",
+    "ISSN": "1545-7885",
+    "shortTitle": "",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001383",
+    "accessDate": "2024-07-17T20:39:55Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "PLoS Journals",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: Public Library of Science",
+    "tags": [
+      {
+        "tag": "Acceleration",
+        "type": 1
+      },
+      {
+        "tag": "Hippocampus",
+        "type": 1
+      },
+      {
+        "tag": "Intraocular lens implantation",
+        "type": 1
+      },
+      {
+        "tag": "Linear regression analysis",
+        "type": 1
+      },
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Neuronal tuning",
+        "type": 1
+      },
+      {
+        "tag": "Neurons",
+        "type": 1
+      },
+      {
+        "tag": "Pyramidal cells",
+        "type": 1
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "Velocity",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4811862/items/CWNHH9IP"
+    },
+    "dateAdded": "2024-07-17T20:39:55Z",
+    "dateModified": "2024-07-23T00:27:11Z"
+  },
+  {
     "key": "CBPCNANV",
     "version": 1641,
     "itemType": "journalArticle",
@@ -11766,6 +11032,188 @@
     "relations": {},
     "dateAdded": "2024-07-18T05:59:29Z",
     "dateModified": "2024-07-18T05:59:39Z"
+  },
+  {
+    "key": "9HDLK4SX",
+    "version": 1932,
+    "itemType": "journalArticle",
+    "title": "Shared Dorsal Periaqueductal Gray Activation Patterns during Exposure to Innate and Conditioned Threats",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Fernando M. C. V.",
+        "lastName": "Reis"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jinhan",
+        "lastName": "Liu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Peter J.",
+        "lastName": "Schuette"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Johannes Y.",
+        "lastName": "Lee"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sandra",
+        "lastName": "Maesta-Pereira"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Meghmik",
+        "lastName": "Chakerian"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Weisheng",
+        "lastName": "Wang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Newton S.",
+        "lastName": "Canteras"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jonathan C.",
+        "lastName": "Kao"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Avishek",
+        "lastName": "Adhikari"
+      }
+    ],
+    "abstractNote": "The brainstem dorsal periaqueductal gray (dPAG) has been widely recognized as being a vital node orchestrating the responses to innate threats. Intriguingly, recent evidence also shows that the dPAG mediates defensive responses to fear conditioned contexts. However, it is unknown whether the dPAG displays independent or shared patterns of activation during exposure to innate and conditioned threats. It is also unclear how dPAG ensembles encode and predict diverse defensive behaviors. To address this question, we used miniaturized microscopes to obtain recordings of the same dPAG ensembles during exposure to a live predator and a fear conditioned context in male mice. dPAG ensembles encoded not only distance to threat, but also relevant features, such as predator speed and angular offset between mouse and threat. Furthermore, dPAG cells accurately encoded numerous defensive behaviors, including freezing, stretch-attend postures, and escape. Encoding of behaviors and of distance to threat occurred independently in dPAG cells. dPAG cells also displayed a shared representation to encode these behaviors and distance to threat across innate and conditioned threats. Last, we also show that escape could be predicted by dPAG activity several seconds in advance. Thus, dPAG activity dynamically tracks key kinematic and behavioral variables during exposure to threats, and exhibits similar patterns of activation during defensive behaviors elicited by innate or conditioned threats. These data indicate that a common pathway may be recruited by the dPAG during exposure to a wide variety of threat modalities.\nSIGNIFICANCE STATEMENT The dorsal periaqueductal gray (dPAG) is critical to generate defensive behaviors during encounters with threats of multiple modalities. Here we use longitudinal calcium transient recordings of dPAG ensembles in freely moving mice to show that this region uses shared patterns of activity to represent distance to an innate threat (a live predator) and a conditioned threat (a shock grid). We also show that dPAG neural activity can predict diverse defensive behaviors. These data indicate the dPAG uses conserved population-level activity patterns to encode and coordinate defensive behaviors during exposure to both innate and conditioned threats.",
+    "publicationTitle": "Journal of Neuroscience",
+    "volume": "41",
+    "issue": "25",
+    "pages": "5399-5420",
+    "date": "2021-06-23",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J. Neurosci.",
+    "language": "en",
+    "DOI": "10.1523/JNEUROSCI.2450-20.2021",
+    "ISSN": "0270-6474, 1529-2401",
+    "shortTitle": "",
+    "url": "https://www.jneurosci.org/content/41/25/5399",
+    "accessDate": "2024-07-17T20:52:05Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.jneurosci.org",
+    "callNumber": "",
+    "rights": "Copyright © 2021 the authors. SfN exclusive license.",
+    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 33883203",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "anxiety",
+        "type": 1
+      },
+      {
+        "tag": "calcium imaging",
+        "type": 1
+      },
+      {
+        "tag": "decoding",
+        "type": 1
+      },
+      {
+        "tag": "fear",
+        "type": 1
+      },
+      {
+        "tag": "periaqueductal gray",
+        "type": 1
+      },
+      {
+        "tag": "predator",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T20:52:05Z",
+    "dateModified": "2024-07-23T00:27:25Z"
+  },
+  {
+    "key": "RXA6GN4L",
+    "version": 1932,
+    "itemType": "journalArticle",
+    "title": "Using Baseplating and a Miniscope Preanchored with an Objective Lens for Calcium Transient Research in Mice",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Yi-Tse",
+        "lastName": "Hsiao"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Angela Yu-Chi",
+        "lastName": "Wang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ting-Yen",
+        "lastName": "Lee"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ching-Yuan",
+        "lastName": "Chang"
+      }
+    ],
+    "abstractNote": "Neuroscientists use miniature microscopes (miniscopes) to observe neuronal activity in freely behaving animals. The University of California, Los Angeles (UCLA) Miniscope team provides open resources for researchers to build miniscopes themselves. The V3 UCLA Miniscope is one of the most popular open-source miniscopes currently in use. It permits imaging of the fluorescence transients emitted from genetically modified neurons through an objective lens implanted on the superficial cortex (a one-lens system), or in deep brain areas through a combination of a relay lens implanted in the deep brain and an objective lens that is preanchored in the miniscope to observe the relayed image (a two-lens system). Even under optimal conditions (when neurons express fluorescence indicators and the relay lens has been properly implanted), a volume change of the dental cement between the baseplate and its attachment to the skull upon cement curing can cause misalignment with an altered distance between the objective and relay lenses, resulting in the poor image quality. A baseplate is a plate that helps mount the miniscope onto the skull and fixes the working distance between the objective and relay lenses. Thus, changes in the volume of the dental cement around the baseplate alter the distance between the lenses. The present protocol aims to minimize the misalignment problem caused by volume changes in the dental cement. The protocol reduces the misalignment by building an initial foundation of dental cement during relay lens implantation. The convalescence time after implantation is sufficient for the foundation of dental cement to cure the baseplate completely, so the baseplate can be cemented on this scaffold using as little new cement as possible. In the present article, we describe strategies for baseplating in mice to enable imaging of neuronal activity with an objective lens anchored in the miniscope.",
+    "publicationTitle": "JoVE (Journal of Visualized Experiments)",
+    "volume": "",
+    "issue": "172",
+    "pages": "e62611",
+    "date": "2021-06-05",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "en",
+    "DOI": "10.3791/62611",
+    "ISSN": "1940-087X",
+    "shortTitle": "",
+    "url": "https://www.jove.com/v/62611/using-baseplating-miniscope-preanchored-with-an-objective-lens-for",
+    "accessDate": "2024-07-17T19:38:57Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.jove.com",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Protocol"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T19:38:57Z",
+    "dateModified": "2024-07-23T00:27:31Z"
   },
   {
     "key": "UDHK7JMN",
@@ -12978,301 +12426,6 @@
     "dateModified": "2024-07-18T04:53:40Z"
   },
   {
-    "key": "WTWQZTWY",
-    "version": 1566,
-    "itemType": "journalArticle",
-    "title": "Long-Term Characterization of Hippocampal Remapping during Contextual Fear Acquisition and Extinction",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Peter J.",
-        "lastName": "Schuette"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Fernando M. C. V.",
-        "lastName": "Reis"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Sandra",
-        "lastName": "Maesta-Pereira"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Meghmik",
-        "lastName": "Chakerian"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Anita",
-        "lastName": "Torossian"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Garrett J.",
-        "lastName": "Blair"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Weisheng",
-        "lastName": "Wang"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Hugh T.",
-        "lastName": "Blair"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Michael S.",
-        "lastName": "Fanselow"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Jonathan C.",
-        "lastName": "Kao"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Avishek",
-        "lastName": "Adhikari"
-      }
-    ],
-    "abstractNote": "Hippocampal CA1 place cell spatial maps are known to alter their firing properties in response to contextual fear conditioning, a process called “remapping.” In the present study, we use chronic calcium imaging to examine remapping during fear retrieval and extinction of an inhibitory avoidance task in mice of both sexes over an extended period of time and with thousands of neurons. We demonstrate that hippocampal ensembles encode space at a finer scale following fear memory acquisition. This effect is strongest near the shock grid. We also characterize the long-term effects of shock on place cell ensemble stability, demonstrating that shock delivery induces several days of high fear and low between-session place field stability, followed by a new, stable spatial representation that appears after fear extinction. Finally, we identify a novel group of CA1 neurons that robustly encode freeze behavior independently from spatial location. Thus, following fear acquisition, hippocampal CA1 place cells sharpen their spatial tuning and dynamically change spatial encoding stability throughout fear learning and extinction.\nSIGNIFICANCE STATEMENT The hippocampus contains place cells that encode an animal's location. This spatial code updates, or remaps, in response to environmental change. It is known that contextual fear can induce such remapping; in the present study, we use chronic calcium imaging to examine inhibitory avoidance-induced remapping over an extended period of time and with thousands of neurons and demonstrate that hippocampal ensembles encode space at a finer scale following electric shock, an effect which is enhanced by threat proximity. We also identify a novel group of freeze behavior-activated neurons. These results suggest that, more than merely shuffling their spatial code following threat exposure, place cells enhance their spatial coding with the possible benefit of improved threat localization.",
-    "publicationTitle": "Journal of Neuroscience",
-    "volume": "40",
-    "issue": "43",
-    "pages": "8329-8342",
-    "date": "2020/10/21",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "J. Neurosci.",
-    "language": "en",
-    "DOI": "10.1523/JNEUROSCI.1022-20.2020",
-    "ISSN": "0270-6474, 1529-2401",
-    "shortTitle": "",
-    "url": "https://www.jneurosci.org/content/40/43/8329",
-    "accessDate": "2024-07-17T20:46:23Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.jneurosci.org",
-    "callNumber": "",
-    "rights": "Copyright © 2020 the authors. SfN exclusive license.",
-    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 32958567",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "calcium imaging",
-        "type": 1
-      },
-      {
-        "tag": "contextual fear conditioning",
-        "type": 1
-      },
-      {
-        "tag": "hippocampus",
-        "type": 1
-      },
-      {
-        "tag": "miniaturized microscope",
-        "type": 1
-      },
-      {
-        "tag": "place cell",
-        "type": 1
-      },
-      {
-        "tag": "remapping",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:46:23Z",
-    "dateModified": "2024-07-18T03:57:59Z"
-  },
-  {
-    "key": "FXEDD7FG",
-    "version": 1643,
-    "itemType": "journalArticle",
-    "title": "HippoBellum: Acute Cerebellar Modulation Alters Hippocampal Dynamics and Function",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Zachary",
-        "lastName": "Zeidler"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Katerina",
-        "lastName": "Hoffmann"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Esther",
-        "lastName": "Krook-Magnuson"
-      }
-    ],
-    "abstractNote": "Here we examine what effects acute manipulation of the cerebellum, a canonically motor structure, can have on the hippocampus, a canonically cognitive structure. In male and female mice, acute perturbation of the cerebellar vermis (lobule 4/5) or simplex produced reliable and specific effects in hippocampal function at cellular, population, and behavioral levels, including evoked local field potentials, increased hippocampal cFos expression, and altered CA1 calcium event rate, amplitudes, and correlated activity. We additionally noted a selective deficit on an object location memory task, which requires objection-location pairing. We therefore combined cerebellar optogenetic stimulation and CA1 calcium imaging with an object-exploration task, and found that cerebellar stimulation reduced the representation of place fields near objects, and prevented a shift in representation to the novel location when an object was moved. Together, these results clearly demonstrate that acute modulation of the cerebellum alters hippocampal function, and further illustrates that the cerebellum can influence cognitive domains.\nSIGNIFICANCE STATEMENT The cerebellum, a canonically motor-related structure, is being increasingly recognized for its influence on nonmotor functions and structures. The hippocampus is a brain region critical for cognitive functions, such as episodic memory and spatial navigation. To investigate how modulation of the cerebellum may impact the hippocampus, we stimulated two sites of the cerebellar cortex and examined hippocampal function at multiple levels. We found that cerebellar stimulation strongly modulates hippocampal activity, disrupts spatial memory, and alters object-location processing. Therefore, a canonically cognitive brain area, the hippocampus, is sensitive to cerebellar modulation.",
-    "publicationTitle": "Journal of Neuroscience",
-    "volume": "40",
-    "issue": "36",
-    "pages": "6910-6926",
-    "date": "2020/09/02",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "J. Neurosci.",
-    "language": "en",
-    "DOI": "10.1523/JNEUROSCI.0763-20.2020",
-    "ISSN": "0270-6474, 1529-2401",
-    "shortTitle": "HippoBellum",
-    "url": "https://www.jneurosci.org/content/40/36/6910",
-    "accessDate": "2024-07-18T04:22:02Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.jneurosci.org",
-    "callNumber": "",
-    "rights": "Copyright © 2020 the authors",
-    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 32769107",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "cerebellum",
-        "type": 1
-      },
-      {
-        "tag": "hippocampus",
-        "type": 1
-      },
-      {
-        "tag": "miniscope",
-        "type": 1
-      },
-      {
-        "tag": "object memory",
-        "type": 1
-      },
-      {
-        "tag": "spatial memory",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-18T04:22:02Z",
-    "dateModified": "2024-07-18T04:22:11Z"
-  },
-  {
-    "key": "KFE3HG6Z",
-    "version": 1741,
-    "itemType": "journalArticle",
-    "title": "Chemogenetic Modulation and Single-Photon Calcium Imaging in Anterior Cingulate Cortex Reveal a Mechanism for Effort-Based Decisions",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Evan E.",
-        "lastName": "Hart"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Garrett J.",
-        "lastName": "Blair"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Thomas J.",
-        "lastName": "O'Dell"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Hugh T.",
-        "lastName": "Blair"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Alicia",
-        "lastName": "Izquierdo"
-      }
-    ],
-    "abstractNote": "The ACC is implicated in effort exertion and choices based on effort cost, but it is still unclear how it mediates this cost-benefit evaluation. Here, male rats were trained to exert effort for a high-value reward (sucrose pellets) in a progressive ratio lever-pressing task. Trained rats were then tested in two conditions: a no-choice condition where lever-pressing for sucrose was the only available food option, and a choice condition where a low-value reward (lab chow) was freely available as an alternative to pressing for sucrose. Disruption of ACC, via either chemogenetic inhibition or excitation, reduced lever-pressing in the choice, but not in the no-choice, condition. We next looked for value coding cells in ACC during effortful behavior and reward consumption phases during choice and no-choice conditions. For this, we used in vivo miniaturized fluorescence microscopy to reliably track responses of the same cells and compare how ACC neurons respond during the same effortful behavior where there was a choice versus when there was no-choice. We found that lever-press and sucrose-evoked responses were significantly weaker during choice compared with no-choice sessions, which may have rendered them more susceptible to chemogenetic disruption. Together, findings from our interference experiments and neural recordings suggest that a mechanism by which ACC mediates effortful decisions is in the discrimination of the utility of available options. ACC regulates these choices by providing a stable population code for the relative value of different options.\nSIGNIFICANCE STATEMENT The ACC is implicated in effort-based decision-making. Here, we used chemogenetics and in vivo calcium imaging to explore its mechanism. Rats were trained to lever press for a high-value reward and tested in two conditions: a no-choice condition where lever-pressing for the high-value reward was the only option, and a choice condition where a low-value reward was also available. Inhibition or excitation of ACC reduced effort toward the high-value option, but only in the choice condition. Neural responses in ACC were weaker in the choice compared with the no-choice condition. A mechanism by which ACC regulates effortful decisions is in providing a stable population code for the discrimination of the utility of available options.",
-    "publicationTitle": "Journal of Neuroscience",
-    "volume": "40",
-    "issue": "29",
-    "pages": "5628-5643",
-    "date": "2020/07/15",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "J. Neurosci.",
-    "language": "en",
-    "DOI": "10.1523/JNEUROSCI.2548-19.2020",
-    "ISSN": "0270-6474, 1529-2401",
-    "shortTitle": "",
-    "url": "https://www.jneurosci.org/content/40/29/5628",
-    "accessDate": "2024-07-18T05:43:38Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "www.jneurosci.org",
-    "callNumber": "",
-    "rights": "Copyright © 2020 Hart et al.. This is an open-access article distributed under the terms of the Creative Commons Attribution License Creative Commons Attribution 4.0 International, which permits unrestricted use, distribution and reproduction in any medium provided that the original work is properly attributed.",
-    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 32527984",
-    "tags": [
-      {
-        "tag": "DREADDs",
-        "type": 1
-      },
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "calcium imaging",
-        "type": 1
-      },
-      {
-        "tag": "effort",
-        "type": 1
-      },
-      {
-        "tag": "frontal cortex",
-        "type": 1
-      },
-      {
-        "tag": "motivation",
-        "type": 1
-      },
-      {
-        "tag": "value",
-        "type": 1
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-18T05:43:38Z",
-    "dateModified": "2024-07-18T05:43:44Z"
-  },
-  {
     "key": "AUUUBPZN",
     "version": 1565,
     "itemType": "preprint",
@@ -13361,6 +12514,129 @@
     "relations": {},
     "dateAdded": "2024-07-17T20:03:33Z",
     "dateModified": "2024-07-18T03:57:54Z"
+  },
+  {
+    "key": "WTWQZTWY",
+    "version": 1933,
+    "itemType": "journalArticle",
+    "title": "Long-Term Characterization of Hippocampal Remapping during Contextual Fear Acquisition and Extinction",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Peter J.",
+        "lastName": "Schuette"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Fernando M. C. V.",
+        "lastName": "Reis"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sandra",
+        "lastName": "Maesta-Pereira"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Meghmik",
+        "lastName": "Chakerian"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Anita",
+        "lastName": "Torossian"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Garrett J.",
+        "lastName": "Blair"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Weisheng",
+        "lastName": "Wang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Hugh T.",
+        "lastName": "Blair"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Michael S.",
+        "lastName": "Fanselow"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jonathan C.",
+        "lastName": "Kao"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Avishek",
+        "lastName": "Adhikari"
+      }
+    ],
+    "abstractNote": "Hippocampal CA1 place cell spatial maps are known to alter their firing properties in response to contextual fear conditioning, a process called “remapping.” In the present study, we use chronic calcium imaging to examine remapping during fear retrieval and extinction of an inhibitory avoidance task in mice of both sexes over an extended period of time and with thousands of neurons. We demonstrate that hippocampal ensembles encode space at a finer scale following fear memory acquisition. This effect is strongest near the shock grid. We also characterize the long-term effects of shock on place cell ensemble stability, demonstrating that shock delivery induces several days of high fear and low between-session place field stability, followed by a new, stable spatial representation that appears after fear extinction. Finally, we identify a novel group of CA1 neurons that robustly encode freeze behavior independently from spatial location. Thus, following fear acquisition, hippocampal CA1 place cells sharpen their spatial tuning and dynamically change spatial encoding stability throughout fear learning and extinction.\nSIGNIFICANCE STATEMENT The hippocampus contains place cells that encode an animal's location. This spatial code updates, or remaps, in response to environmental change. It is known that contextual fear can induce such remapping; in the present study, we use chronic calcium imaging to examine inhibitory avoidance-induced remapping over an extended period of time and with thousands of neurons and demonstrate that hippocampal ensembles encode space at a finer scale following electric shock, an effect which is enhanced by threat proximity. We also identify a novel group of freeze behavior-activated neurons. These results suggest that, more than merely shuffling their spatial code following threat exposure, place cells enhance their spatial coding with the possible benefit of improved threat localization.",
+    "publicationTitle": "Journal of Neuroscience",
+    "volume": "40",
+    "issue": "43",
+    "pages": "8329-8342",
+    "date": "2020-10-21",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J. Neurosci.",
+    "language": "en",
+    "DOI": "10.1523/JNEUROSCI.1022-20.2020",
+    "ISSN": "0270-6474, 1529-2401",
+    "shortTitle": "",
+    "url": "https://www.jneurosci.org/content/40/43/8329",
+    "accessDate": "2024-07-17T20:46:23Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.jneurosci.org",
+    "callNumber": "",
+    "rights": "Copyright © 2020 the authors. SfN exclusive license.",
+    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 32958567",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "calcium imaging",
+        "type": 1
+      },
+      {
+        "tag": "contextual fear conditioning",
+        "type": 1
+      },
+      {
+        "tag": "hippocampus",
+        "type": 1
+      },
+      {
+        "tag": "miniaturized microscope",
+        "type": 1
+      },
+      {
+        "tag": "place cell",
+        "type": 1
+      },
+      {
+        "tag": "remapping",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T20:46:23Z",
+    "dateModified": "2024-07-23T00:27:39Z"
   },
   {
     "key": "8IT8RRRP",
@@ -13728,6 +13004,85 @@
     "dateModified": "2024-07-18T06:22:52Z"
   },
   {
+    "key": "FXEDD7FG",
+    "version": 1934,
+    "itemType": "journalArticle",
+    "title": "HippoBellum: Acute Cerebellar Modulation Alters Hippocampal Dynamics and Function",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Zachary",
+        "lastName": "Zeidler"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Katerina",
+        "lastName": "Hoffmann"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Esther",
+        "lastName": "Krook-Magnuson"
+      }
+    ],
+    "abstractNote": "Here we examine what effects acute manipulation of the cerebellum, a canonically motor structure, can have on the hippocampus, a canonically cognitive structure. In male and female mice, acute perturbation of the cerebellar vermis (lobule 4/5) or simplex produced reliable and specific effects in hippocampal function at cellular, population, and behavioral levels, including evoked local field potentials, increased hippocampal cFos expression, and altered CA1 calcium event rate, amplitudes, and correlated activity. We additionally noted a selective deficit on an object location memory task, which requires objection-location pairing. We therefore combined cerebellar optogenetic stimulation and CA1 calcium imaging with an object-exploration task, and found that cerebellar stimulation reduced the representation of place fields near objects, and prevented a shift in representation to the novel location when an object was moved. Together, these results clearly demonstrate that acute modulation of the cerebellum alters hippocampal function, and further illustrates that the cerebellum can influence cognitive domains.\nSIGNIFICANCE STATEMENT The cerebellum, a canonically motor-related structure, is being increasingly recognized for its influence on nonmotor functions and structures. The hippocampus is a brain region critical for cognitive functions, such as episodic memory and spatial navigation. To investigate how modulation of the cerebellum may impact the hippocampus, we stimulated two sites of the cerebellar cortex and examined hippocampal function at multiple levels. We found that cerebellar stimulation strongly modulates hippocampal activity, disrupts spatial memory, and alters object-location processing. Therefore, a canonically cognitive brain area, the hippocampus, is sensitive to cerebellar modulation.",
+    "publicationTitle": "Journal of Neuroscience",
+    "volume": "40",
+    "issue": "36",
+    "pages": "6910-6926",
+    "date": "2020-09-02",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J. Neurosci.",
+    "language": "en",
+    "DOI": "10.1523/JNEUROSCI.0763-20.2020",
+    "ISSN": "0270-6474, 1529-2401",
+    "shortTitle": "HippoBellum",
+    "url": "https://www.jneurosci.org/content/40/36/6910",
+    "accessDate": "2024-07-18T04:22:02Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.jneurosci.org",
+    "callNumber": "",
+    "rights": "Copyright © 2020 the authors",
+    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 32769107",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "cerebellum",
+        "type": 1
+      },
+      {
+        "tag": "hippocampus",
+        "type": 1
+      },
+      {
+        "tag": "miniscope",
+        "type": 1
+      },
+      {
+        "tag": "object memory",
+        "type": 1
+      },
+      {
+        "tag": "spatial memory",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-18T04:22:02Z",
+    "dateModified": "2024-07-23T00:27:45Z"
+  },
+  {
     "key": "WHQ96F7V",
     "version": 1803,
     "itemType": "preprint",
@@ -13996,6 +13351,99 @@
     "relations": {},
     "dateAdded": "2024-07-17T20:11:14Z",
     "dateModified": "2024-07-18T03:59:29Z"
+  },
+  {
+    "key": "KFE3HG6Z",
+    "version": 1935,
+    "itemType": "journalArticle",
+    "title": "Chemogenetic Modulation and Single-Photon Calcium Imaging in Anterior Cingulate Cortex Reveal a Mechanism for Effort-Based Decisions",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Evan E.",
+        "lastName": "Hart"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Garrett J.",
+        "lastName": "Blair"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Thomas J.",
+        "lastName": "O'Dell"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Hugh T.",
+        "lastName": "Blair"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Alicia",
+        "lastName": "Izquierdo"
+      }
+    ],
+    "abstractNote": "The ACC is implicated in effort exertion and choices based on effort cost, but it is still unclear how it mediates this cost-benefit evaluation. Here, male rats were trained to exert effort for a high-value reward (sucrose pellets) in a progressive ratio lever-pressing task. Trained rats were then tested in two conditions: a no-choice condition where lever-pressing for sucrose was the only available food option, and a choice condition where a low-value reward (lab chow) was freely available as an alternative to pressing for sucrose. Disruption of ACC, via either chemogenetic inhibition or excitation, reduced lever-pressing in the choice, but not in the no-choice, condition. We next looked for value coding cells in ACC during effortful behavior and reward consumption phases during choice and no-choice conditions. For this, we used in vivo miniaturized fluorescence microscopy to reliably track responses of the same cells and compare how ACC neurons respond during the same effortful behavior where there was a choice versus when there was no-choice. We found that lever-press and sucrose-evoked responses were significantly weaker during choice compared with no-choice sessions, which may have rendered them more susceptible to chemogenetic disruption. Together, findings from our interference experiments and neural recordings suggest that a mechanism by which ACC mediates effortful decisions is in the discrimination of the utility of available options. ACC regulates these choices by providing a stable population code for the relative value of different options.\nSIGNIFICANCE STATEMENT The ACC is implicated in effort-based decision-making. Here, we used chemogenetics and in vivo calcium imaging to explore its mechanism. Rats were trained to lever press for a high-value reward and tested in two conditions: a no-choice condition where lever-pressing for the high-value reward was the only option, and a choice condition where a low-value reward was also available. Inhibition or excitation of ACC reduced effort toward the high-value option, but only in the choice condition. Neural responses in ACC were weaker in the choice compared with the no-choice condition. A mechanism by which ACC regulates effortful decisions is in providing a stable population code for the discrimination of the utility of available options.",
+    "publicationTitle": "Journal of Neuroscience",
+    "volume": "40",
+    "issue": "29",
+    "pages": "5628-5643",
+    "date": "2020-07-15",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J. Neurosci.",
+    "language": "en",
+    "DOI": "10.1523/JNEUROSCI.2548-19.2020",
+    "ISSN": "0270-6474, 1529-2401",
+    "shortTitle": "",
+    "url": "https://www.jneurosci.org/content/40/29/5628",
+    "accessDate": "2024-07-18T05:43:38Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.jneurosci.org",
+    "callNumber": "",
+    "rights": "Copyright © 2020 Hart et al.. This is an open-access article distributed under the terms of the Creative Commons Attribution License Creative Commons Attribution 4.0 International, which permits unrestricted use, distribution and reproduction in any medium provided that the original work is properly attributed.",
+    "extra": "Publisher: Society for Neuroscience\nSection: Research Articles\nPMID: 32527984",
+    "tags": [
+      {
+        "tag": "DREADDs",
+        "type": 1
+      },
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "calcium imaging",
+        "type": 1
+      },
+      {
+        "tag": "effort",
+        "type": 1
+      },
+      {
+        "tag": "frontal cortex",
+        "type": 1
+      },
+      {
+        "tag": "motivation",
+        "type": 1
+      },
+      {
+        "tag": "value",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-18T05:43:38Z",
+    "dateModified": "2024-07-23T00:27:53Z"
   },
   {
     "key": "J8V794PJ",
@@ -14442,6 +13890,294 @@
     "dateModified": "2024-07-18T03:59:54Z"
   },
   {
+    "key": "AN78QWGH",
+    "version": 1936,
+    "itemType": "journalArticle",
+    "title": "Breakdown of spatial coding and interneuron synchronization in epileptic mice",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Tristan",
+        "lastName": "Shuman"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Daniel",
+        "lastName": "Aharoni"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Denise J.",
+        "lastName": "Cai"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Christopher R.",
+        "lastName": "Lee"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Spyridon",
+        "lastName": "Chavlis"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Lucia",
+        "lastName": "Page-Harley"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Lauren M.",
+        "lastName": "Vetere"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Yu",
+        "lastName": "Feng"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Chen Yi",
+        "lastName": "Yang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Irene",
+        "lastName": "Mollinedo-Gajate"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Lingxuan",
+        "lastName": "Chen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Zachary T.",
+        "lastName": "Pennington"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jiannis",
+        "lastName": "Taxidis"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sergio E.",
+        "lastName": "Flores"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Kevin",
+        "lastName": "Cheng"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Milad",
+        "lastName": "Javaherian"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Christina C.",
+        "lastName": "Kaba"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Naina",
+        "lastName": "Rao"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Mimi",
+        "lastName": "La-Vu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ioanna",
+        "lastName": "Pandi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Matthew",
+        "lastName": "Shtrahman"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Konstantin I.",
+        "lastName": "Bakhurin"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sotiris C.",
+        "lastName": "Masmanidis"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Baljit S.",
+        "lastName": "Khakh"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Panayiota",
+        "lastName": "Poirazi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Alcino J.",
+        "lastName": "Silva"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Peyman",
+        "lastName": "Golshani"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Nature Neuroscience",
+    "volume": "23",
+    "issue": "2",
+    "pages": "229-238",
+    "date": "2020-02",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Nat Neurosci",
+    "language": "en",
+    "DOI": "10.1038/s41593-019-0559-0",
+    "ISSN": "1097-6256, 1546-1726",
+    "shortTitle": "",
+    "url": "https://www.nature.com/articles/s41593-019-0559-0",
+    "accessDate": "2024-07-23T00:09:08Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "Wire-Free"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4811862/items/XGTA7TBP"
+    },
+    "dateAdded": "2024-07-18T04:19:32Z",
+    "dateModified": "2024-07-23T00:27:59Z"
+  },
+  {
+    "key": "V38ALSPN",
+    "version": 1884,
+    "itemType": "journalArticle",
+    "title": "NINscope, a versatile miniscope for multi-region circuit investigations",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Andres",
+        "lastName": "De Groot"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Bastijn Jg",
+        "lastName": "Van Den Boom"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Romano M",
+        "lastName": "Van Genderen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Joris",
+        "lastName": "Coppens"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "John",
+        "lastName": "Van Veldhuijzen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Joop",
+        "lastName": "Bos"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Hugo",
+        "lastName": "Hoedemaker"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Mario",
+        "lastName": "Negrello"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ingo",
+        "lastName": "Willuhn"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Chris I",
+        "lastName": "De Zeeuw"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Tycho M",
+        "lastName": "Hoogland"
+      }
+    ],
+    "abstractNote": "Miniaturized fluorescence microscopes (miniscopes) have been instrumental to monitor neural signals during unrestrained behavior and their open-source versions have made them affordable. Often, the footprint and weight of open-source miniscopes is sacrificed for added functionality. Here, we present NINscope: a light-weight miniscope with a small footprint that integrates a high-sensitivity image sensor, an inertial measurement unit and an LED driver for an external optogenetic probe. We use it to perform the first concurrent cellular resolution recordings from cerebellum and cerebral cortex in unrestrained mice, demonstrate its optogenetic stimulation capabilities to examine cerebello-cerebral or cortico-striatal connectivity, and replicate findings of action encoding in dorsal striatum. In combination with cross-platform acquisition and control software, our miniscope is a versatile addition to the expanding tool chest of open-source miniscopes that will increase access to multi-region circuit investigations during unrestrained behavior.",
+    "publicationTitle": "eLife",
+    "volume": "9",
+    "issue": "",
+    "pages": "e49987",
+    "date": "2020-01-14",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "en",
+    "DOI": "10.7554/eLife.49987",
+    "ISSN": "2050-084X",
+    "shortTitle": "",
+    "url": "https://elifesciences.org/articles/49987",
+    "accessDate": "2024-07-23T00:06:38Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "DAQ"
+      },
+      {
+        "tag": "Miniscope V4"
+      },
+      {
+        "tag": "Technology"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {
+      "dc:replaces": "http://zotero.org/groups/4811862/items/ZD8Z88RQ"
+    },
+    "dateAdded": "2024-07-17T19:51:32Z",
+    "dateModified": "2024-07-23T00:07:13Z"
+  },
+  {
     "key": "YZZCT88Z",
     "version": 1425,
     "itemType": "thesis",
@@ -14542,65 +14278,6 @@
     "relations": {},
     "dateAdded": "2024-07-17T20:12:50Z",
     "dateModified": "2024-07-18T04:00:00Z"
-  },
-  {
-    "key": "M7BLGGFX",
-    "version": 1576,
-    "itemType": "journalArticle",
-    "title": "Imaging and analysis of genetically encoded calcium indicators linking neural circuits and behaviors",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Jihae",
-        "lastName": "Oh"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Chiwoo",
-        "lastName": "Lee"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Bong-Kiun",
-        "lastName": "Kaang"
-      }
-    ],
-    "abstractNote": "",
-    "publicationTitle": "The Korean Journal of Physiology & Pharmacology",
-    "volume": "23",
-    "issue": "4",
-    "pages": "237-249",
-    "date": "2019/06/25",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "Korean J Physiol Pharmacol",
-    "language": "",
-    "DOI": "10.4196/kjpp.2019.23.4.237",
-    "ISSN": "",
-    "shortTitle": "",
-    "url": "https://synapse.koreamed.org/articles/1128240",
-    "accessDate": "2024-07-17T20:31:10Z",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "synapse.koreamed.org",
-    "callNumber": "",
-    "rights": "",
-    "extra": "Publisher: The Korean Physiological Society and The Korean Society of Pharmacology",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Science"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:31:10Z",
-    "dateModified": "2024-07-18T04:00:27Z"
   },
   {
     "key": "SLNNQQBH",
@@ -15030,6 +14707,65 @@
     "relations": {},
     "dateAdded": "2024-07-18T06:25:25Z",
     "dateModified": "2024-07-18T06:25:30Z"
+  },
+  {
+    "key": "M7BLGGFX",
+    "version": 1937,
+    "itemType": "journalArticle",
+    "title": "Imaging and analysis of genetically encoded calcium indicators linking neural circuits and behaviors",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Jihae",
+        "lastName": "Oh"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Chiwoo",
+        "lastName": "Lee"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Bong-Kiun",
+        "lastName": "Kaang"
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "The Korean Journal of Physiology & Pharmacology",
+    "volume": "23",
+    "issue": "4",
+    "pages": "237-249",
+    "date": "2019-06-25",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Korean J Physiol Pharmacol",
+    "language": "",
+    "DOI": "10.4196/kjpp.2019.23.4.237",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "https://synapse.koreamed.org/articles/1128240",
+    "accessDate": "2024-07-17T20:31:10Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "synapse.koreamed.org",
+    "callNumber": "",
+    "rights": "",
+    "extra": "Publisher: The Korean Physiological Society and The Korean Society of Pharmacology",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Science"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T20:31:10Z",
+    "dateModified": "2024-07-23T00:28:09Z"
   },
   {
     "key": "PEK5UPF8",
@@ -15780,6 +15516,115 @@
     "dateModified": "2024-07-18T04:07:35Z"
   },
   {
+    "key": "MPFY49GG",
+    "version": 1909,
+    "itemType": "thesis",
+    "title": "Implementing simultaneous calcium imaging and optogenetics in freely moving rodents to investigate the role of local inhibition in place field stability",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Helena Z H",
+        "lastName": "Yan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Matthew A",
+        "lastName": "Wilson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jonathan P.",
+        "lastName": "Newman"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sara",
+        "lastName": "Wasserman"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Michael C.",
+        "lastName": "Wiest"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "",
+    "university": "Wellesley College",
+    "place": "",
+    "date": "2018-05-25",
+    "numPages": "",
+    "language": "en",
+    "shortTitle": "",
+    "url": "https://repository.wellesley.edu/thesiscollection/574",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Zotero",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "DAQ"
+      },
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Thesis"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T20:37:14Z",
+    "dateModified": "2024-07-23T00:12:43Z"
+  },
+  {
+    "key": "X4KIR54H",
+    "version": 1916,
+    "itemType": "thesis",
+    "title": "The role of the medial prefrontal cortex in reward seeking",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Simone",
+        "lastName": "Pfarr"
+      }
+    ],
+    "abstractNote": "",
+    "thesisType": "",
+    "university": "Ruperto-Carola University of Heidelberg",
+    "place": "",
+    "date": "2018",
+    "numPages": "",
+    "language": "en",
+    "shortTitle": "",
+    "url": "http://dx.doi.org/10.11588/heidok.00025508",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Zotero",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Thesis"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-17T20:54:16Z",
+    "dateModified": "2024-07-23T00:22:09Z"
+  },
+  {
     "key": "93SW9ID2",
     "version": 1578,
     "itemType": "journalArticle",
@@ -15992,280 +15837,5 @@
     "relations": {},
     "dateAdded": "2024-07-18T04:18:05Z",
     "dateModified": "2024-07-18T04:18:10Z"
-  },
-  {
-    "key": "7JLU4HSK",
-    "version": 1318,
-    "itemType": "webpage",
-    "title": "Hippocampal place cell remapping occurs with memory storage of aversive experiences | eLife",
-    "creators": [],
-    "abstractNote": "",
-    "websiteTitle": "",
-    "websiteType": "",
-    "date": "",
-    "shortTitle": "",
-    "url": "https://elifesciences.org/articles/80661",
-    "accessDate": "2024-07-17T19:54:19Z",
-    "language": "",
-    "rights": "",
-    "extra": "",
-    "tags": [
-      {
-        "tag": "MiniLFOV"
-      },
-      {
-        "tag": "Science"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T19:54:19Z",
-    "dateModified": "2024-07-17T19:54:27Z"
-  },
-  {
-    "key": "ZD8Z88RQ",
-    "version": 1579,
-    "itemType": "webpage",
-    "title": "NINscope, a versatile miniscope for multi-region circuit investigations | eLife",
-    "creators": [],
-    "abstractNote": "",
-    "websiteTitle": "",
-    "websiteType": "",
-    "date": "",
-    "shortTitle": "",
-    "url": "https://elifesciences.org/articles/49987",
-    "accessDate": "2024-07-17T19:51:32Z",
-    "language": "",
-    "rights": "",
-    "extra": "",
-    "tags": [
-      {
-        "tag": "DAQ"
-      },
-      {
-        "tag": "Miniscope V4"
-      },
-      {
-        "tag": "Technology"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T19:51:32Z",
-    "dateModified": "2024-07-18T04:00:58Z"
-  },
-  {
-    "key": "6CMML3SK",
-    "version": 1580,
-    "itemType": "webpage",
-    "title": "Learning-prolonged maintenance of stimulus information in CA1 and subiculum during trace fear conditioning: Cell Reports",
-    "creators": [],
-    "abstractNote": "",
-    "websiteTitle": "",
-    "websiteType": "",
-    "date": "",
-    "shortTitle": "",
-    "url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00864-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124723008641%3Fshowall%3Dtrue",
-    "accessDate": "2024-07-17T20:38:39Z",
-    "language": "",
-    "rights": "",
-    "extra": "",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Science"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:38:39Z",
-    "dateModified": "2024-07-18T04:01:04Z"
-  },
-  {
-    "key": "MY8ATDFU",
-    "version": 1580,
-    "itemType": "webpage",
-    "title": "BehaviorDEPOT is a simple, flexible tool for automated behavioral detection based on markerless pose tracking | eLife",
-    "creators": [],
-    "abstractNote": "",
-    "websiteTitle": "",
-    "websiteType": "",
-    "date": "",
-    "shortTitle": "",
-    "url": "https://elifesciences.org/articles/74314",
-    "accessDate": "2024-07-17T20:25:31Z",
-    "language": "",
-    "rights": "",
-    "extra": "",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Technique"
-      },
-      {
-        "tag": "Technology"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:25:31Z",
-    "dateModified": "2024-07-18T04:01:16Z"
-  },
-  {
-    "key": "MPFY49GG",
-    "version": 1581,
-    "itemType": "journalArticle",
-    "title": "Implementing simultaneous calcium imaging and optogenetics in freely moving rodents to investigate the role of local inhibition in place field stability",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Helena Z H",
-        "lastName": "Yan"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Off-campus",
-        "lastName": "Advisor"
-      },
-      {
-        "creatorType": "author",
-        "firstName": "Matthew A",
-        "lastName": "Wilson"
-      }
-    ],
-    "abstractNote": "",
-    "publicationTitle": "",
-    "volume": "",
-    "issue": "",
-    "pages": "",
-    "date": "",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "",
-    "ISSN": "",
-    "shortTitle": "",
-    "url": "",
-    "accessDate": "",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "Zotero",
-    "callNumber": "",
-    "rights": "",
-    "extra": "",
-    "tags": [
-      {
-        "tag": "DAQ"
-      },
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Thesis"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:37:14Z",
-    "dateModified": "2024-07-18T04:02:06Z"
-  },
-  {
-    "key": "X4KIR54H",
-    "version": 1583,
-    "itemType": "journalArticle",
-    "title": "Doctor of Natural Sciences",
-    "creators": [
-      {
-        "creatorType": "author",
-        "firstName": "Simone",
-        "lastName": "Pfarr"
-      }
-    ],
-    "abstractNote": "",
-    "publicationTitle": "",
-    "volume": "",
-    "issue": "",
-    "pages": "",
-    "date": "",
-    "series": "",
-    "seriesTitle": "",
-    "seriesText": "",
-    "journalAbbreviation": "",
-    "language": "en",
-    "DOI": "",
-    "ISSN": "",
-    "shortTitle": "",
-    "url": "",
-    "accessDate": "",
-    "archive": "",
-    "archiveLocation": "",
-    "libraryCatalog": "Zotero",
-    "callNumber": "",
-    "rights": "",
-    "extra": "",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Thesis"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-17T20:54:16Z",
-    "dateModified": "2024-07-18T04:02:57Z"
-  },
-  {
-    "key": "XGTA7TBP",
-    "version": 1630,
-    "itemType": "webpage",
-    "title": "Breakdown of spatial coding and interneuron synchronization in epileptic mice | Nature Neuroscience",
-    "creators": [],
-    "abstractNote": "",
-    "websiteTitle": "",
-    "websiteType": "",
-    "date": "",
-    "shortTitle": "",
-    "url": "https://www.nature.com/articles/s41593-019-0559-0",
-    "accessDate": "2024-07-18T04:19:32Z",
-    "language": "",
-    "rights": "",
-    "extra": "",
-    "tags": [
-      {
-        "tag": "Miniscope V3"
-      },
-      {
-        "tag": "Science"
-      },
-      {
-        "tag": "Wire-Free"
-      }
-    ],
-    "collections": [
-      "KRCY8EJ7"
-    ],
-    "relations": {},
-    "dateAdded": "2024-07-18T04:19:32Z",
-    "dateModified": "2024-07-18T04:19:55Z"
   }
 ]
