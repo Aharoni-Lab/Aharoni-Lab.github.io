@@ -4,12 +4,7 @@ title: "Lab Members"
 
 ## Principle Investigator
 
-![image](/People/DAharoni.jpg)
-
-**Daniel Aharoni, PhD**. Assistant Professor, Department of Neurology, UCLA
-DAharoni@mednet.ucla.edu
-
-
+{% include person.html name='daniel' %}
 
 ## Staff Researchers
 
@@ -37,7 +32,7 @@ DAharoni@mednet.ucla.edu
 
 ## Previous Lab Members
 
-**Changliang Guo**. Former Postdoctoral Researcher, UCLA
+{% include person.html name='changliang' %}
 
 {% include person.html name='takuya' %}
 
