@@ -317,6 +317,91 @@
     "dateModified": "2024-07-18T06:54:38Z"
   },
   {
+    "key": "7FJZN3VI",
+    "version": 1941,
+    "itemType": "journalArticle",
+    "title": "Constraints on the subsecond modulation of striatal dynamics by physiological dopamine signaling",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Charltien",
+        "lastName": "Long"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Kwang",
+        "lastName": "Lee"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Long",
+        "lastName": "Yang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Theresia",
+        "lastName": "Dafalias"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Alexander K.",
+        "lastName": "Wu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sotiris C.",
+        "lastName": "Masmanidis"
+      }
+    ],
+    "abstractNote": "Dopaminergic neurons play a crucial role in associative learning, but their capacity to regulate behavior on subsecond timescales remains debated. It is thought that dopaminergic neurons drive certain behaviors by rapidly modulating striatal spiking activity; however, a view has emerged that only artificially high (that is, supra-physiological) dopamine signals alter behavior on fast timescales. This raises the possibility that moment-to-moment striatal spiking activity is not strongly shaped by dopamine signals in the physiological range. To test this, we transiently altered dopamine levels while monitoring spiking responses in the ventral striatum of behaving mice. These manipulations led to only weak changes in striatal activity, except when dopamine release exceeded reward-matched levels. These findings suggest that dopaminergic neurons normally play a minor role in the subsecond modulation of striatal dynamics in relation to other inputs and demonstrate the importance of discerning dopaminergic neuron contributions to brain function under physiological and potentially nonphysiological conditions.",
+    "publicationTitle": "Nature Neuroscience",
+    "volume": "",
+    "issue": "",
+    "pages": "1-10",
+    "date": "2024-07-03",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Nat Neurosci",
+    "language": "en",
+    "DOI": "10.1038/s41593-024-01699-z",
+    "ISSN": "1546-1726",
+    "shortTitle": "",
+    "url": "https://www.nature.com/articles/s41593-024-01699-z",
+    "accessDate": "2024-07-23T20:13:29Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "www.nature.com",
+    "callNumber": "",
+    "rights": "2024 The Author(s), under exclusive licence to Springer Nature America, Inc.",
+    "extra": "Publisher: Nature Publishing Group",
+    "tags": [
+      {
+        "tag": "Minian"
+      },
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Neural circuits",
+        "type": 1
+      },
+      {
+        "tag": "Reward",
+        "type": 1
+      },
+      {
+        "tag": "Science"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-23T20:13:29Z",
+    "dateModified": "2024-07-23T20:14:15Z"
+  },
+  {
     "key": "458LSSSY",
     "version": 1837,
     "itemType": "journalArticle",
@@ -2014,6 +2099,97 @@
     "dateModified": "2024-07-18T06:28:57Z"
   },
   {
+    "key": "TYKLYI3R",
+    "version": 1951,
+    "itemType": "journalArticle",
+    "title": "On Optimizing Miniscope Data Analysis with Simulated Data: A Study of Parameter Optimization in the Minian Analysis Pipeline",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "A. I.",
+        "lastName": "Erofeev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "M. V.",
+        "lastName": "Petrushan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "L. V.",
+        "lastName": "Lysenko"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "E. K.",
+        "lastName": "Vinokurov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "O. L.",
+        "lastName": "Vlasova"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "I. B.",
+        "lastName": "Bezprozvanny"
+      }
+    ],
+    "abstractNote": "In vivo calcium imaging is widely used in neuroscience to assess the activity of neuronal ensembles. The advent of the single-photon miniature fluorescence microscope (miniscope) has made it possible to use intravital calcium imaging in freely moving animals. Various algorithms and analysis packages have been developed to analyze miniscope data. The present work uses model data with different noise levels as an example to examine the relationship between the accuracy of neuron detection and the values of parameters in Minian, a package for analyzing miniscope data. On the basis of the results obtained, recommendations are given for changing the values of the Minian parameters depending on the noise level in the processed data. The results obtained here provide preliminary guidance for selecting appropriate values for Minian parameters for processing experimental data. The results of this study are expected to be relevant to neuroscientists using intravital calcium imaging in freely moving animals.",
+    "publicationTitle": "Neuroscience and Behavioral Physiology",
+    "volume": "54",
+    "issue": "2",
+    "pages": "251-262",
+    "date": "2024-02-01",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Neurosci Behav Physi",
+    "language": "en",
+    "DOI": "10.1007/s11055-024-01593-y",
+    "ISSN": "1573-899X",
+    "shortTitle": "On Optimizing Miniscope Data Analysis with Simulated Data",
+    "url": "https://doi.org/10.1007/s11055-024-01593-y",
+    "accessDate": "2024-07-23T20:19:16Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Springer Link",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Minian"
+      },
+      {
+        "tag": "calcium",
+        "type": 1
+      },
+      {
+        "tag": "fluorescence",
+        "type": 1
+      },
+      {
+        "tag": "miniscope",
+        "type": 1
+      },
+      {
+        "tag": "modeling",
+        "type": 1
+      },
+      {
+        "tag": "parameter selection",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-23T20:19:16Z",
+    "dateModified": "2024-07-23T20:19:28Z"
+  },
+  {
     "key": "AKDRHLEG",
     "version": 1873,
     "itemType": "journalArticle",
@@ -2562,6 +2738,196 @@
     },
     "dateAdded": "2024-07-17T19:50:32Z",
     "dateModified": "2024-07-23T00:23:20Z"
+  },
+  {
+    "key": "JB4RPRG7",
+    "version": 1948,
+    "itemType": "preprint",
+    "title": "Vagal interoception of microbial metabolites from the small intestinal lumen",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kelly G.",
+        "lastName": "Jameson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sabeen A.",
+        "lastName": "Kazmi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Celine",
+        "lastName": "Son"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Donya",
+        "lastName": "Mazdeyasnan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Emma",
+        "lastName": "Leshan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Helen E.",
+        "lastName": "Vuong"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jorge",
+        "lastName": "Paramo"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Arlene",
+        "lastName": "Lopez-Romero"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Long",
+        "lastName": "Yang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Felix E.",
+        "lastName": "Schweizer"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Elaine Y.",
+        "lastName": "Hsiao"
+      }
+    ],
+    "abstractNote": "The vagus nerve is proposed to enable communication between the gut microbiome and brain, but activity-based evidence is lacking. Herein, we assess the extent of gut microbial influences on afferent vagal activity and metabolite signaling mechanisms involved. We find that mice reared without microbiota (germ-free, GF) exhibit decreased vagal afferent tone relative to conventionally colonized mice (specific pathogen-free, SPF), which is reversed by colonization with SPF microbiota. Perfusing non-absorbable antibiotics (ABX) into the small intestine of SPF mice, but not GF mice, acutely decreases vagal activity, which is restored upon re-perfusion with bulk lumenal contents or sterile filtrates from the small intestine and cecum of SPF, but not GF, mice. Of several candidates identified by metabolomic profiling, microbiome-dependent short-chain fatty acids, bile acids, and 3-indoxyl sulfate stimulate vagal activity with varied response kinetics, which is blocked by co-perfusion of pharmacological antagonists of FFAR2, TGR5, and TRPA1, respectively, into the small intestine. At the single-unit level, serial perfusion of each metabolite class elicits more singly responsive neurons than dually responsive neurons, suggesting distinct neuronal detection of different microbiome- and macronutrient- dependent metabolites. Finally, microbial metabolite-induced increases in vagal activity correspond with activation of neurons in the nucleus of the solitary tract, which is also blocked by co-administration of their respective receptor antagonists. Results from this study reveal that the gut microbiome regulates select metabolites in the intestinal lumen that differentially activate chemosensory vagal afferent neurons, thereby enabling microbial modulation of interoceptive signals for gut-brain communication.",
+    "genre": "",
+    "repository": "",
+    "archiveID": "",
+    "place": "",
+    "date": "2023-12-19",
+    "series": "",
+    "seriesNumber": "",
+    "DOI": "10.1101/2023.12.18.572257",
+    "citationKey": "",
+    "url": "http://biorxiv.org/lookup/doi/10.1101/2023.12.18.572257",
+    "accessDate": "2024-07-23T20:18:01Z",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "Neuroscience",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-23T20:18:01Z",
+    "dateModified": "2024-07-23T20:18:02Z"
+  },
+  {
+    "key": "2GS36QGN",
+    "version": 1948,
+    "itemType": "preprint",
+    "title": "Vagal interoception of microbial metabolites from the small intestinal lumen",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Kelly G.",
+        "lastName": "Jameson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Sabeen A.",
+        "lastName": "Kazmi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Celine",
+        "lastName": "Son"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Donya",
+        "lastName": "Mazdeyasnan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Emma",
+        "lastName": "Leshan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Helen E.",
+        "lastName": "Vuong"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jorge",
+        "lastName": "Paramo"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Arlene",
+        "lastName": "Lopez-Romero"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Long",
+        "lastName": "Yang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Felix E.",
+        "lastName": "Schweizer"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Elaine Y.",
+        "lastName": "Hsiao"
+      }
+    ],
+    "abstractNote": "The vagus nerve is proposed to enable communication between the gut microbiome and brain, but activity-based evidence is lacking. Herein, we assess the extent of gut microbial influences on afferent vagal activity and metabolite signaling mechanisms involved. We find that mice reared without microbiota (germ-free, GF) exhibit decreased vagal afferent tone relative to conventionally colonized mice (specific pathogen-free, SPF), which is reversed by colonization with SPF microbiota. Perfusing non-absorbable antibiotics (ABX) into the small intestine of SPF mice, but not GF mice, acutely decreases vagal activity, which is restored upon re-perfusion with bulk lumenal contents or sterile filtrates from the small intestine and cecum of SPF, but not GF, mice. Of several candidates identified by metabolomic profiling, microbiome-dependent short-chain fatty acids, bile acids, and 3-indoxyl sulfate stimulate vagal activity with varied response kinetics, which is blocked by co-perfusion of pharmacological antagonists of FFAR2, TGR5, and TRPA1, respectively, into the small intestine. At the single-unit level, serial perfusion of each metabolite class elicits more singly responsive neurons than dually responsive neurons, suggesting distinct neuronal detection of different microbiome- and macronutrient-dependent metabolites. Finally, microbial metabolite-induced increases in vagal activity correspond with activation of neurons in the nucleus of the solitary tract, which is also blocked by co-administration of their respective receptor antagonists. Results from this study reveal that the gut microbiome regulates select metabolites in the intestinal lumen that differentially activate chemosensory vagal afferent neurons, thereby enabling microbial modulation of interoceptive signals for gut-brain communication.\nHIGHLIGHTSMicrobiota colonization status modulates afferent vagal nerve activityGut microbes differentially regulate metabolites in the small intestine and cecumSelect microbial metabolites stimulate vagal afferents with varied response kineticsSelect microbial metabolites activate vagal afferent neurons and brainstem neurons via receptor-dependent signaling",
+    "genre": "",
+    "repository": "bioRxiv",
+    "archiveID": "",
+    "place": "",
+    "date": "2023-12-19",
+    "series": "",
+    "seriesNumber": "",
+    "DOI": "10.1101/2023.12.18.572257",
+    "citationKey": "",
+    "url": "https://www.biorxiv.org/content/10.1101/2023.12.18.572257v1",
+    "accessDate": "2024-07-23T20:18:08Z",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "bioRxiv",
+    "callNumber": "",
+    "rights": "© 2023, Posted by Cold Spring Harbor Laboratory. The copyright holder for this pre-print is the author. All rights reserved. The material may not be redistributed, re-used or adapted without the author's permission.",
+    "extra": "Pages: 2023.12.18.572257\nSection: New Results",
+    "tags": [
+      {
+        "tag": "Minian"
+      },
+      {
+        "tag": "Preprint"
+      },
+      {
+        "tag": "Science"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-23T20:18:08Z",
+    "dateModified": "2024-07-23T20:18:16Z"
   },
   {
     "key": "E8P5TIU4",
@@ -3255,6 +3621,127 @@
     "relations": {},
     "dateAdded": "2024-07-17T20:33:01Z",
     "dateModified": "2024-07-18T03:50:36Z"
+  },
+  {
+    "key": "MIJZ9T58",
+    "version": 1942,
+    "itemType": "preprint",
+    "title": "A unified open-source platform for multimodal neural recording and perturbation during naturalistic behavior",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Jonathan P.",
+        "lastName": "Newman"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jie",
+        "lastName": "Zhang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Aarón",
+        "lastName": "Cuevas-López"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Nicholas J.",
+        "lastName": "Miller"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Takato",
+        "lastName": "Honda"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Marie-Sophie H. van der",
+        "lastName": "Goes"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Alexandra H.",
+        "lastName": "Leighton"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Filipe",
+        "lastName": "Carvalho"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Gonçalo",
+        "lastName": "Lopes"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Anna",
+        "lastName": "Lakunina"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Joshua H.",
+        "lastName": "Siegle"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Mark T.",
+        "lastName": "Harnett"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Matthew A.",
+        "lastName": "Wilson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jakob",
+        "lastName": "Voigts"
+      }
+    ],
+    "abstractNote": "Behavioral neuroscience faces two conflicting demands: long-duration recordings from large neural populations and unimpeded animal behavior. To meet this challenge, we developed ONIX, an open-source data acquisition system with high data throughput (2GB/sec) and low closed-loop latencies (<1ms) that uses a novel 0.3 mm thin tether to minimize behavioral impact. Head position and rotation are tracked in 3D and used to drive active commutation without torque measurements. ONIX can acquire from combinations of passive electrodes, Neuropixels probes, head-mounted microscopes, cameras, 3D-trackers, and other data sources. We used ONIX to perform uninterrupted, long (∼7 hours) neural recordings in mice as they traversed complex 3-dimensional terrain. ONIX allowed exploration with similar mobility as non-implanted animals, in contrast to conventional tethered systems which restricted movement. By combining long recordings with full mobility, our technology will enable new progress on questions that require high-quality neural recordings during ethologically grounded behaviors.",
+    "genre": "",
+    "repository": "bioRxiv",
+    "archiveID": "",
+    "place": "",
+    "date": "2023-09-01",
+    "series": "",
+    "seriesNumber": "",
+    "DOI": "10.1101/2023.08.30.554672",
+    "citationKey": "",
+    "url": "https://www.biorxiv.org/content/10.1101/2023.08.30.554672v1",
+    "accessDate": "2024-07-23T20:15:13Z",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "bioRxiv",
+    "callNumber": "",
+    "rights": "© 2023, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), CC BY-NC 4.0, as described at http://creativecommons.org/licenses/by-nc/4.0/",
+    "extra": "Pages: 2023.08.30.554672\nSection: New Results",
+    "tags": [
+      {
+        "tag": "Minian"
+      },
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Miniscope V4"
+      },
+      {
+        "tag": "Preprint"
+      },
+      {
+        "tag": "Technology"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-23T20:15:13Z",
+    "dateModified": "2024-07-23T20:15:28Z"
   },
   {
     "key": "PVWVBUH5",
@@ -5144,6 +5631,117 @@
     "relations": {},
     "dateAdded": "2024-07-18T05:02:32Z",
     "dateModified": "2024-07-18T05:02:43Z"
+  },
+  {
+    "key": "6N7K5UUQ",
+    "version": 1945,
+    "itemType": "journalArticle",
+    "title": "Ensemble-specific deficit in neuronal intrinsic excitability in aged mice",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Lingxuan",
+        "lastName": "Chen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Taylor R.",
+        "lastName": "Francisco"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Austin M.",
+        "lastName": "Baggetta"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Yosif",
+        "lastName": "Zaki"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Steve",
+        "lastName": "Ramirez"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Roger L.",
+        "lastName": "Clem"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Tristan",
+        "lastName": "Shuman"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Denise J.",
+        "lastName": "Cai"
+      }
+    ],
+    "abstractNote": "With the prevalence of age-related cognitive deficits on the rise, it is essential to identify cellular and circuit alterations that contribute to age-related memory impairment. Increased intrinsic neuronal excitability after learning is important for memory consolidation, and changes to this process could underlie memory impairment in old age. Some studies find age-related deficits in hippocampal neuronal excitability that correlate with memory impairment but others do not, possibly due to selective changes only in activated neural ensembles. Thus, we tagged CA1 neurons activated during learning and recorded their intrinsic excitability 5 hours or 7 days post-training. Adult mice exhibited increased neuronal excitability 5 hours after learning, specifically in ensemble (learning-activated) CA1 neurons. As expected, ensemble excitability returned to baseline 7 days post-training. In aged mice, there was no ensemble-specific excitability increase after learning, which was associated with impaired hippocampal memory performance. These results suggest that CA1 may be susceptible to age-related impairments in post-learning ensemble excitability and underscore the need to selectively measure ensemble-specific changes in the brain.",
+    "publicationTitle": "Neurobiology of Aging",
+    "volume": "123",
+    "issue": "",
+    "pages": "92-97",
+    "date": "2023-03-01",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Neurobiology of Aging",
+    "language": "",
+    "DOI": "10.1016/j.neurobiolaging.2022.12.007",
+    "ISSN": "0197-4580",
+    "shortTitle": "",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0197458022002615",
+    "accessDate": "2024-07-23T20:16:37Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "ScienceDirect",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Aging",
+        "type": 1
+      },
+      {
+        "tag": "Ensemble tagging",
+        "type": 1
+      },
+      {
+        "tag": "Learning",
+        "type": 1
+      },
+      {
+        "tag": "Minian"
+      },
+      {
+        "tag": "Miniscope"
+      },
+      {
+        "tag": "Neuronal intrinsic excitability",
+        "type": 1
+      },
+      {
+        "tag": "Novel object location",
+        "type": 1
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "Whole-cell patch clamp",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-23T20:16:37Z",
+    "dateModified": "2024-07-23T20:16:45Z"
   },
   {
     "key": "NZ6J4H4I",
@@ -15837,5 +16435,36 @@
     "relations": {},
     "dateAdded": "2024-07-18T04:18:05Z",
     "dateModified": "2024-07-18T04:18:10Z"
+  },
+  {
+    "key": "9IWHYXXM",
+    "version": 1954,
+    "itemType": "webpage",
+    "title": "On Learning in Mice and Machines : Continuous Population Codes in Natural and Artificial Neural Networks - ProQuest",
+    "creators": [],
+    "abstractNote": "",
+    "websiteTitle": "",
+    "websiteType": "",
+    "date": "",
+    "shortTitle": "",
+    "url": "https://www.proquest.com/docview/2898162361?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+    "accessDate": "2024-07-23T20:21:45Z",
+    "language": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Minian"
+      },
+      {
+        "tag": "Thesis"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-07-23T20:21:45Z",
+    "dateModified": "2024-07-23T20:21:50Z"
   }
 ]
