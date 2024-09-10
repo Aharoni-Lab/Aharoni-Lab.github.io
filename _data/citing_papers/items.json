@@ -501,6 +501,106 @@
     "dateModified": "2024-07-18T06:33:41Z"
   },
   {
+    "key": "E2DH46KX",
+    "version": 1962,
+    "itemType": "journalArticle",
+    "title": "Integration of Single-Photon Miniature Fluorescence Microscopy and Electrophysiological Recording Methods  for in vivo Studying Hippocampal Neuronal Activity",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "A. I.",
+        "lastName": "Erofeev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "E. K.",
+        "lastName": "Vinokurov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "I. E.",
+        "lastName": "Antifeev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "O. L.",
+        "lastName": "Vlasova"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "I. B.",
+        "lastName": "Bezprozvanny"
+      }
+    ],
+    "abstractNote": "The miniature single-photon fluorescent microscope (miniscope)enables the visualization of calcium activity in vivo in freelymoving laboratory animals, providing the capability to track cellularactivity during the investigation of memory formation, learning,sleep, and social interactions. However, the use of calcium sensorsfor in vivo imaging is limited by their relatively slow (millisecond-scale)kinetics, which complicates the recording of high-frequency spikeactivity. The integration of methods from single-photon miniaturefluorescent microscopy with electrophysiological recording, whichpossesses microsecond resolution, represents a potential solutionto this issue. Such a combination of techniques allows for the simultaneousrecording of optical and electrophysiological activity in a singleanimal in vivo. In this study, a flexible polyimide microelectrodewas developed and integrated with the gradient lens of the miniscope.The in vivo tests conducted in this research confirmed that themicroelectrode combined with the gradient lens facilitates simultaneoussingle-photon calcium imaging and local field potential recordingin the hippocampus of an adult mouse.",
+    "publicationTitle": "Journal of Evolutionary Biochemistry and Physiology",
+    "volume": "60",
+    "issue": "4",
+    "pages": "1586-1606",
+    "date": "2024-07-01",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "J Evol Biochem Phys",
+    "language": "en",
+    "DOI": "10.1134/S0022093024040264",
+    "ISSN": "1608-3202",
+    "shortTitle": "",
+    "url": "https://doi.org/10.1134/S0022093024040264",
+    "accessDate": "2024-09-09T19:19:31Z",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Springer Link",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Polymers",
+        "type": 1
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "Technology"
+      },
+      {
+        "tag": "calcium imaging",
+        "type": 1
+      },
+      {
+        "tag": "electrophysiology",
+        "type": 1
+      },
+      {
+        "tag": "hippocampus",
+        "type": 1
+      },
+      {
+        "tag": "in vivo",
+        "type": 1
+      },
+      {
+        "tag": "microelectrodes",
+        "type": 1
+      },
+      {
+        "tag": "miniscope",
+        "type": 1
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-09-09T19:19:31Z",
+    "dateModified": "2024-09-09T19:20:05Z"
+  },
+  {
     "key": "SVM5SWRD",
     "version": 1706,
     "itemType": "journalArticle",
@@ -2738,6 +2838,68 @@
     },
     "dateAdded": "2024-07-17T19:50:32Z",
     "dateModified": "2024-07-23T00:23:20Z"
+  },
+  {
+    "key": "29NUH4ZZ",
+    "version": 1965,
+    "itemType": "journalArticle",
+    "title": "Understanding Fear and Beyond in Neuronal Networks with Tensor and Graph Methods: An Interdisciplinary End-to-End Data Science Approach",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Jordan",
+        "lastName": "Steinhauser"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Evangelos E",
+        "lastName": "Papalexakis"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Edward",
+        "lastName": "Korzus"
+      }
+    ],
+    "abstractNote": "Understanding fear and where it is generated, modulated, and interpreted is paramount when trying to develop our knowledge of anxiety and stressor type disorders and how they develop. We use calcium imaging as a method to record real-time neuronal network activity from a precise region of interest in freely behaving mice. However, a continual challenge with calcium imaging methods is (1) the background noise and artifacts within the video recordings, (2) the large amounts of data that need to be processed and analyzed for underlying structure, and (3) the inability to label our data to provide an interpretable output. To address the problem of video quality and processing, we employ several algorithms to denoise, demix, and extract valid data. Using tensor decomposition and community analysis in independent analyses, we found three non-orthogonal (tensor decomposition) and orthogonal (community analysis) populations of neurons that encoded information for different aspects of the behavioral paradigms, including a habituation population, a discrimination population responsive to the novel safe and threat environment presentations, and a familiar control environment exposure population. Overall, these results are informative of the neuronal activity modulation occurring within the recorded region of interest and provide valuable insight into the different populations of neurons that are selectively co-active during different trials and environment presentations.",
+    "publicationTitle": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "date": "2024",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "language": "en",
+    "DOI": "",
+    "ISSN": "",
+    "shortTitle": "",
+    "url": "",
+    "accessDate": "",
+    "archive": "",
+    "archiveLocation": "",
+    "libraryCatalog": "Zotero",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Science"
+      },
+      {
+        "tag": "Technology"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-09-09T19:24:43Z",
+    "dateModified": "2024-09-09T19:24:56Z"
   },
   {
     "key": "JB4RPRG7",
