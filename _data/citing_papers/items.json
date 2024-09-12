@@ -100,6 +100,81 @@
     "dateModified": "2024-07-18T03:49:36Z"
   },
   {
+    "key": "KTXISN43",
+    "version": 1967,
+    "itemType": "preprint",
+    "title": "MiniXL: An open-source, large field-of-view epifluorescence miniature microscope for mice capable of single-cell resolution and multi-brain region imaging",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pingping",
+        "lastName": "Zhao"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Changliang",
+        "lastName": "Guo"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Mian",
+        "lastName": "Xie"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Liangyi",
+        "lastName": "Chen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Peyman",
+        "lastName": "Golshani"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Daniel",
+        "lastName": "Aharoni"
+      }
+    ],
+    "abstractNote": "Capturing the intricate dynamics of neural activity in freely behaving animals is essential for understanding the neural mechanisms underpinning specific behaviors. Miniaturized microscopy enables investigators to track population activity at cellular level, but the field of view (FOV) of these microscopes have been limited and does not allow multiple-brain region imaging. To fill this technological gap, we have developed the eXtra Large field-of-view Miniscope (MiniXL), a 3.5g lightweight miniaturized microscope with an FOV measuring 3.5 mm in diameter and an electrically adjustable working distance of 1.9 mm ± 200 μm. We demonstrated the capability of MiniXL recording the activity of large neuronal population in both subcortical area (hippocampal dorsal CA1) and deep brain regions (medial prefrontal cortex, mPFC and nucleus accumbens, NAc). The large FOV allows simultaneous imaging of multiple brain regions such as bilateral mPFCs or mPFC and NAc during complex social behavior and tracking cells across multiple sessions. As with all microscopes in the UCLA Miniscope ecosystem, the MiniXL is fully open-source and will be shared with the neuroscience community to lower the barriers for adoption of this technology.",
+    "genre": "",
+    "repository": "bioRxiv",
+    "archiveID": "",
+    "place": "",
+    "date": "2024-08-19",
+    "series": "",
+    "seriesNumber": "",
+    "DOI": "10.1101/2024.08.16.608328",
+    "citationKey": "",
+    "url": "https://www.biorxiv.org/content/10.1101/2024.08.16.608328v1",
+    "accessDate": "2024-09-11T15:26:25Z",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "MiniXL",
+    "language": "en",
+    "libraryCatalog": "bioRxiv",
+    "callNumber": "",
+    "rights": "© 2024, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "extra": "Pages: 2024.08.16.608328\nSection: New Results",
+    "tags": [
+      {
+        "tag": "MiniXL"
+      },
+      {
+        "tag": "Preprint"
+      },
+      {
+        "tag": "Technology"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-09-11T15:26:25Z",
+    "dateModified": "2024-09-11T15:26:52Z"
+  },
+  {
     "key": "GZ6ILUG4",
     "version": 1725,
     "itemType": "preprint",
