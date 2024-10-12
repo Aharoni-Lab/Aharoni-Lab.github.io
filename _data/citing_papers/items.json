@@ -100,6 +100,131 @@
     "dateModified": "2024-07-18T03:49:36Z"
   },
   {
+    "key": "I7G5VCZL",
+    "version": 1997,
+    "itemType": "preprint",
+    "title": "Temporal Dynamics of Nucleus Accumbens Neurons in Male Mice During Reward Seeking",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Terra A.",
+        "lastName": "Schall"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "King-Lun",
+        "lastName": "Li"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Xiguang",
+        "lastName": "Qi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Brian T.",
+        "lastName": "Lee"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "William J.",
+        "lastName": "Wright"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Erin E.",
+        "lastName": "Alpaugh"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Rachel J.",
+        "lastName": "Zhao"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jianwei",
+        "lastName": "Liu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Qize",
+        "lastName": "Li"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Bo",
+        "lastName": "Zeng"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Lirong",
+        "lastName": "Wang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Yanhua H.",
+        "lastName": "Huang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Oliver M.",
+        "lastName": "Schlüter"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Eric J.",
+        "lastName": "Nestler"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Edward H.",
+        "lastName": "Nieh"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Yan",
+        "lastName": "Dong"
+      }
+    ],
+    "abstractNote": "The nucleus accumbens (NAc) regulates reward-motivated behavior, but the temporal dynamics of NAc neurons that enable “free-willed” animals to obtain rewards remain elusive. Here, we recorded Ca2+ activity from individual NAc neurons when mice performed self-paced lever-presses for sucrose. NAc neurons exhibited three temporally-sequenced clusters, defined by times at which they exhibited increased Ca2+ activity: approximately 0, -2.5 or -5 sec relative to the lever-pressing. Dopamine D1 receptor (D1)-expressing neurons and D2-neurons formed the majority of the -5-sec versus -2.5-sec clusters, respectively, while both neuronal subtypes were represented in the 0-sec cluster. We found that pre-press activity patterns of D1- or D2-neurons could predict subsequent lever-presses. Inhibiting D1-neurons at -5 sec or D2-neurons at -2.5 sec, but not at other timepoints, reduced sucrose-motivated lever-pressing. We propose that the time-specific activity of D1- and D2-neurons mediate key temporal features of the NAc through which reward motivation initiates reward-seeking behavior.",
+    "genre": "",
+    "repository": "bioRxiv",
+    "archiveID": "",
+    "place": "",
+    "date": "2024-09-30",
+    "series": "",
+    "seriesNumber": "",
+    "DOI": "10.1101/2024.09.27.615291",
+    "citationKey": "",
+    "url": "https://www.biorxiv.org/content/10.1101/2024.09.27.615291v1",
+    "accessDate": "2024-10-11T20:04:07Z",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "bioRxiv",
+    "callNumber": "",
+    "rights": "© 2024, Posted by Cold Spring Harbor Laboratory. The copyright holder for this pre-print is the author. All rights reserved. The material may not be redistributed, re-used or adapted without the author's permission.",
+    "extra": "Pages: 2024.09.27.615291\nSection: New Results",
+    "tags": [
+      {
+        "tag": "Miniscope V3"
+      },
+      {
+        "tag": "Preprint"
+      },
+      {
+        "tag": "Wire-Free"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-10-11T20:04:07Z",
+    "dateModified": "2024-10-11T20:04:49Z"
+  },
+  {
     "key": "KTXISN43",
     "version": 1967,
     "itemType": "preprint",
