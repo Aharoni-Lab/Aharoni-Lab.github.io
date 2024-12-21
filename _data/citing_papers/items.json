@@ -1,5 +1,170 @@
 [
   {
+    "key": "4ZAWCYI8",
+    "version": 2003,
+    "itemType": "preprint",
+    "title": "Simultaneous mesoscopic measurement and manipulation of mouse cortical activity",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Pascha",
+        "lastName": "Matveev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Anna J.",
+        "lastName": "Li"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Zhiwen",
+        "lastName": "Ye"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Anna J.",
+        "lastName": "Bowen"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ximena",
+        "lastName": "Opitz-Araya"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jonathan T.",
+        "lastName": "Ting"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Nicholas A.",
+        "lastName": "Steinmetz"
+      }
+    ],
+    "abstractNote": "Dynamics of activity across the cerebral cortex at the mesoscopic scale — coordinated fluctuations of local populations of neurons — are essential to perception and cognition and relevant to computations like sensorimotor integration and goal-directed task engagement. However, understanding direct causal links between population dynamics and behavior requires the ability to manipulate mesoscale activity and observe the effect of manipulation across multiple brain regions simultaneously. Here, we develop a novel system enabling simultaneous recording and manipulation of activity across the dorsal cortex of awake mice, compatible with large-scale electrophysiology from any region across the brain. Transgenic mice expressing the GCaMP calcium sensor are injected systemically with an adeno-associated virus driving expression of the ChrimsonR excitatory opsin. This strategy drives expression of the blue-excited calcium indicator, GCaMP, in excitatory neurons and red-excited Chrimson opsin in inhibitory neurons. We demonstrate widefield single-photon calcium imaging and simultaneous galvo-targeted laser stimulation over the entire dorsal cortical surface. The light channels of the imaging and the opsin do not interfere. We characterize the spatial and temporal resolution of the method, which is suitable for targeting specific cortical regions and specific time windows in behavioral tasks. The preparation is stable over many months and thus well-suited for long-term behavioral experiments. This technique allows for studying the effect of cortical perturbations on cortex-wide activity, on subcortical spiking activity, and on behavior, and for designing systems to control cortical activity in closed-loop.",
+    "genre": "",
+    "repository": "bioRxiv",
+    "archiveID": "",
+    "place": "",
+    "date": "2024-11-01",
+    "series": "",
+    "seriesNumber": "",
+    "DOI": "10.1101/2024.11.01.621418",
+    "citationKey": "",
+    "url": "https://www.biorxiv.org/content/10.1101/2024.11.01.621418v1",
+    "accessDate": "2024-11-06T19:14:15Z",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "bioRxiv",
+    "callNumber": "",
+    "rights": "© 2024, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), CC BY-NC 4.0, as described at http://creativecommons.org/licenses/by-nc/4.0/",
+    "extra": "Pages: 2024.11.01.621418\nSection: New Results",
+    "tags": [],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-11-06T19:14:15Z",
+    "dateModified": "2024-11-06T19:14:15Z"
+  },
+  {
+    "key": "MV6SGDCU",
+    "version": 1998,
+    "itemType": "preprint",
+    "title": "T-scope V4: miniaturized microscope for optogenetic tagging in freely behaving animals",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Yuteng",
+        "lastName": "Wang"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Pablo",
+        "lastName": "Vergara"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Satoshi",
+        "lastName": "Hasegawa"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Naoki",
+        "lastName": "Tomita"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Yoan",
+        "lastName": "Cherasse"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Toshie",
+        "lastName": "Naoi"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Takeshi",
+        "lastName": "Sakurai"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Yuki",
+        "lastName": "Sugaya"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Masanobu",
+        "lastName": "Kano"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Masanori",
+        "lastName": "Sakaguchi"
+      }
+    ],
+    "abstractNote": "A miniaturized microscope (i.e., miniscope) enables the imaging of neuronal activity using calcium sensors while simultaneously manipulating that activity using opsins in freely moving animals. However, many miniscopes use light-emitting diodes with broadband emission, leading to unintentional opsin stimulation by light intended solely for calcium sensor activation (a phenomenon referred to as “biological crosstalk”). To address this issue, we previously developed a miniscope including a port for chosen light sources, such as lasers, by restructuring the open-source UCLA Miniscope v3. However, targeting the same neuronal soma for both excitable opsin stimulation and calcium sensor imaging remained a challenge. Here, we integrated features from the UCLA Miniscope v4 into our new T-scope V4 miniscope. In optogenetic tagging experiments, we demonstrated that a 445-nm blue laser can be used to image neuronal activity with the calcium sensor GCaMP6s without inadvertently stimulating the ChrimsonR opsin, allowing for simultaneous neuronal activity imaging and manipulation in freely moving mice. Thus, the T-scope V4 can serve as a powerful tool for probing causal relationships between neuronal activity and its function in living animals.\nHighlightsWe developed the T-scope V4 that integrates features of the UCLA Miniscope v4This miniscope prevents “biological crosstalk” between sensors and opsinsThis tool can help probe causal brain-behavior relationships in living animals",
+    "genre": "",
+    "repository": "bioRxiv",
+    "archiveID": "",
+    "place": "",
+    "date": "2024-10-11",
+    "series": "",
+    "seriesNumber": "",
+    "DOI": "10.1101/2024.10.07.616920",
+    "citationKey": "",
+    "url": "https://www.biorxiv.org/content/10.1101/2024.10.07.616920v1",
+    "accessDate": "2024-10-15T16:54:50Z",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "T-scope V4",
+    "language": "en",
+    "libraryCatalog": "bioRxiv",
+    "callNumber": "",
+    "rights": "© 2024, Posted by Cold Spring Harbor Laboratory. The copyright holder for this pre-print is the author. All rights reserved. The material may not be redistributed, re-used or adapted without the author's permission.",
+    "extra": "Pages: 2024.10.07.616920\nSection: New Results",
+    "tags": [
+      {
+        "tag": "Miniscope V4"
+      },
+      {
+        "tag": "Preprint"
+      },
+      {
+        "tag": "Technology"
+      }
+    ],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-10-15T16:54:50Z",
+    "dateModified": "2024-10-15T16:56:14Z"
+  },
+  {
     "key": "QTTBY2MA",
     "version": 1505,
     "itemType": "journalArticle",
@@ -16828,5 +16993,29 @@
     "relations": {},
     "dateAdded": "2024-07-23T20:21:45Z",
     "dateModified": "2024-07-23T20:21:50Z"
+  },
+  {
+    "key": "KB8HH4C7",
+    "version": 2000,
+    "itemType": "webpage",
+    "title": "Windows Downloads",
+    "creators": [],
+    "abstractNote": "Downloads KiCad for Windows 8.1, Windows 10 and Windows 11",
+    "websiteTitle": "",
+    "websiteType": "",
+    "date": "",
+    "shortTitle": "",
+    "url": "https://www.kicad.org/download/windows/",
+    "accessDate": "2024-10-16T19:17:20Z",
+    "language": "en-us",
+    "rights": "",
+    "extra": "Section: download",
+    "tags": [],
+    "collections": [
+      "KRCY8EJ7"
+    ],
+    "relations": {},
+    "dateAdded": "2024-10-16T19:17:20Z",
+    "dateModified": "2024-10-16T19:17:20Z"
   }
 ]
