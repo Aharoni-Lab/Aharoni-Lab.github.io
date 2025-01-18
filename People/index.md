@@ -6,10 +6,6 @@ title: "Lab Members"
 
 {% include person.html name='daniel' %}
 
-## Staff Researchers
-
-{% include person.html name='federico' %}
-
 ## Postdocs
 
 {% include person.html name='marcel' %}
