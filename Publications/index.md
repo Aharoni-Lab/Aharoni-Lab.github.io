@@ -2,14 +2,36 @@
 title: "Publications"
 ---
 
+Madruga, B. A.; Dorian, C. C.; Yang, L.; Sehgal, M.; Silva, A. J.; Shtrahman, M.; Aharoni, D.; Golshani, P.; "Open-source, high performance miniature 2-photon microscopy systems for freely behaving animals", Nature Communications, August 2025.
+
+[DOI: 10.1038/s41467-025-62534-y](https://doi.org/10.1038/s41467-025-62534-y)
+
+Dong, Z.; Feng, Y.; Diego, K.; Baggetta, A. M.; Sweis, B. M.; Pennington, Z. T.; Lamsifer, S. I.; Zaki, Y.; Sangiuliano, F.; Philipsberg, P. A.; Morales-Rodriguez, D.; Kircher, D.; Slesinger, P.; Shuman, T.; Aharoni, D.; Cai, D. J.; "Simultaneous two-color imaging with a dual-channel miniscope in freely behaving mice", July 2025.
+
+[DOI: 10.1126/sciadv.adr6470](https://doi.org/10.1126/sciadv.adr6470)
+
+Zhao, P.; Guo, C.; Xie, M.; Chen, L.; Golshani, P.; Aharoni, D.; "MiniXL: An open-source, large field-of-view epifluorescence miniature microscope for mice capable of single-cell resolution and multi-brain region imaging", Science Advances, June 2025.
+
+[DOI: 10.1126/sciadv.ads4995](https://doi.org/10.1126/sciadv.ads4995)
+
+Zhao, P.; Aharoni, D.; Golshani, P.; "GRIN lens implantation strategies for in vivo calcium imaging using miniature microscopy", PLOS ONE, May 2025.
+
+[DOI: 10.1371/journal.pone.0323256](https://doi.org/10.1371/journal.pone.0323256)
+
+SiHyun Uhm; Sangiuliano J. F.; Aharoni, D.; **"Transforming Neural Activity into Generative Audio-Visual Art: An Interplay Between Brain Data, Music, and Visuals"**, the Journal of Korean Electro-Acoustic Music Society, December 2024
+
+
+Kodandaramaiah, S. B.; Aharoni, D.; Gibson, E. A.; **"Special Section Guest Editorial: Open-source neurophotonic tools for neuroscience"**, Neurophotonics, September 2024
+
+[DOI:  10.1117/1.NPh.11.3.034301](https://doi.org/10.1117/1.NPh.11.3.034301)
 
 Blair, G. J.; Guo, C.; Wang, S.; Fanselow, M. S.; Golshani, P.; Aharoni, D.; **"Hippocampal place cell remapping occurs with memory storage of aversive experiences"**, eLife, July 2023
 
 [DOI: 10.7554/eLife.80661](https://doi.org/10.7554/eLife.80661)
 
-Hur, S. W.; Safaryan, K.; Yang, L.; Blair, H. T.; Masmanidis, S. C.; Mathews, P. J.; Aharoni, D.; Golshani, P.; **"Correlated signatures of social behavior in cerebellum and anterior cingulate cortex"**, bioRxiv [Preprint], April 2023
+Hur, S. W.; Safaryan, K.; Yang, L.; Blair, H. T.; Masmanidis, S. C.; Mathews, P. J.; Aharoni, D.; Golshani, P.; **"Correlated signatures of social behavior in cerebellum and anterior cingulate cortex"**, bioRxiv eLife, February 2024
 
-[DOI: 10.1101/2023.04.05.535750](https://doi.org/10.1101/2023.04.05.535750)
+[DOI: 10.7554/eLife.88439.3](https://doi.org/10.1101/2023.04.05.535750)
 
 Guo\*, C.; Blair\*, G. J.; Sehgal, M.; Sangiuliano Jimka, F. N.; Bellafard, A.; Silva, A. J.; Golshani, P.; Basso, M. A.; Blair, H. T.; Aharoni, D.; **"Miniscope-LFOV: A large field of view, single cell resolution, miniature microscope for wired and wire-free imaging of neural dynamics in freely behaving animals"**, Science Advances, April 2023
 
