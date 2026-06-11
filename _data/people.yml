@@ -45,10 +45,12 @@ marcel:
   email: MBrosch@mednet.ucla.edu
   image: Marcel.JPG
   links:
+    - icon: fa-solid fa-house
+      link: https://marcelbrosch.com
     - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/marcel-brosch
     - icon: fa-brands fa-google-scholar
-      link: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Marcel+Brosch&btnG=
+      link: https://scholar.google.com/citations?user=54OSLKgAAAAJ&hl=en
 
 phil:
   name: Phil Dong
