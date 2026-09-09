@@ -1,0 +1,188 @@
+/* Home page (layout: landing). Written as plain CSS so it can be previewed without a Sass build. */
+
+.landing-hero {
+	background: #0d0b14;
+	color: #fff;
+}
+
+.landing-hero__inner {
+	display: grid;
+	grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+	min-height: 440px;
+}
+
+.landing-hero__text {
+	align-self: center;
+	padding: 3.5em 2em 3.5em 1em;
+	padding-left: max(1em, calc((100vw - 58rem) / 2 + 1em));
+}
+
+.landing-hero__kicker {
+	margin: 0 0 1.25em;
+	font-size: 0.75em;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	color: #b9a8ff;
+}
+
+.landing-hero__title {
+	margin: 0 0 0.4em;
+	font-size: 3em;
+	line-height: 1.05;
+	color: #fff;
+}
+
+.landing-hero__tagline {
+	max-width: 24em;
+	margin: 0 0 1.75em;
+	font-size: 1.2em;
+	line-height: 1.5;
+	color: #d9d6e6;
+}
+
+.landing-hero__image {
+	position: relative;
+	min-height: 260px;
+	background-size: cover;
+	background-position: center;
+}
+
+.landing-hero__image::after {
+	content: "";
+	position: absolute;
+	inset: 0;
+	background:
+		linear-gradient(90deg, #0d0b14 0%, rgba(13, 11, 20, 0) 40%),
+		linear-gradient(180deg, rgba(13, 11, 20, 0.25), rgba(13, 11, 20, 0.25));
+}
+
+.landing-btn {
+	display: inline-block;
+	margin: 0 0.6em 0.6em 0;
+	padding: 0.6em 1.3em;
+	border: 2px solid rgba(255, 255, 255, 0.7);
+	border-radius: 4px;
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+	transition: background 0.15s, border-color 0.15s;
+}
+
+.landing-btn:hover,
+.landing-btn:focus {
+	color: #fff;
+	text-decoration: none;
+	background: rgba(255, 255, 255, 0.12);
+	border-color: #fff;
+}
+
+.landing-btn--primary {
+	background: #4300ff;
+	border-color: #4300ff;
+}
+
+.landing-btn--primary:hover,
+.landing-btn--primary:focus {
+	background: #3600cc;
+	border-color: #3600cc;
+}
+
+.landing {
+	max-width: 58rem;
+	margin: 0 auto;
+	padding: 1em 1em 2em;
+}
+
+.landing-section {
+	margin: 2.5em 0;
+}
+
+.landing-section--intro p {
+	max-width: 44rem;
+}
+
+.landing-section h2 {
+	margin-top: 0;
+	font-size: 1.5em;
+}
+
+.landing .stats-row {
+	margin: 0 0 3em;
+}
+
+.build-grid {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 1.25em;
+}
+
+.build-card {
+	padding: 1.1em 1.25em 1.1em 1.4em;
+	border-left: 3px solid #4300ff;
+	border-radius: 0 6px 6px 0;
+	background: #f6f4ff;
+}
+
+.build-card h3 {
+	margin: 0 0 0.4em;
+	font-size: 1.1em;
+}
+
+.build-card p {
+	margin: 0;
+	font-size: 0.95em;
+}
+
+.landing-two-col {
+	display: grid;
+	grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+	gap: 3em;
+	margin: 0 0 3em;
+}
+
+.landing-two-col .landing-section {
+	margin: 0;
+}
+
+.landing-aside ul {
+	padding-left: 1.1em;
+	font-size: 0.95em;
+}
+
+.landing-aside li {
+	margin-bottom: 0.5em;
+}
+
+@media (max-width: 64em) {
+	.landing-hero__inner {
+		grid-template-columns: 1fr;
+		min-height: 0;
+	}
+
+	.landing-hero__text {
+		padding: 2.5em 1em 2em;
+	}
+
+	.landing-hero__image {
+		min-height: 220px;
+	}
+
+	.landing-hero__image::after {
+		background: linear-gradient(180deg, #0d0b14 0%, rgba(13, 11, 20, 0) 45%);
+	}
+
+	.landing-two-col {
+		grid-template-columns: 1fr;
+		gap: 1.5em;
+	}
+}
+
+@media (max-width: 48em) {
+	.landing-hero__title {
+		font-size: 2.2em;
+	}
+
+	.build-grid {
+		grid-template-columns: 1fr;
+	}
+}
