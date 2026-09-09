@@ -1,0 +1,108 @@
+.publications {
+	list-style: none;
+	padding-left: 0;
+	margin-left: 0;
+
+	.publication {
+		margin-bottom: 1.2em;
+		padding-left: 1em;
+		border-left: 3px solid $accent-color-light-1;
+
+		span {
+			display: block;
+		}
+
+		.pub-title {
+			font-weight: bold;
+			font-size: 1.05em;
+
+			a {
+				text-decoration: none;
+			}
+		}
+
+		.pub-authors {
+			font-size: 0.9em;
+			color: mix($text-color, $accent-color, 80%);
+		}
+
+		.pub-venue {
+			font-size: 0.85em;
+			font-family: $monospace;
+		}
+	}
+}
+
+.news-list {
+	list-style: none;
+	padding-left: 0;
+	margin-left: 0;
+
+	.news-item {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.25em 1.5em;
+		margin-bottom: 1em;
+		padding-bottom: 0.75em;
+		border-bottom: 1px solid $accent-color-light-1;
+
+		.news-date {
+			flex: 0 0 9em;
+			font-family: $monospace;
+			font-size: 0.8em;
+			color: $accent-color;
+			padding-top: 0.25em;
+		}
+
+		.news-body {
+			flex: 1 1 20em;
+		}
+
+		.news-text {
+			display: block;
+			font-size: 0.9em;
+		}
+	}
+}
+
+.stats-row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1em;
+	margin: 1.5em 0;
+
+	.stat {
+		flex: 1 1 10em;
+		text-align: center;
+		padding: 1em 0.5em;
+		border: 1px solid $accent-color-light-1;
+		border-radius: 8px;
+
+		.stat-number {
+			display: block;
+			font-size: 2em;
+			font-weight: bold;
+			color: $accent-color;
+			line-height: 1.1;
+		}
+
+		.stat-label {
+			display: block;
+			font-size: 0.85em;
+		}
+	}
+}
+
+.funder-logos {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1.5em;
+	align-items: center;
+	justify-content: center;
+	margin: 1.5em 0;
+
+	img {
+		max-height: 90px;
+		width: auto;
+	}
+}

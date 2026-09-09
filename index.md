@@ -1,23 +1,47 @@
 ---
-title: "Welcome to the Aharoni Lab" 
+title: "Aharoni Lab"
+excerpt: "Open-source tools for recording and manipulating neural activity in freely behaving animals."
 header:
   overlay_image: /assets/images/CMOS_Render3.png
   overlay_filter: 0.3
   actions:
-          - label: "Join our team"
-            url: "https://Aharoni-Lab.github.io/Join"
+    - label: "Our research"
+      url: "/Research/"
+    - label: "Join the lab"
+      url: "/Join/"
 ---
 
-## The Aharoni Lab
+## Research-driven tool design
 
-Our research lies at the intersection of engineering, neuroscience, and physics. In particular, we focus on applying tool development methodologies from engineering and physics to address current challenges in neuroscience and medicine. Working often times in close collaboration with other researchers, we concentrate on finding solutions to critical design problems (hardware, software, analysis, experimental) and develop those solutions from concept to implementation. In recent years, Dr. Aharoni led the development of the [Miniscope system](http://miniscope.org), an open-source microscopy platform for recording and analyzing neural activity in freely behaving animals. Our platform is currently being used in over 450 laboratories with an active and growing user base, making it one of the most successful open-source neuroscience tools to date.
+The Aharoni Lab works at the intersection of engineering, neuroscience, and physics in the Department of Neurology at UCLA. We build open platforms for imaging and manipulating neural activity in freely behaving animals: the optics, electronics, and firmware of head-mounted microscopes, the acquisition software and analysis pipelines that go with them, and the documentation and training that let other labs actually use them.
 
-Our work is motivated by two goals: (i) to contribute to the growing trend of democratizing access to transformative tools in neuroscience, and (ii) to bridge the gap between specialized tool design and the intricacies of modern neuroscience. Specifically, the lab's research program focuses on expanding optical, electrical, and behavioral techniques through the development of novel, yet accessible, tools that generate quantitatively and qualitatively new types of data.
+We lead the [UCLA Miniscope Project](https://miniscope.org), an open-source miniaturized microscopy ecosystem that has become one of the most widely adopted neurotechnology platforms in the field. Our work is motivated by two goals: democratizing access to transformative tools in neuroscience, and closing the gap between specialized tool design and the questions neuroscientists actually need to answer.
 
+<div class="stats-row">
+  <div class="stat"><span class="stat-number">1,000+</span><span class="stat-label">labs using Miniscope tools</span></div>
+  <div class="stat"><span class="stat-number">18+</span><span class="stat-label">countries</span></div>
+  <div class="stat"><span class="stat-number">200+</span><span class="stat-label">peer-reviewed papers using our tools</span></div>
+</div>
 
-Check out our work and stay up to date at:
-* [Aharoni-Lab Twitter](https://twitter.com/DanielBAharoni)
-* [Aharoni-Lab Github](https://github.com/Aharoni-Lab)
-* [Miniscope Github Wiki](https://github.com/Aharoni-Lab/Miniscope-v4/wiki)
-* [Miniscope Google Group](https://groups.google.com/g/miniscope)
-* [Miniscope.org](http://miniscope.org/index.php/Main_Page)
+## What we build
+
+**Miniature microscopes.** Wire-free and fully wireless Miniscopes, large field-of-view and multi-region imaging, dual-color imaging, miniature two-photon systems, and platforms that combine imaging with patterned optogenetic stimulation. [Read more →](/Research/)
+
+**Software and analysis.** Cross-platform acquisition, streaming and real-time analysis, and browser-based tools for calcium imaging, including [Minian](https://github.com/miniscope/minian) and [CaLab](https://github.com/miniscope/CaLab).
+
+**Community infrastructure.** Through an NIH BRAIN Initiative U24 resource we maintain [miniscope.org](https://miniscope.org) (guides, forums, hardware and software projects) and run hands-on workshops and drop-in office hours for the community.
+
+**Neuroscience.** We use these tools, in the lab and with collaborators, to study how hippocampal and cortical circuits encode memory, space, and social behavior across long timescales.
+
+## Recent news
+
+{% include news_list.html limit=5 %}
+
+[All news →](/News/) · [Miniscope community news →](https://miniscope.org/wiki/News)
+
+## Find us
+
+* [miniscope.org](https://miniscope.org): documentation, guides, events, and community forum
+* [Drop-in office hours](https://miniscope.org/wiki/Events), every other Friday on Zoom
+* GitHub: [Aharoni-Lab](https://github.com/Aharoni-Lab) · [miniscope](https://github.com/miniscope)
+* [Daniel on Mastodon](https://neuromatch.social/@Daharoni) · [X](https://twitter.com/DanielBAharoni)

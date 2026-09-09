@@ -18,7 +18,7 @@ locale                   : "en-US"
 title                    : "Aharoni Lab"
 title_separator          : "-"
 name                     : "Daniel Aharoni"
-description              : "Department of Neurology, UCLA."
+description              : "The Aharoni Lab at UCLA develops open-source tools for recording and manipulating neural activity in freely behaving animals, including the UCLA Miniscope."
 url                      : "https://aharoni-lab.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -30,6 +30,9 @@ keywords:
   - Calcium Imaging
   - Neurotechnology
   - Single Photon Imaging
+  - Open-Source Neuroscience
+  - Wireless Microscopy
+  - Optogenetics
 logo: /assets/images/Miniscope_Logo.png
 words_per_minute         : 200
 comments:
@@ -91,7 +94,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/CMOS_Render3.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -111,7 +114,7 @@ analytics:
 author:
   name             : "Daniel Aharoni"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor."
+  bio              : "Associate Professor of Neurology, UCLA. Eleanor Leslie Chair in Innovative Brain Research."
   location         : "Los Angeles, CA"
   email            :
   links:
@@ -137,24 +140,18 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/DanielBAharoni
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/Aharoni-Lab/
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Miniscope.org"
+      icon: "fas fa-fw fa-microscope"
+      url: https://miniscope.org
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: https://neuromatch.social/@Daharoni
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: https://twitter.com/DanielBAharoni
 
 
 # Reading Files
@@ -222,9 +219,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles
 
 
 # Plugins (previously gems:)
@@ -304,10 +299,6 @@ defaults:
       # sidebar:
         # nav: "docs"
       # excerpt: "Research driven tool design."
-      header:
-        # image: /assets/images/Cells.jpg
-        overlay_image: /assets/images/CMOS_Render3.png
-        overlay_filter: 0.3
   # _posts
   - scope:
       path: ""
@@ -326,8 +317,4 @@ defaults:
       # sidebar:
         # nav: "docs"
       # excerpt: "Research driven tool design."
-      header:
-        # image: /assets/images/Cells.jpg
-        overlay_image: /assets/images/CMOS_Render3.png
-        overlay_filter: 0.3
         

@@ -1,0 +1,281 @@
+# Publications, newest first within each type.
+# type: article | preprint | review | proceedings | chapter | patent
+# Fields: title, authors, venue, year, date (display), doi OR url, note (optional).
+# "Aharoni D" is bolded automatically by _includes/publication.html.
+# * equal contribution; † co-corresponding author
+
+# ---- Peer-reviewed articles ------------------------------------------------
+
+- type: article
+  title: "MiniFAST: a sensitive and fast miniaturized microscope for neural recording"
+  authors: "Juneau J, Duret G, Chu JP, Madruga B, Dorian CC, Rodriguez AV, Morozov S, Aharoni D, Robinson JT, St-Pierre F, Golshani P, Kemere C"
+  venue: Neurophotonics
+  year: 2026
+  date: "2026"
+  doi: 10.1117/1.NPh.13.S2.S23203
+
+- type: article
+  title: "Open-source, high performance miniature 2-photon microscopy systems for freely behaving animals"
+  authors: "Madruga BA, Dorian CC, Yang L, Sehgal M, Silva AJ, Shtrahman M, Aharoni D, Golshani P"
+  venue: Nature Communications
+  year: 2025
+  date: "August 2025"
+  doi: 10.1038/s41467-025-62534-y
+
+- type: article
+  title: "Simultaneous two-color imaging with a dual-channel miniscope in freely behaving mice"
+  authors: "Dong Z, Feng Y, Diego K, Baggetta AM, Sweis BM, Pennington ZT, Lamsifer SI, Zaki Y, Sangiuliano F, Philipsberg PA, Morales-Rodriguez D, Kircher D, Slesinger P, Shuman T, Aharoni D, Cai DJ"
+  venue: Science Advances
+  year: 2025
+  date: "July 2025"
+  doi: 10.1126/sciadv.adr6470
+
+- type: article
+  title: "MiniXL: An open-source, large field-of-view epifluorescence miniature microscope for mice capable of single-cell resolution and multi-brain region imaging"
+  authors: "Zhao P*, Guo C*, Xie M, Chen L, Golshani P, Aharoni D"
+  venue: Science Advances
+  year: 2025
+  date: "June 2025"
+  doi: 10.1126/sciadv.ads4995
+
+- type: article
+  title: "GRIN lens implantation strategies for in vivo calcium imaging using miniature microscopy"
+  authors: "Zhao P, Aharoni D, Golshani P"
+  venue: PLOS ONE
+  year: 2025
+  date: "May 2025"
+  doi: 10.1371/journal.pone.0323256
+
+- type: article
+  title: "Transforming neural activity into generative audio-visual art: an interplay between brain data, music, and visuals"
+  authors: "Uhm SH, Sangiuliano Jimka F, Aharoni D"
+  venue: "Emille: Journal of the Korean Electro-Acoustic Music Society, vol. 22, 65–75"
+  year: 2024
+  date: "December 2024"
+
+- type: article
+  title: "Correlated signatures of social behavior in cerebellum and anterior cingulate cortex"
+  authors: "Hur SW, Safaryan K, Yang L, Blair HT, Masmanidis SC, Mathews PJ, Aharoni D†, Golshani P†"
+  venue: eLife
+  year: 2024
+  date: "2024"
+  doi: 10.7554/eLife.88439.3
+
+- type: article
+  title: "Hippocampal place cell remapping occurs with memory storage of aversive experiences"
+  authors: "Blair GJ, Guo C, Wang S, Fanselow MS, Golshani P, Aharoni D, Blair HT"
+  venue: eLife
+  year: 2023
+  date: "July 2023"
+  doi: 10.7554/eLife.80661
+
+- type: article
+  title: "FPGA-based in-vivo calcium image decoding for closed-loop feedback applications"
+  authors: "Chen Z, Blair GJ, Cao C, Zhou J, Aharoni D, Golshani P, Blair HT, Cong J"
+  venue: "IEEE Transactions on Biomedical Circuits and Systems, 17(2), 169–179"
+  year: 2023
+  date: "April 2023"
+  doi: 10.1109/TBCAS.2023.3268184
+
+- type: article
+  title: "Miniscope-LFOV: A large-field-of-view, single-cell-resolution, miniature microscope for wired and wire-free imaging of neural dynamics in freely behaving animals"
+  authors: "Guo C*, Blair GJ*, Sehgal M, Sangiuliano Jimka FN, Bellafard A, Silva AJ, Golshani P, Basso MA, Blair HT, Aharoni D"
+  venue: Science Advances
+  year: 2023
+  date: "April 2023"
+  doi: 10.1126/sciadv.adg3918
+
+- type: article
+  title: "A hardware system for real-time decoding of in vivo calcium imaging data"
+  authors: "Chen Z, Blair GJ, Guo C, Zhou J, Romero-Sosa JL, Izquierdo A, Golshani P, Cong J, Aharoni D, Blair HT"
+  venue: eLife
+  year: 2023
+  date: "January 2023"
+  doi: 10.7554/eLife.78344
+
+- type: article
+  title: "BehaviorDEPOT is a simple, flexible tool for automated behavioral detection based on markerless pose tracking"
+  authors: "Gabriel CJ, Zeidler Z, Jin B, Guo C, Goodpaster CM, Kashay AQ, Wu A, Delaney M, Cheung J, DiFazio LE, Sharpe MJ, Aharoni D, Wilke SA, DeNardo LA"
+  venue: eLife
+  year: 2022
+  date: "August 2022"
+  doi: 10.7554/eLife.74314
+
+- type: article
+  title: "Minian, an open-source miniscope analysis pipeline"
+  authors: "Dong Z, Mau W, Feng Y, Pennington ZT, Chen L, Zaki Y, Rajan K, Shuman T, Aharoni D†, Cai DJ†"
+  venue: eLife
+  year: 2022
+  date: "June 2022"
+  doi: 10.7554/eLife.70661
+
+- type: article
+  title: "Breakdown of spatial coding and interneuron synchronization in epileptic mice"
+  authors: "Shuman T*, Aharoni D*, Cai DJ*, Lee CR, Chavlis S, Page-Harley L, Vetere LM, Feng Y, Yang CY, Mollinedo-Gajate I, Chen L, Pennington ZT, Taxidis J, Flores SE, Cheng K, Javaherian M, Kaba CC, Rao N, La-Vu M, Pandi I, Shtrahman M, Bakhurin KI, Masmanidis SC, Khakh BS, Poirazi P, Silva AJ, Golshani P"
+  venue: Nature Neuroscience
+  year: 2020
+  date: "January 2020"
+  doi: 10.1038/s41593-019-0559-0
+
+- type: article
+  title: "High-speed volumetric imaging of neuronal activity in freely moving rodents"
+  authors: "Skocek O*, Nöbauer T*, Weilguny L, Martínez Traub F, Xia CN, Molodtsov MI, Grama A, Yamagata M, Aharoni D, Cox DD, Golshani P, Vaziri A"
+  venue: Nature Methods
+  year: 2018
+  date: "May 2018"
+  doi: 10.1038/s41592-018-0008-0
+
+- type: article
+  title: "A shared neural ensemble links distinct contextual memories encoded close in time"
+  authors: "Cai DJ*, Aharoni D*, Shuman T*, Shobe J, Biane J, Song W, Wei B, Veshkini M, La-Vu M, Lou J, Flores SE, Kim I, Sano Y, Zhou M, Baumgaertel K, Lavi A, Kamata M, Tuszynski M, Mayford M, Golshani P, Silva AJ"
+  venue: "Nature, 534(7605)"
+  year: 2016
+  date: "May 2016"
+  doi: 10.1038/nature17955
+
+- type: article
+  title: "Multifocal fluorescence microscope for fast optical recordings of neuronal action potentials"
+  authors: "Shtrahman M, Aharoni D, Hardy NF, Buonomano DV, Arisaka K, Otis TS"
+  venue: "Biophysical Journal, 108(3)"
+  year: 2015
+  date: "February 2015"
+  doi: 10.1016/j.bpj.2014.12.005
+
+- type: article
+  title: "Multisensory control of multimodal behavior: do the legs know what the tongue is doing?"
+  authors: "Cushman JD*, Aharoni D*, Willers B, Ravassard P, Kees A, Vuong C, Popeney B, Arisaka K, Mehta MR"
+  venue: "PLOS ONE, 8(11)"
+  year: 2013
+  date: "November 2013"
+  doi: 10.1371/journal.pone.0080465
+
+- type: article
+  title: "Multisensory control of hippocampal spatiotemporal selectivity"
+  authors: "Ravassard P*, Kees A*, Willers B*, Ho D, Aharoni D, Cushman JD, Aghajan ZM, Mehta MR"
+  venue: "Science, 340(6138)"
+  year: 2013
+  date: "May 2013"
+  doi: 10.1126/science.1232655
+
+- type: article
+  title: "Development of new photon-counting detectors for single-molecule fluorescence microscopy"
+  authors: "Michalet X, Colyer RA, Scalia G, Ingargiola A, Lin R, Millaud JE, Weiss S, Siegmund OHW, Tremsin AS, Vallerga JV, Cheng A, Levi M, Aharoni D, Arisaka K, Villa F, Guerrieri F, Panzeri F, Rech I, Gulinatti A, Zappa F, Ghioni M, Cova S"
+  venue: "Philosophical Transactions of the Royal Society B, 368(1611)"
+  year: 2013
+  date: "February 2013"
+  doi: 10.1098/rstb.2012.0035
+
+- type: article
+  title: "Characterization of the Quartz Photon Intensifying Detector (QUPID) for noble liquid detectors"
+  authors: "Teymourian A, Aharoni D, Baudis L, Beltrame P, Brown E, Cline D, Ferella AD, Fukasawa A, Lam CW, Lim T, Meng Y, Muramatsu S, Pantic E, Suyama M, Wang H, Arisaka K"
+  venue: "Nuclear Instruments and Methods in Physics Research A, 654(1)"
+  year: 2011
+  date: "2011"
+  doi: 10.1016/j.nima.2011.07.015
+
+- type: article
+  title: "XAX: a multi-ton, multi-target detection system for dark matter, double beta decay, and pp solar neutrinos"
+  authors: "Arisaka K, Wang H, Smith PF, Cline D, Teymourian A, Brown E, Ooi W, Aharoni D, Lam CW, Lung K, Davies S, Price M"
+  venue: "Astroparticle Physics, 31(2)"
+  year: 2009
+  date: "2009"
+  doi: 10.1016/j.astropartphys.2008.11.007
+
+# ---- Preprints -------------------------------------------------------------
+
+- type: preprint
+  title: "STIMscope: centimeter-scale all-optical imaging and patterned optogenetic manipulation at single-cell resolution"
+  authors: "Chorsi H, Soldado-Magraner S, Jin Y, Soltanalipouryekesammak I, Zheng A, Markovic D, Geschwind DH, Golshani P, Buonomano DV, Aharoni D"
+  venue: bioRxiv
+  year: 2026
+  date: "May 2026"
+  doi: 10.64898/2026.05.27.728160
+
+# ---- Reviews, editorials, and chapters -------------------------------------
+
+- type: review
+  title: "Designing an open-source microscope"
+  authors: "Aharoni D"
+  venue: The Transmitter
+  year: 2024
+  date: "2024"
+  doi: 10.53053/HWXJ2956
+
+- type: review
+  title: "Special Section Guest Editorial: Open-source neurophotonic tools for neuroscience"
+  authors: "Kodandaramaiah SB, Aharoni D, Gibson EA"
+  venue: "Neurophotonics, 11(3)"
+  year: 2024
+  date: "September 2024"
+  doi: 10.1117/1.NPh.11.3.034301
+
+- type: review
+  title: "Miniaturized microscopy as a tool to track neuronal population dynamics in epilepsy models"
+  authors: "Aharoni D, Golshani P"
+  venue: "Book chapter in Engel J (ed.), Epilepsy: A Comprehensive Textbook"
+  year: 2023
+  date: "2023"
+
+- type: review
+  title: "Circuit investigations with open-source miniaturized microscopes: past, present and future"
+  authors: "Aharoni D, Hoogland TM"
+  venue: Frontiers in Cellular Neuroscience
+  year: 2019
+  date: "March 2019"
+  doi: 10.3389/fncel.2019.00141
+
+- type: review
+  title: "All the light that we can see: a new era in miniaturized microscopy"
+  authors: "Aharoni D, Khakh BS, Silva AJ, Golshani P"
+  venue: Nature Methods
+  year: 2018
+  date: "December 2018"
+  doi: 10.1038/s41592-018-0266-x
+
+# ---- Conference proceedings ------------------------------------------------
+
+- type: proceedings
+  title: "Wireless power transfer for neural recording devices in freely behaving animals: current solutions and future directions"
+  authors: "Aharoni D, Brosch M, Sasatani T"
+  venue: "Proc. SPIE 13889, Optical Power Delivery II, 9–13"
+  year: 2026
+  date: "January 2026"
+
+- type: proceedings
+  title: "All-optical network-scale neural imaging and optogenetic control at neuronal resolution"
+  authors: "Chorsi H, Soldado-Magraner S, Jin Y, Golshani P, Buonomano DV, Aharoni D"
+  venue: "Optics and the Brain, BS1A.3"
+  year: 2026
+  date: "2026"
+
+- type: proceedings
+  title: "STIMscope: an open-source real-time imaging and patterned illumination framework"
+  authors: "Chorsi H, Soldado-Magraner S, Lu L, Dan Y, Buonomano DV, Aharoni D"
+  venue: "European Conference on Biomedical Optics (ECBO), W1C.2"
+  year: 2025
+  date: "2025"
+
+- type: proceedings
+  title: "Introducing the STIMscope: an open-source platform for large field-of-view spatiotemporal imaging and patterned illumination"
+  authors: "Chorsi HT, Soldado-Magraner S, Sangiuliano Jimka FN, Buonomano DV, Markovic D, Aharoni D"
+  venue: "Proc. SPIE Optics + Photonics"
+  year: 2024
+  date: "2024"
+
+- type: proceedings
+  title: "High-throughput single-molecule fluorescence spectroscopy using parallel detection"
+  authors: "Michalet X, Colyer RA, Scalia G, Kim T, Levi M, Aharoni D, Cheng A, Guerrieri F, Arisaka K, Millaud J, Rech I, Resnati D, Marangoni S, Gulinatti A, Chioni M, Tisa S, Zappa F, Cova S, Weiss S"
+  venue: "Proc. SPIE 7608"
+  year: 2010
+  date: "2010"
+  doi: 10.1117/12.846784
+
+# ---- Patents ---------------------------------------------------------------
+
+- type: patent
+  title: "System and method for configurable miniature microscopy"
+  authors: "Aharoni D"
+  venue: "WO/2018/213255"
+  year: 2018
+  date: "2018"
+  url: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018213255
