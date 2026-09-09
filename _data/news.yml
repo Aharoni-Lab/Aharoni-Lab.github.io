@@ -1,0 +1,65 @@
+# Lab news, newest first. Rendered on the home page (latest few) and /News/.
+# Fields: date (YYYY-MM-DD), title, text (markdown ok), url (optional),
+# display (optional; overrides the formatted date, e.g. "2025" or "Summer 2026").
+
+- date: 2026-08-26
+  display: Summer 2026
+  title: 2026 Miniscope workshop program
+  text: As part of our NIH BRAIN Initiative U24 resource, the lab is running hands-on Miniscope workshops in 2026 at UCLA, in Paris, at Cold Spring Harbor Laboratory, and in the Research Triangle, alongside bi-weekly drop-in office hours on Zoom.
+  url: https://miniscope.org/wiki/Events
+
+- date: 2026-08-01
+  title: Miniscope DAQ Software v2 released
+  text: A major Qt 6 release of the acquisition software with a redesigned single-window interface, builds for Windows, macOS, and Linux, integrated commutator control, and more reliable recording.
+  url: https://miniscope.org/wiki/Launch_of_Miniscope_DAQ_Software_v2
+
+- date: 2026-06-16
+  title: Minian v2.0 released under the Miniscope GitHub organization
+  text: The Minian calcium imaging pipeline has moved to [github.com/miniscope/minian](https://github.com/miniscope/minian) and received its first major update since 2022 — PyPI packaging, a unified CLI, and ~12× faster motion estimation.
+  url: https://miniscope.org/wiki/Transfer_and_Modernization_of_Minian
+
+- date: 2026-05-28
+  title: STIMscope preprint posted on bioRxiv
+  text: "Chorsi et al. describe STIMscope: centimeter-scale all-optical imaging and patterned optogenetic manipulation at single-cell resolution."
+  url: https://doi.org/10.64898/2026.05.27.728160
+
+- date: 2026-05-26
+  title: A new miniscope.org
+  text: The Miniscope community and documentation platform relaunched on Labki, our open-source semantic-wiki framework. Guides, hardware and software projects, events, and a community forum now live in one place, and Daniel wrote about [why we are rebuilding the ecosystem's infrastructure](https://miniscope.org/wiki/Rebuilding_the_Miniscope_Infrastructure).
+  url: https://miniscope.org/wiki/Launch_of_the_New_Miniscope.org
+
+- date: 2026-04-15
+  display: April 2026
+  title: Congratulations, Dr. Raymond Chang!
+  text: Raymond defended his Ph.D. in Physics on streaming frameworks for scalable calcium imaging analysis and real-time neural computation.
+
+- date: 2026-01-28
+  title: Wireless power for neural recording devices at SPIE Photonics West
+  text: Daniel presented an invited review of wireless power transfer for neural recording devices in freely behaving animals (Aharoni, Brosch & Sasatani, *Proc. SPIE Optical Power Delivery II*).
+  url: /Publications/
+
+- date: 2025-09-01
+  display: September 2025
+  title: NIH BRAIN Initiative U24 award to sustain the Miniscope ecosystem
+  text: A five-year cooperative agreement (U24 NS144101, with Peyman Golshani) to rebuild the foundational infrastructure of the UCLA Miniscope Project — documentation, testing, training, and community support.
+
+- date: 2025-08-01
+  display: August 2025
+  title: Open-source miniature 2-photon microscopes in *Nature Communications*
+  text: Madruga et al. report high-performance, open-source miniature two-photon systems for freely behaving animals.
+  url: https://doi.org/10.1038/s41467-025-62534-y
+
+- date: 2025-07-01
+  display: 2025
+  title: Daniel promoted to Associate Professor and named Eleanor Leslie Chair in Innovative Brain Research
+
+- date: 2025-06-01
+  display: June–July 2025
+  title: Two new Miniscopes in *Science Advances*
+  text: MiniXL, a large field-of-view epifluorescence Miniscope for single-cell, multi-region imaging (Zhao, Guo et al.), and a dual-channel Miniscope for simultaneous two-color imaging (Dong et al.).
+  url: https://doi.org/10.1126/sciadv.ads4995
+
+- date: 2024-06-01
+  display: 2024
+  title: W. M. Keck Foundation Junior Faculty Award and CZI Collaborative Pairs Award
+  text: Support for a next-generation neural-behavioral recording platform and for collaborative work on sleep-dependent memory.

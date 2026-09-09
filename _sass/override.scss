@@ -3,3 +3,14 @@
         float: unset !important;
     }
 }
+
+.page__footer-lab {
+    font-size: 0.75em;
+    margin-top: 0.5em;
+    opacity: 0.8;
+}
+
+// Give interior page titles a little more presence now that they no longer sit on a hero image
+.page__title {
+    margin-top: 0.5em;
+}

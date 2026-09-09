@@ -1,32 +1,56 @@
+# Lab members. Each key is referenced from People/index.md via
+#   {% include person.html name='key' %}
+# Fields: name, role, department, focus (one-line research focus), email,
+# image (file in /People/), links (list of {icon, link}).
+# Keep alumni entries here too so they can be listed under "Alumni".
+
 daniel:
   name: Daniel Aharoni
-  department: Department of Neurology, UCLA
+  role: Principal Investigator
+  department: Associate Professor, Department of Neurology, UCLA
+  focus: Eleanor Leslie Chair in Innovative Brain Research. Affiliated faculty in Bioengineering, the Brain Research Institute, the Neuroscience Interdepartmental Program, and the Integrative Center for Learning and Memory. Ph.D. in Physics, UCLA.
   email: daharoni@mednet.ucla.edu
   image: DAharoni.jpg
   links:
     - icon: fa-brands fa-orcid
       link: https://orcid.org/0000-0003-4931-8514
-    - icon: fa-solid fa-house
-      link: https://aharoni-lab.com/
     - icon: fa-brands fa-github
       link: https://github.com/daharoni
     - icon: fa-brands fa-x-twitter
       link: https://twitter.com/DanielBAharoni
     - icon: fa-brands fa-mastodon
       link: https://neuromatch.social/@Daharoni
-      
-abasalt:
-  name: Abasalt Bahrami
-  department: Department of Neurology, UCLA
-  email: abasaltbahrami@mednet.ucla.edu
 
-federico:
-  name: Federico Sangiuliano Jimka
+# ---- Project Scientists ----------------------------------------------------
+
+samara:
+  name: Samara Miller-Hecht
+  role: Project Scientist
   department: Department of Neurology, UCLA
+  focus: Miniscope community training, workshops, and user support; hippocampal imaging during social behavior.
+
+# ---- Postdoctoral Fellows --------------------------------------------------
+
+marcel:
+  name: Marcel Brosch
+  role: Postdoctoral Fellow (2022–present)
+  department: Department of Neurology, UCLA
+  focus: Wireless power and data transfer for fully untethered Miniscopes; long-term neural recording in freely behaving animals.
+  email: MBrosch@mednet.ucla.edu
+  image: marcel.jpg
+  links:
+    - icon: fa-solid fa-house
+      link: https://marcelbrosch.com
+    - icon: fa-brands fa-linkedin
+      link: https://www.linkedin.com/in/marcel-brosch
+    - icon: fa-brands fa-google-scholar
+      link: https://scholar.google.com/citations?user=54OSLKgAAAAJ&hl=en
 
 jonny:
   name: Jonny Saunders
+  role: Postdoctoral Fellow (2023–present)
   department: Department of Neurology, UCLA
+  focus: Open-source software infrastructure for the Miniscope ecosystem — acquisition and streaming-analysis frameworks, data standards, and developer tooling.
   email: jommy@ucla.edu
   image: jonny.jpg
   links:
@@ -39,61 +63,47 @@ jonny:
     - icon: fa-brands fa-mastodon
       link: https://neuromatch.social/@jonny
 
-marcel:
-  name: Marcel Brosch
-  department: Department of Neurology, UCLA
-  email: MBrosch@mednet.ucla.edu
-  image: Marcel.JPG
-  links:
-    - icon: fa-solid fa-house
-      link: https://marcelbrosch.com
-    - icon: fa-brands fa-linkedin
-      link: https://www.linkedin.com/in/marcel-brosch
-    - icon: fa-brands fa-google-scholar
-      link: https://scholar.google.com/citations?user=54OSLKgAAAAJ&hl=en
-
-phil:
-  name: Phil Dong
-  department: Department of Neurology, UCLA
-  email: zdong@mednet.ucla.edu
-  image: phild.JPG
-
-
-yang:
-  name: Yang Liu
-  department: Electrical and Computer Engineering, UCLA
-  email: jgrasp20@ucla.edu
-
 hamid:
   name: Hamid Chorsi
-  department: Electrical and Computer Engineering, UCLA
+  role: Postdoctoral Fellow (2025–present; Ph.D. student in lab 2021–2025)
+  department: Department of Neurology, UCLA (Ph.D. Electrical and Computer Engineering, UCLA, 2025)
+  focus: STIMscope — an open-source platform for large field-of-view imaging with patterned optogenetic stimulation at single-cell resolution.
   email: hchorsi@ucla.edu
+
+krisha:
+  name: Krisha Aghi
+  role: Postdoctoral Fellow (2025–present)
+  department: Department of Neurology, UCLA
+  focus: Calcium imaging analysis methods, including spike inference and deconvolution benchmarking.
+
+# ---- Graduate Students -----------------------------------------------------
+
+federico:
+  name: Federico Sangiuliano Jimka
+  role: Graduate Student
+  department: Bioengineering, UCLA
+  focus: Next-generation Miniscope hardware and cross-platform data acquisition.
 
 hemal:
   name: Hemal Semwal
+  role: Graduate Student (2021–present) · DoD NDSEG Fellow
   department: Bioengineering, UCLA
+  focus: Miniature microscope hardware and firmware for long-term neural-behavioral recording.
   email: semwal@ucla.edu
 
-raymond:
-  name: Raymond Chang
-  department: Physics and Astronomy, UCLA
-  email: ray0815@ucla.edu
-  image: raymond_chang.jpg
-  links:
-    - icon: fa-brands fa-orcid
-      link: https://orcid.org/0000-0001-6644-5166
-    - icon: fa-brands fa-github
-      link: https://github.com/RaymondWJang
-    - icon: fa-brands fa-mastodon
-      link: https://neuromatch.social/@raymondwjang
+# ---- Alumni ----------------------------------------------------------------
 
 changliang:
   name: Changliang Guo
-  department: Former Postdoctoral Researcher, UCLA
-  
+  role: Postdoctoral Fellow, 2019–2021
+  department: Now faculty at Peking University
+  focus: Lead developer of Miniscope-LFOV.
+
 takuya:
   name: Takuya Sasatani
-  department: Former Postdoctoral Researcher, UCLA
+  role: Postdoctoral Fellow, 2022–2023
+  department: Now faculty at the University of Tokyo
+  focus: Wireless power for Miniscopes.
   image: takuya.jpg
   links:
     - icon: fa-solid fa-house
@@ -103,3 +113,39 @@ takuya:
     - icon: fa-brands fa-github
       link: https://github.com/t-sasatani
 
+phil:
+  name: Zhe (Phil) Dong
+  role: Postdoctoral Fellow, 2022–2025
+  department: Now in industry
+  focus: Lead developer of the Minian analysis pipeline and the dual-channel Miniscope.
+  image: phild.jpg
+
+abasalt:
+  name: Abasalt Bahrami
+  role: Postdoctoral Fellow, 2024–2025
+  department: Department of Neurology, UCLA
+  image: AbasaltBahrami.jpg
+
+raymond:
+  name: Raymond Chang
+  role: Ph.D. in Physics, UCLA, 2026
+  department: Now at Stripe
+  focus: Streaming calcium imaging analysis (cala / noob).
+  image: raymond_chang.jpg
+  links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0001-6644-5166
+    - icon: fa-brands fa-github
+      link: https://github.com/RaymondWJang
+
+yang:
+  name: Yang Liu
+  role: M.S. in Electrical and Computer Engineering, UCLA, 2025
+  department: Electrical and Computer Engineering, UCLA
+  image: YangAharoni.jpg
+
+aparajeeta:
+  name: Aparajeeta Guha
+  role: Graduate Student in lab, 2022–2023
+  department: Electrical and Computer Engineering, UCLA
+  image: AparajeetaAharoni.jpg

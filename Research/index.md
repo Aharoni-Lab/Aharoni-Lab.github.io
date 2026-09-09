@@ -2,49 +2,45 @@
 title: "Research"
 ---
 
-We are currently working on a range of projects aimed at addressing and overcoming fundamental hurdles in modern neuroscience. This often involves open-source tool/technique development that is directly driven by specific, open questions in neuroscience. We then use these novel tools in lab and in collaboration with other groups to investigate neurological function within the context of complex behavior. **Our research is open-source, highly collaborative and multi-disciplinary by nature.**
+We develop open-source tools that are directly driven by open questions in neuroscience, and then use those tools, in the lab and with collaborators, to study neural circuits in the context of natural, unconstrained behavior. Our research is **open source, highly collaborative, and multi-disciplinary by nature**, spanning optics, electronics, firmware, software, data analysis, and systems neuroscience.
 
-## Some research projects and areas of interest are outlined below
-### Long-term continuous neuro-behavioral recording and processing platforms for naturally behaving animals
-A major challenge in neuroscience is to uncover how defined neural circuits in the brain encode, store, modify, and retrieve information. Adding to this challenge is the fact that neural function does not operate in isolation from but rather within living, behaving animals. To tackle this challenge, significant advancement of neural, behavioral, and computational tools is needed along with new experimental approaches to enable the detailed study of neural circuits within the context of complex behavior and natural, ethologically relevant environments.
+## The UCLA Miniscope Project
 
-We aim to solve these challenges by developing a neuro-behavioral recording platform using a new generation of Miniscopes that are powered remotely and transmit data wirelessly. The increased optical sensitivity of these Miniscopes will allow for uninterrupted, long-term imaging of neural activity across a field-of-view 5 times the larger than other miniature microscopes currently available. Animals will live in natural environments where an array of behavioral devices, integrated through a central DAQ, tracks animal position/pose, extracts complex behavioral “syllables”, monitors events in the environment, and provides an interface for behavioral tasks. A computational framework is being developed to process the large stream of data in real-time. Processed data will be shared, as it is collected, through an open-access, timeseries database for further analysis.
+The [UCLA Miniscope Project](https://miniscope.org) is an open-source ecosystem for cellular-resolution fluorescence imaging in freely behaving animals: head-mounted microscopes, data acquisition hardware and software, analysis pipelines, and the documentation and training that hold a community together. Since the first open-source Miniscope, the platform has been adopted by more than 1,000 laboratories in 18+ countries and has contributed to more than 200 peer-reviewed publications ([see Impact](/Impact/)).
 
-### Long-term dynamics of CA1 pyramidal neurons
-Using the above neuro-behavioral recording platform, we are working towards recording months-long, continuous neural activity across thousands of neurons while animals engage in complex behaviors across naturalistic environments. Data collected here will allow us and others to investigate neural activity at unprecedented scales and within the context of complex, unconstrained behavior. We believe this approach will shed light into the spaces between what traditional approaches have given us so far: producing lifelong “movies”, rather than individual “snapshots”, of neural dynamics and behavior across time, space, and task and allow us to ask "what does the lifetime of a place cell look like".
+Through an NIH BRAIN Initiative U24 resource award (2025–2030, with Peyman Golshani), we are now rebuilding the foundations of that ecosystem so it can be sustained and extended by the community: integrated documentation and guides on [miniscope.org](https://miniscope.org), continuous integration and hardware-in-the-loop testing, modular firmware and software architectures, a Scientific Steering Group, and training at every level, from bi-weekly drop-in office hours to multi-day domestic and international workshops.
 
-### Spatio-Temporal Illumination Microscope (STIMscope)
-The study of neural dynamics, characterized by intricate spatial and temporal patterns, demands innovative approaches for comprehensive investigation. To address this need, we developed a novel, real-time closed-loop platform called the Spatio-Temporal Illumination Microscope (STIMscope). This system provides cellular-resolution, large field-of-view imaging and patterned stimulation in an open-source, customizable, and cost-effective package. A real-time synchronized control system enables seamless communication between all components, while custom firmware and a GPU-accelerated analysis pipeline ensure precise control and coordination. STIMscope’s versatile design supports a wide range of applications in neural imaging and neuromodulation, including studies in head-fixed mice and research in cell or tissue culture models.
+Related open-source software from the lab and the Miniscope organization includes [Minian](https://github.com/miniscope/minian) (calcium imaging analysis), [CaLab](https://github.com/miniscope/CaLab) (browser-based spike deconvolution: CaTune and CaDecon), [miniscope-io](https://github.com/Aharoni-Lab/miniscope-io) (acquisition and I/O), and [Labki](https://github.com/labki-org), the semantic-wiki framework behind miniscope.org.
 
-### miniSTIM
-Great technological advances over the past decades have allowed researchers to begin to optically measure and modulate neural activity but these approaches are often limited to head-fix animals when studying neural function at spatial and temporal scales relevant to internal neural circuit dynamics. While a great deal of scientific and technological progress has been made, there is still much to learn concerning complex neural function, especially within the context of natural behavior. This gap in knowledge, at least in part, is due to a lack of accessible tools for simultaneously modulating and observing large-scale neural circuits with single cell precision in freely behaving animals. This project will fill this gap by developing open-source, head-mounted miniature microscopes with spatiotemporal illumination capabilities for both patterned photo-stimulation and improved neural imaging in freely behaving animals. To maximize the impact of our efforts, all tools and technologies developed for this project will be open-source and shared widely with the scientific community through online resources and technical workshops.
+## Next-generation miniature microscopes
 
-### Place cell dynamics across techniques and animal species
-As neural imaging techniques in freely behaving animals advance, there are still open questions as to the source of place cell property differences across imaging and electrophysiological techniques in different animal species. Using an array of Miniscope and ephsy devices, we are working towards uncovering these differences and their sources. 
+**Wireless and wire-free Miniscopes.** Tethers constrain behavior and limit experiments to single animals in simple arenas. We have developed wire-free Miniscopes that record to onboard storage, and are building fully wireless systems in which both power and data are delivered without cables. This enables uninterrupted recording from naturally behaving animals in complex environments and in groups ([Aharoni, Brosch & Sasatani, SPIE 2026](/Publications/)).
 
-### Hippocampal dynamics during social interaction 
+**Large field-of-view and multi-region imaging.** [Miniscope-LFOV](https://doi.org/10.1126/sciadv.adg3918) brought single-cell resolution across a field of view many times larger than standard Miniscopes, in mice, rats, and non-human primates. [MiniXL](https://doi.org/10.1126/sciadv.ads4995) extends this to simultaneous imaging of multiple brain regions in mice, and a [dual-channel Miniscope](https://doi.org/10.1126/sciadv.adr6470) enables two-color imaging of distinct populations or indicators.
 
-### Additional new generations of minature microscopes
-Supported by the BRAIN Initiative and in collaboration with Dr. Michele Basso and Dr. Peyman Golshani, we are developing Miniscopes specifically for larger animal models such as rats, rhesus macaque monkeys, and marmosets. With the relaxed size and weight constrains that come with larger animal models, we are expanding the FOV to 30 times that of the standard Miniscope and incorporating optional wire-free data acquisition.
+**Miniature two-photon microscopy.** With the Golshani lab, we developed [open-source miniature 2-photon systems](https://doi.org/10.1038/s41467-025-62534-y) that bring optical sectioning and deeper imaging to freely behaving animals.
 
-Additional tools under development are:
-* Large FOV Miniscope for mice
-* Dual excitation Miniscope for multi-channel imaging and single channel imaging plus optogenetic stimulation
-* Electrophysiology integrated Miniscopes
-* Wireless Miniscopes
+**Patterned illumination and all-optical interrogation.** [STIMscope](https://doi.org/10.64898/2026.05.27.728160) is an open-source, real-time platform for centimeter-scale imaging combined with patterned optogenetic stimulation at single-cell resolution, built around a GPU-accelerated closed-loop pipeline. We are extending the same spatiotemporal-illumination approach to head-mounted Miniscopes (MiniSTIM), for simultaneous imaging and targeted manipulation of neural circuits in freely behaving animals, and to next-generation standard Miniscopes that use patterned excitation to reduce photobleaching during long recordings.
 
-### Integrating neural and behavior recording
-* [Next Gen Miniscopes](https://github.com/Aharoni-Lab/Miniscope-v4)
-* [Miniscope DAQ Software](https://github.com/Aharoni-Lab/Miniscope-DAQ-QT-Software)
-* [MiniCAM](https://github.com/Aharoni-Lab/MiniCAM)
+## Real-time and long-term recording
 
-### NSF NeuroNex Hub
-Supported by our NSF NeuroNex Technology Hub, we are developing new Miniscopes that integrate electrophysiology recording in parallel with imaging. We currently are able to recording 32 electrode channels (with Tetrodes and/or Silicon probes) in conjunction with calcium imaging and are working on systems capable of reaching upwards of 192 electrode channels. As part of this project we are also designing a module capable of light-field microscopy and hardware for real-time processing of imaging data to drive optogenetic, electrical, and behavioral feedback.
+A central goal of the lab is to move from *snapshots* of neural activity to *movies* that span weeks to months. That requires hardware that can run continuously, and analysis that keeps up with the data. We build [hardware for real-time decoding of calcium imaging](https://doi.org/10.7554/eLife.78344) and streaming analysis frameworks that process imaging data frame-by-frame, so that arbitrarily long recordings can be analyzed on modest computers and used to drive closed-loop experiments. Together with wireless Miniscopes and integrated behavioral tracking, these form a neuro-behavioral recording platform for naturalistic environments.
 
+## Neural circuits in naturalistic behavior
 
-<p float="center">
-  <img src="New Innovator Logo.PNG" width="200" />
-  <img src="nih-brain.png" width="200" /> 
-  <img src="neuronex-logo-bright-green.png" width="200" />
-  <img src="open_science_prize.png" width="200" />
-</p>
+We use these tools to ask how hippocampal and cortical circuits encode and update information over long timescales and during complex behavior:
+
+* **Memory and spatial coding.** How place cells [remap with memory storage of aversive experiences](https://doi.org/10.7554/eLife.80661), how [spatial coding breaks down in epilepsy](https://doi.org/10.1038/s41593-019-0559-0), and how [shared neural ensembles link memories](https://doi.org/10.1038/nature17955) encoded close in time.
+* **Social behavior.** [Correlated signatures of social behavior](https://doi.org/10.7554/eLife.88439.3) in cerebellum and anterior cingulate cortex, and how social representations evolve in striatal circuits.
+* **Lifetime of a place cell.** Months-long, continuous imaging of thousands of neurons while animals live in enriched, naturalistic environments — what does the life of a place cell look like?
+
+## Funding
+
+Our work is supported by the National Institutes of Health, including the NIH Director's New Innovator Award (DP2 MH129986), the BRAIN Initiative (U24 NS144101, U01 NS126050, U01 NS128664, R01 NS147959), and NIMH (R01 MH131858, R01 MH137527, RM1 MH132651); by the W. M. Keck Foundation, the Chan Zuckerberg Initiative, the Eleanor Leslie Chair in Innovative Brain Research, and previously the NSF NeuroNex program and the Neuro Open Science in Action Prize.
+
+<div class="funder-logos">
+  <img src="nih-brain.png" alt="NIH BRAIN Initiative" />
+  <img src="new-innovator-logo.png" alt="NIH Director's New Innovator Award" />
+  <img src="neuronex-logo-bright-green.png" alt="NSF NeuroNex" />
+  <img src="open_science_prize.png" alt="Neuro Open Science in Action Prize" />
+</div>

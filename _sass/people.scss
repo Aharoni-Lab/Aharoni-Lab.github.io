@@ -6,19 +6,34 @@
 	align-items: center;
 	margin: 0 0 2em 0;
 
-
 	.details {
 		display: flex;
 		flex-direction: column;
+		flex: 1 1 20em;
 		margin: auto 0;
-		
+
 		.name {
 			margin: 0;
+		}
+
+		.role {
+			font-weight: bold;
+			color: $accent-color;
+		}
+
+		.department {
+			color: mix($text-color, $accent-color, 70%);
+		}
+
+		.focus {
+			font-size: 0.9em;
+			margin-top: 0.4em;
 		}
 
 		.link-icon {
 			font-size: 1.5em;
 			text-decoration: none;
+			margin-right: 0.35em;
 
 			&:hover {
 				text-decoration: none;
@@ -28,11 +43,10 @@
 		p {
 			margin: 0;
 		}
-
 	}
 
 	.portrait {
 		max-height: 175px;
-	}	
-
+		border-radius: 6px;
+	}
 }

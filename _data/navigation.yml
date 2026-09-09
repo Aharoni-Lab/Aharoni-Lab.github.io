@@ -1,25 +1,15 @@
 main:
-  - title: "People"
-    url: /People/
   - title: "Research"
     url: /Research/
+  - title: "People"
+    url: /People/
   - title: "Publications"
     url: /Publications/
-  - title: "Philosophy"
-    url: /Philosophy/
+  - title: "News"
+    url: /News/
   - title: "Impact"
     url: /Impact/
+  - title: "Philosophy"
+    url: /Philosophy/
   - title: "Join"
     url: /Join/
-
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
