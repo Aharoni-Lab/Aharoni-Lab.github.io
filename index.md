@@ -64,7 +64,7 @@ We use these tools, in the lab and with collaborators, to study how hippocampal 
 * [miniscope.org](https://miniscope.org): documentation, guides, events, and community forum
 * [Drop-in office hours](https://miniscope.org/wiki/Events), every other Friday on Zoom
 * GitHub: [Aharoni-Lab](https://github.com/Aharoni-Lab) · [miniscope](https://github.com/miniscope)
-* [Daniel on Mastodon](https://neuromatch.social/@Daharoni) · [X](https://twitter.com/DanielBAharoni)
+* [Daniel on Bluesky](https://bsky.app/profile/danielaharoni.bsky.social)
 * [daharoni@mednet.ucla.edu](mailto:daharoni@mednet.ucla.edu)
 </aside>
 </div>
