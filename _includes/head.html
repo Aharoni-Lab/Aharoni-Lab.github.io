@@ -17,7 +17,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 <link rel="preload" href="{{ '/assets/css/fontawesome.min.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" href="{{ '/assets/css/solid.min.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" href="{{ '/assets/css/brands.min.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
