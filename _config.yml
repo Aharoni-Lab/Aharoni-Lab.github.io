@@ -89,7 +89,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : DanielBAharoni
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -146,12 +146,9 @@ footer:
     - label: "Miniscope.org"
       icon: "fas fa-fw fa-microscope"
       url: https://miniscope.org
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: https://neuromatch.social/@Daharoni
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: https://twitter.com/DanielBAharoni
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/danielaharoni.bsky.social
 
 
 # Reading Files

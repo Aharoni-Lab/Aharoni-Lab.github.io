@@ -16,10 +16,8 @@ daniel:
       link: https://orcid.org/0000-0003-4931-8514
     - icon: fa-brands fa-github
       link: https://github.com/daharoni
-    - icon: fa-brands fa-x-twitter
-      link: https://twitter.com/DanielBAharoni
-    - icon: fa-brands fa-mastodon
-      link: https://neuromatch.social/@Daharoni
+    - icon: fa-brands fa-bluesky
+      link: https://bsky.app/profile/danielaharoni.bsky.social
 
 # ---- Project Scientists ----------------------------------------------------
 
