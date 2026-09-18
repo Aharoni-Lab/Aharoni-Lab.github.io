@@ -61,13 +61,6 @@ jonny:
     - icon: fa-brands fa-mastodon
       link: https://neuromatch.social/@jonny
 
-hamid:
-  name: Hamid Chorsi
-  role: Postdoctoral Fellow (2025–present; Ph.D. student in lab 2021–2025)
-  department: Department of Neurology, UCLA (Ph.D. Electrical and Computer Engineering, UCLA, 2025)
-  focus: STIMscope — an open-source platform for large field-of-view imaging with patterned optogenetic stimulation at single-cell resolution.
-  email: hchorsi@ucla.edu
-
 krisha:
   name: Krisha Aghi
   role: Postdoctoral Fellow (2025–present)
@@ -135,6 +128,12 @@ raymond:
       link: https://orcid.org/0000-0001-6644-5166
     - icon: fa-brands fa-github
       link: https://github.com/RaymondWJang
+
+hamid:
+  name: Hamid Chorsi
+  role: Ph.D. in Electrical and Computer Engineering, UCLA, 2025
+  department: Electrical and Computer Engineering, UCLA
+  focus: STIMscope — an open-source platform for large field-of-view imaging with patterned optogenetic stimulation at single-cell resolution.
 
 yang:
   name: Yang Liu
