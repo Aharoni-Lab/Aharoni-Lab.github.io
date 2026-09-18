@@ -16,8 +16,6 @@ title: "Lab Members"
 
 {% include person.html name='jonny' %}
 
-{% include person.html name='hamid' %}
-
 {% include person.html name='krisha' %}
 
 ## Graduate Students
@@ -29,6 +27,8 @@ title: "Lab Members"
 ## Alumni
 
 {% include person.html name='raymond' %}
+
+{% include person.html name='hamid' %}
 
 {% include person.html name='phil' %}
 
